@@ -1,0 +1,21 @@
+{
+  "kind": "journal",
+  "key": "journal/wind-down-for-sleep",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-wind-down-for-sleep",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — nomenclature conventions followed for the two classical points named in this ritual.",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — point-name traditions, channel pathways, and general classical context consulted for framing.",
+    "aijiu-mpvue (MIT License) licensed dataset — recorded indications for HT7 Shenmen and KI1 Yongquan consulted while drafting."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-09-28T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

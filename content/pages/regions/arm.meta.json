@@ -1,0 +1,21 @@
+{
+  "kind": "region",
+  "key": "region/arm",
+  "authorship": {
+    "authoredBy": "piper-author-arm-hub",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — location conventions followed for the region’s catalogued points.",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — classical channel arrangement, point classes, and general associations consulted for framing.",
+    "aijiu-mpvue (MIT License), licensed dataset — point identities, categories, and recorded indications underlying this overview."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-08-26T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

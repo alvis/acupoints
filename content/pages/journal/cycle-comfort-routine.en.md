@@ -1,0 +1,69 @@
+---
+schema: 'acupoints-prose-v1'
+kind: 'journal'
+key: 'journal/cycle-comfort-routine'
+locale: 'en'
+title: 'Cycle Comfort: A Period-Pain Routine at Home'
+faqs:
+  - q: 'Can I go through this routine during my period itself?'
+    a: 'For healthy adults who are not pregnant, gentle surface pressure is generally reasonable at any stage of the cycle. Bear in mind that the heaviest days leave skin and mood tenderer alike, and let the session shrink to a few quiet minutes if that serves the day better. Every standing stop rule applies as usual: nothing sharp, nothing over broken skin, and an immediate halt on electric or radiating sensation.'
+  - q: 'How long, and how often, should I press?'
+    a: 'About half a minute to a minute per side, once or twice a day on the days you want it, covers everything home practice needs. More frequent or firmer work buys soreness, not benefit. If a point feels unusually tender one day, shorten the hold or skip it altogether; the points will still be there next month.'
+  - q: 'Why is Sanyinjiao excluded so absolutely during pregnancy?'
+    a: 'Tradition describes it as a strongly downward-moving point, and older practice associated it with matters around childbirth itself. The licensed record accordingly carries a categorical warning, and home practice has no way to calibrate a safe quantity against a caution written that plainly. The responsible reading is simple: anyone pregnant leaves the point unused, and anyone who could be pregnant consults a qualified practitioner first. Meanwhile, the tradition offers plenty of other ways to be kind to yourself.'
+  - q: 'Do I need to buy anything for this routine?'
+    a: 'Nothing at all. Hands, a quiet corner, and a little time are the entire kit; a covered hot water bottle is a welcome optional guest, not equipment. These two points are close enough to the surface that tools add nothing, and hard edges have no place in the practice in any case. If your thumbs tire, lean your supported weight instead of squeezing, or switch hands — gentleness travels further than strength here.'
+  - q: 'My period pain disrupts my life every single month — is this routine enough for me?'
+    a: 'It is not, and no honest guide would pretend otherwise. Recurring pain that regularly interrupts study, work, or sleep deserves medical investigation for underlying causes, which are often treatable once found. Think of this routine as a companion to that process — something kind for difficult evenings — never its substitute, and bring the pattern you have noticed along to the appointment. A patient’s own observations are genuinely useful material for a clinician.'
+selfCareLimits: 'Educational only — fingers on skin, never needles. Skip broken or irritated skin, stop at once on sharp, electric, or radiating sensation, and leave Sanyinjiao (SP6) unused entirely during pregnancy; ask a qualified practitioner first whenever pregnancy is possible. Persistent symptoms belong with a licensed practitioner — Western medicine or East Asian medicine, whichever suits the complaint.'
+---
+
+When period pain arrives, most of us want two things at once: something kind to do with an evening, and honesty about what that evening can and cannot change. This guide offers a quiet at-home routine — warmth, slowed breathing, and two well-recorded classical points, Sanyinjiao (SP6) and Taichong (LV3) — together with the boundaries that keep home practice honest.
+
+## First, the Question Behind the Search {#first-the-question}
+
+Can anything done at home really matter when period pain settles in? It is the right place to begin, and the honest answer has two halves. No routine of palms and fingertips can promise to soften a cramp on demand, and nothing in this guide explains why a particular cycle hurts. What a home practice can offer is smaller and real: warmth applied on purpose, breathing slowed on purpose, ten or fifteen minutes of undivided attention paid to a body that is working hard — company for difficult hours rather than a remedy aimed at them. On the right sort of day, plenty of readers find that company alone is not nothing.
+
+This guide gathers such a practice into one repeatable routine. Everything in it uses two points already documented in depth elsewhere on this site; their catalogue pages carry plates, locating notes, and the recorded cautions behind every line here. The framing throughout is traditional: we describe what East Asian medicine reached for across centuries of practice, not outcomes any particular session will deliver. Read it as a companion piece to those point pages — the map, the method, and the manners of stopping, assembled for the specific week when you want them close at hand.
+
+## Begin by Knowing Your Own Pattern {#know-your-own-rhythm}
+
+Cyclical period pain usually keeps a familiar signature: a dull, dragging heaviness low in the belly, or a rhythmic gripping through the first day or two of a bleed, sometimes climbing toward the lower back or reaching down the inner thighs. As the flow settles, the ache typically ebbs alongside it. Familiarity is itself useful information — it teaches you what an ordinary month feels like in your body, and therefore what counts as different. That difference matters more than any technique in this guide, and the closing section takes it seriously.
+
+Everything below is written for an adult who knows their own monthly rhythm and is living through one of its ordinary, uncomfortable editions. That is everyday-comfort territory, not diagnosis. Pain that is brand new, sharply unlike its usual character, anchored stubbornly to one side, or far heavier than usual steps outside self-care altogether; so does any cycle change that simply worries you. Those situations belong with professional assessment, whatever the calendar says — this routine asks to accompany familiar days, never to stand in for judgement about strange ones.
+
+## What Traditional Practice Reached For {#what-tradition-reached-for}
+
+Classical writers read menstrual discomfort through images of movement. Qi and blood were pictured travelling their courses freely; when that movement turned sluggish or constrained, the lower abdomen was where the stillness announced itself — helped toward trouble, in the old framing, when cold gathered near the womb. The recorded responses follow from the image: warmth, rest, and points along the channels that rise from the foot, climb the inner leg, and sweep past the lower abdomen, chosen in the hope of encouraging what tradition calls the free movement of qi and blood.
+
+Within the licensed dataset behind this site, two names recur around this concern, and both anchor the routine below. Sanyinjiao (SP6) sits on the inner calf, where the spleen, liver, and kidney channels are said to cross — a meeting the point wears in its very name. Taichong (LV3) rests on the top of the foot, the source point where the liver channel’s own vitality was thought to gather closest to the surface. Alongside them stands local care for the lower abdomen itself: warmth and a gentle resting palm rather than any deep working. These pairings report what historical practice reached for; they are not statements about results, and the point pages behind them carry the precise records.
+
+## Finding Sanyinjiao (SP6) {#finding-sanyinjiao}
+
+Sit comfortably and bring one leg within easy reach. Park a fingertip on the tip of the inner ankle bone, the small knob at the lower end of the shinbone. Stack the four fingers of your other hand together directly above that knob — held at their widest, the four span roughly three cun, the body-proportional measure this literature favours — and note where the top of the stack crosses the leg. Now slide horizontally backwards until your finger meets the hard inner edge of the shinbone, and settle into the soft groove immediately behind it. A faint, spreading dullness quite unlike the silence of nearby tissue usually confirms the spot. Repeat the search on the other leg, unhurried.
+
+One warning travels with this point wherever it appears, and this guide repeats it without softening: pregnancy rules Sanyinjiao out entirely. The licensed record cautions that stimulating this crossing of three channels may induce miscarriage, and home practice inherits the categorical version of that sentence — anyone pregnant leaves the point alone, not lighter and not shorter, until after the birth. Anyone trying to conceive, or for whom pregnancy is possible, asks a qualified practitioner before adding it to anything. Away from pregnancy, expect a distinct achiness under the pad; ease in gradually, let the tenderness set the pace, and prefer patience to pressure.
+
+## Finding Taichong (LV3) {#finding-taichong}
+
+Taichong asks for no arithmetic at all — it is found entirely by feel. Lay the index finger of one hand in the web between the big toe and the second toe, then walk it slowly backwards, toward the ankle, along the shallow valley between the two long bones that back those toes. The valley climbs a gentle slope; partway along, its walls widen, rise, and fuse into a firm bony ridge. The hollow immediately on the toe side of that ridge, between the shafts, is Taichong. Firm bone greeting the finger on both sides confirms the valley. Some people notice a soft beat under a resting pad — an artery crosses nearby — and the beat is a landmark, not a target: drift slightly toward the ridge and lighten until it quiets.
+
+The terrain forgives beginners, and the record attaches no special cautions to this point. Its pregnancy note is milder than Sanyinjiao’s but worth reading in full: brief, gentle contact is considered generally acceptable, yet the tradition calls this a strongly moving point — so anyone pregnant leaves this point out of the routine as written, and any contact with it at all, however light or brief, waits for a qualified practitioner’s go-ahead first. For everyone else, a patient hold in the hollow — pads, never nails or tools — is the whole art.
+
+## The Routine, Step by Step {#the-evening-routine}
+
+Pick a quiet evening, a warm room, and hands that have lost their chill. Begin at the lower abdomen: rest a warm palm flat over it, breathe slowly, and trace unhurried circles for a few minutes. A covered hot water bottle belongs to the same family of comforts, and many people like to alternate palm and bottle. Then move to the points. Settle a finger pad on Sanyinjiao and let the pressure grow across several breaths until it is distinct but comfortable — meaningful contact, nowhere near pain — and hold for about half a minute to a minute. Give the other leg its turn, then treat Taichong the same way on each foot. Release gradually rather than abruptly, and finish by simply resting a hand wherever it felt kindest.
+
+On uncomfortable days, once or twice through the whole sequence is plenty; home practice rewards steadiness and gentleness far more than enthusiasm. The stop rules are short and absolute. Anything sharp, electric, or travelling outward along the limb ends the session at once. Pressure that sharpens cramps instead of soothing them sends the leg points back to the shelf — keep the belly’s warmth if that still feels kind. Broken, irritated, or infected skin closes a point until it heals. Feverish illness shelves the entire routine. And pregnancy rewrites everything: Sanyinjiao goes unused entirely, and any new point practice waits for a qualified practitioner’s go-ahead first.
+
+## Warm Habits, Honest Expectations {#honest-expectations}
+
+Traditional seasonal advice for the days of flow was homely, and much of it survives translation intact: keep the lower abdomen warm, rest while the flow is heaviest, favour warm food and drink, and spend the rest of the month building steadier sleep and gentler movement so that a period does not arrive onto exhaustion. Modern life supplies its own versions — heat packs, easy walks, quieter evenings — and many people find them comforting with or without any theory attached. None of it amounts to a prescription, and none of it promises prevention.
+
+Where modern research touches self-applied pressure at all, reviews suggest effects are modest and context-dependent, falling far short of what a treatment claim would require. What survives scrutiny regardless is smaller and real: a few minutes of deliberate warmth, slowed breathing, and undivided attention are genuinely worth having on a hard day, whoever you are and whatever the theory. Hold the routine in that register — companionship for a demanding couple of days — and it rarely disappoints; hold it as therapy, and it almost certainly will.
+
+## Where Self-Care Stops {#where-self-care-stops}
+
+Some signals outrank any amount of pressing. Pain abruptly harsher than your usual; pain accompanied by fever or vomiting; pain anchored stubbornly to one side; marked abdominal pain whenever pregnancy is even possible; bleeding unusually heavy or prolonged, or arriving between periods; dizziness or fainting — each calls for a doctor’s assessment promptly, however inconvenient the timing. So does pain that stops following its familiar monthly script. Urgency speaks its own language; let a professional translate it.
+
+Two groups should walk past this guide towards something better fitted. First, anyone whose periods interrupt school, work, or ordinary life month after month: recurring pain that disruptive deserves a clinician’s search for underlying causes, many of which respond well once identified. Second, anyone hoping this article can diagnose: it cannot. What it offers is cultural context, two well-recorded points, and a calm, repeatable ritual — company for familiar, manageable days. Persistent symptoms belong with a licensed practitioner — Western medicine or East Asian medicine, whichever suits the complaint.

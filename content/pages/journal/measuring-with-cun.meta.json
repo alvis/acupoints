@@ -1,0 +1,21 @@
+{
+  "kind": "journal",
+  "key": "journal/measuring-with-cun",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-measuring-with-cun",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region — reference for the standardised names and proportional locations of the points demonstrated in this guide.",
+    "A Manual of Acupuncture (Deadman) — background on the cun system, the finger measures, and the classical bone-length method of point location.",
+    "aijiu-mpvue (MIT License) dataset — recorded point locations and indications consulted while drafting."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-08-31T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

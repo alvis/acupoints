@@ -1,0 +1,21 @@
+{
+  "kind": "meridian",
+  "key": "meridian/spleen",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-spleen-hub",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "aijiu-mpvue (MIT License) — licensed composite dataset consulted for point identities, names, and recorded indications along the channel.",
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — nomenclature conventions followed for the channel’s point names and codes.",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — classical pathway descriptions, point classes, and general associations consulted for framing."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-08-26T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

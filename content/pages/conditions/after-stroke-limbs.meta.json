@@ -1,0 +1,27 @@
+{
+  "kind": "condition",
+  "key": "condition/after-stroke-limbs",
+  "authorship": {
+    "authoredBy": "editorial-after-stroke-limbs-hub",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-10-21T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — landmark descriptions followed for jianjing (GB21), quchi (LI11), waiguan (TH5), hegu (LI4), yanglingquan (GB34), weizhong (BL40), and xuanzhong (GB39).",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — point categories, name glosses, and general framing of wind-stroke and the weak limbs consulted for context.",
+    "aijiu-mpvue (MIT License), licensed dataset — recorded indications and cautions underlying the seven point identities.",
+    "China Association of Chinese Medicine, TCM nursing protocols for stroke and 12 other conditions (2026 edition), stroke recovery-stage section — https://www.cacm.org.cn/wp-content/uploads/2026/09/%E9%99%84%E4%BB%B61.-%E4%B8%AD%E9%A3%8E%E7%AD%8913%E4%B8%AA%E7%97%85%E7%A7%8D%E4%B8%AD%E5%8C%BB%E6%8A%A4%E7%90%86%E6%96%B9%E6%A1%88%EF%BC%882026%E5%B9%B4%E7%89%88%EF%BC%89%E5%85%A8%E6%96%87.pdf",
+    "TCM rehabilitation clinical practice guideline: ischaemic stroke (cerebral infarction), Rehabilitation Medicine 2021;31(6):437–447 — https://doi.org/10.3724/SP.J.1329.2021.06001",
+    "Xie Y et al. Efficacy of meridian massage for motor function after a stroke: a systematic review and meta-analysis. J Tradit Chin Med 2022;42(3):321–331 — https://doi.org/10.19852/j.cnki.jtcm.2022.03.001",
+    "Yue S et al. Effects of a nurse-led acupressure programme for stroke patients in China. J Clin Nurs 2013;22(7-8):1182–1188 — https://doi.org/10.1111/j.1365-2702.2012.04127.x",
+    "Kang HS et al. Effects of meridian acupressure for stroke patients in Korea. J Clin Nurs 2009;18(15):2145–2152 — https://doi.org/10.1111/j.1365-2702.2008.02522.x",
+    "Liu S et al. Acupuncture for post-stroke shoulder-hand syndrome: a systematic review and meta-analysis. Front Neurol 2019;10:433 — https://doi.org/10.3389/fneur.2019.00433"
+  ],
+  "lastReviewed": "2026-10-21T00:00:00.000Z",
+  "publishedAt": "2026-10-21T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

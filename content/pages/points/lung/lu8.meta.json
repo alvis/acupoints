@@ -1,0 +1,21 @@
+{
+  "kind": "point",
+  "key": "LU8",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-lu8",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-24T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (World Health Organization, 2008) — location nomenclature for the Lung channel.",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — classical context for the five transport points, jing-river imagery, and the point-name reading of Jingqu.",
+    "aijiu-mpvue (MIT License) dataset — underlying Chinese-language record behind this catalogue entry."
+  ],
+  "lastReviewed": "2026-08-24T00:00:00.000Z",
+  "echoedDatasetCautions": ["Keep the needle clear of the radial artery."],
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

@@ -1,0 +1,21 @@
+{
+  "kind": "point",
+  "key": "LU7",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-lu7",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-24T09:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — nomenclature conventions behind the recorded location wording.",
+    "A Manual of Acupuncture (Deadman, Baker & Al-Khafaji) — point-name commentary, luo-connecting and eight-confluent context, and the crossed-hands locating gesture.",
+    "aijiu-mpvue (MIT License), dataset witness behind catalogue entry LU7 — recorded location and actions."
+  ],
+  "lastReviewed": "2026-08-24T09:00:00.000Z",
+  "echoedDatasetCautions": [],
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

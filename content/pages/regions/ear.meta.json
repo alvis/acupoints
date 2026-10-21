@@ -1,0 +1,21 @@
+{
+  "kind": "region",
+  "key": "region/ear",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-ear-region-hub",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — nomenclature conventions followed for the channel names and codes referenced in this overview.",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — classical pathway descriptions of the channels around the ear, consulted for historical framing.",
+    "aijiu-mpvue (MIT License), licensed dataset — point identities, channel assignments, and recorded cautions underlying the registry this overview sits upon."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-08-26T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

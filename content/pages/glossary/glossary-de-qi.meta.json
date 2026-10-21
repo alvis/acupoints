@@ -1,0 +1,21 @@
+{
+  "kind": "static",
+  "key": "static/glossary-de-qi",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-glossary-de-qi",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — nomenclature conventions followed for the point names this glossary companion refers to.",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — classical accounts of de qi and related channel concepts consulted for general framing, retold rather than quoted.",
+    "aijiu-mpvue (MIT License), licensed dataset — point identities and recorded cautions underlying the catalogue this page serves."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-08-26T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

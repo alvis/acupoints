@@ -1,0 +1,21 @@
+{
+  "kind": "region",
+  "key": "region/back",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-region-back",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — point-location conventions followed for the sites discussed on this page.",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — classical pathway accounts and the back-shu framework consulted for regional context.",
+    "aijiu-mpvue (MIT License), licensed dataset — point identities, categories, and recorded details underlying this regional overview."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-08-26T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

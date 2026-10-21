@@ -1,0 +1,21 @@
+{
+  "kind": "point",
+  "key": "ST44",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-st44",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-24T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "aijiu-mpvue (MIT License), complateXwInfo.json — dataset witness mirrored in content/catalog/stomach.ts for the ST44 location, indications, and ying-spring point class.",
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — nomenclature conventions followed by the in-house English wording of the catalogue entry.",
+    "A Manual of Acupuncture, Peter Deadman, Mazin Al-Khafaji and Kevin Baker — point-name tradition, five-shu point categories, and stomach-channel context."
+  ],
+  "lastReviewed": "2026-08-24T00:00:00.000Z",
+  "echoedDatasetCautions": [],
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

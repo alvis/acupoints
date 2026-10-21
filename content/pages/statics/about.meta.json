@@ -1,0 +1,21 @@
+{
+  "kind": "static",
+  "key": "static/about",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-about-static",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — nomenclature conventions followed across the site’s point names and codes.",
+    "aijiu-mpvue (MIT License), licensed dataset — point identities, categories, and recorded cautions underlying the catalogue pages.",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — classical framing and point classes consulted for the legacy editorial records."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-08-26T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

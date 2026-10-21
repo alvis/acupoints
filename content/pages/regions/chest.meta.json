@@ -1,0 +1,21 @@
+{
+  "kind": "region",
+  "key": "region/chest",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-chest-hub",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — naming conventions and landmark descriptions for chest-level codes consulted for framing.",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — classical channel pathways across the chest, the front-mu teaching, and the eight-influential framework consulted for traditional context.",
+    "aijiu-mpvue (MIT License), licensed dataset — point identities, recorded indications, and cautions underlying this overview."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-08-26T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

@@ -1,0 +1,21 @@
+{
+  "kind": "journal",
+  "key": "journal/pressure-not-needles",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-pressure-not-needles",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region — reference for the standardised names and locations of the classical points named in this article.",
+    "A Manual of Acupuncture (Deadman) — background on point names, channel imagery, and general classical context.",
+    "aijiu-mpvue (MIT License) dataset — recorded point indications consulted while drafting."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-09-14T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

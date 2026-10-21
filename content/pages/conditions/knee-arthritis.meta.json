@@ -1,0 +1,25 @@
+{
+  "kind": "condition",
+  "key": "condition/knee-arthritis",
+  "authorship": {
+    "authoredBy": "editorial-knee-arthritis-hub",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-10-21T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — landmark descriptions followed for xuehai (SP10), liangqiu (ST34), dubi (ST35), yinlingquan (SP9), yanglingquan (GB34), and zusanli (ST36).",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — point categories, name glosses, and general bi-syndrome framing consulted for context.",
+    "aijiu-mpvue (MIT License), licensed dataset — recorded indications and cautions underlying the six point identities.",
+    "中國中醫藥研究促進會骨傷科分會《膝骨關節炎中醫診療指南（2020年版）》, 中醫正骨 2020;32(10):1–14 — https://www.gszyy.com/upload/main/contentmanage/article/file/2023/06/15/%E8%86%9D%E9%AA%A8%E5%85%B3%E8%8A%82%E7%82%8E%E4%B8%AD%E5%8C%BB%E8%AF%8A%E7%96%97%E6%8C%87%E5%8D%97(2020%E5%B9%B4%E7%89%88)_%E9%99%88%E5%8D%AB%E8%A1%A1(1).pdf",
+    "Yeung WF et al., Self-Administered Acupressure for Probable Knee Osteoarthritis in Middle-Aged and Older Adults: A Randomized Clinical Trial, JAMA Netw Open 2024 — https://doi.org/10.1001/jamanetworkopen.2024.5830",
+    "Li LW et al., Self-Acupressure for Older Adults With Symptomatic Knee Osteoarthritis: A Randomized Controlled Trial, Arthritis Care Res 2018 — https://doi.org/10.1002/acr.23262",
+    "Kou H et al., Self-acupressure for osteoarthritis self-management and nursing care outcomes: A systematic review and meta-analysis, Geriatr Nurs 2026 — https://doi.org/10.1016/j.gerinurse.2026.104288"
+  ],
+  "lastReviewed": "2026-10-21T00:00:00.000Z",
+  "publishedAt": "2026-10-21T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

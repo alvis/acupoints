@@ -1,0 +1,53 @@
+{
+  "name": "acupoints",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "run build",
+    "dev": "run dev",
+    "lint": "run lint --",
+    "prepare": "run prepare",
+    "start": "run start",
+    "test": "run test --",
+    "test:coverage": "run test:coverage --",
+    "test:watch": "run test:watch --",
+    "typecheck": "run typecheck --"
+  },
+  "dependencies": {
+    "@fontsource-variable/eb-garamond": "^5.3.0",
+    "@fontsource-variable/noto-serif-sc": "^5.3.0",
+    "@fontsource-variable/noto-serif-tc": "^5.3.0",
+    "@fontsource/ibm-plex-mono": "^5.3.0",
+    "clsx": "^2.1.0",
+    "fs-jetpack": "^5.1.0",
+    "gitlog": "^5.1.0",
+    "gray-matter": "^4.0.0",
+    "next": "^16.4.0",
+    "opencc-js": "^1.4.0",
+    "pathe": "^2.0.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "schema-dts": "^2.1.0",
+    "tailwind-merge": "^3.7.0",
+    "zod": "^4.6.0"
+  },
+  "devDependencies": {
+    "@presetter/preset-next": "^9.1.0",
+    "@tailwindcss/postcss": "^4.3.0",
+    "@testing-library/jest-dom": "^7.0.0",
+    "@testing-library/react": "^16.3.0",
+    "@types/node": "^26.6.0",
+    "@types/react": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.0",
+    "@vitest/coverage-v8": "^5.0.0",
+    "eslint": "^10.13.0",
+    "jsdom": "^30.1.0",
+    "pagefind": "^1.5.0",
+    "presetter": "^9.1.0",
+    "tailwindcss": "^4.3.0",
+    "typescript": "^6.0.0",
+    "vitest": "^5.0.0"
+  },
+  "packageManager": "pnpm@12.14.0"
+}

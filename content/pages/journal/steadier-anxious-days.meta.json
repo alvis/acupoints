@@ -1,0 +1,21 @@
+{
+  "kind": "journal",
+  "key": "journal/steadier-anxious-days",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-steadier-anxious-days",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region — nomenclature conventions followed for the points named in this guide.",
+    "A Manual of Acupuncture (Deadman) — background on point names, traditional indications, and general classical context consulted while drafting.",
+    "aijiu-mpvue (MIT License) dataset — recorded point indications consulted while drafting."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-10-12T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

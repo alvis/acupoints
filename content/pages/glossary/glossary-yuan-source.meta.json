@@ -1,0 +1,21 @@
+{
+  "kind": "static",
+  "key": "static/glossary-yuan-source",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-glossary-yuan-source",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — nomenclature and point-code conventions followed for the named examples.",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — classical point-class framework, source-point doctrine, and name imagery consulted for general framing.",
+    "aijiu-mpvue (MIT License), licensed dataset — point identities, category tags, and recorded details underlying the examples."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-08-26T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

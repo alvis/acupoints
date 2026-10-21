@@ -1,0 +1,21 @@
+{
+  "kind": "point",
+  "key": "GV25",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-gv25",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-24T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "aijiu-mpvue (MIT License) licensed dataset, entry for GV25 Suliao — location, point class, actions, and caution record.",
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008), World Health Organization — nomenclature conventions.",
+    "A Manual of Acupuncture, Peter Deadman, Mazin Al-Khafaji and Kevin Baker — point-name tradition and channel-course context."
+  ],
+  "lastReviewed": "2026-08-24T00:00:00.000Z",
+  "echoedDatasetCautions": ["No moxibustion, per the classical texts."],
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

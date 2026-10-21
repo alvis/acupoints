@@ -1,0 +1,21 @@
+{
+  "kind": "condition",
+  "key": "condition/tension-headache",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-tension-headache",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — landmark descriptions followed for hegu (LI4), fengchi (GB20), baihui (GV20), and taiyang (EX-HN5).",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — point categories, name glosses, and general head-complaint framing consulted for context.",
+    "aijiu-mpvue (MIT License), licensed dataset — recorded indications and cautions underlying the four point identities."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-08-26T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

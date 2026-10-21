@@ -1,0 +1,21 @@
+{
+  "kind": "static",
+  "key": "static/basics-yin-and-yang",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-basics-yinyang",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "aijiu-mpvue (MIT License), licensed dataset — the catalogue backbone whose channel names, codes, and recorded associations this overview rests upon.",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — general classical framing of the yin–yang vocabulary, channel nomenclature, and interior–exterior pairing consulted for context.",
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — naming and numbering conventions followed wherever channel and point identities appear."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-08-26T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

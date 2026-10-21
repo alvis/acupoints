@@ -1,0 +1,21 @@
+{
+  "kind": "static",
+  "key": "static/basics-five-elements",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-basics-five-elements",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — point classes, five-phase assignments, and organ–emotion–season correspondences consulted for framing.",
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — nomenclature conventions followed for the channel and point names referenced here.",
+    "aijiu-mpvue (MIT License), licensed dataset — channel identities and recorded elemental associations underlying this overview."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-08-26T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

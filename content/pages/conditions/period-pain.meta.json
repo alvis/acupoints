@@ -1,0 +1,21 @@
+{
+  "kind": "condition",
+  "key": "condition/period-pain",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-period-pain",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008), World Health Organization — nomenclature conventions followed for the two named points.",
+    "A Manual of Acupuncture, Peter Deadman, Mazin Al-Khafaji and Kevin Baker — channel relationships, point classes, and the traditional associations summarised here.",
+    "aijiu-mpvue (MIT License) licensed dataset — recorded identities, indications, and cautions for SP6 Sanyinjiao and LV3 Taichong."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-08-26T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

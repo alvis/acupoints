@@ -1,0 +1,21 @@
+{
+  "kind": "region",
+  "key": "region/leg",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-leg-hub",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008), World Health Organization — nomenclature conventions for the channels and points named here.",
+    "A Manual of Acupuncture, Peter Deadman, Mazin Al-Khafaji and Kevin Baker — channel pathways, point classes, and point-name traditions consulted for framing.",
+    "aijiu-mpvue (MIT License) licensed composite dataset — point identities, region assignments, and recorded cautions underlying the registry rows discussed."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-08-26T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

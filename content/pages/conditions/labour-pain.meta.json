@@ -1,0 +1,27 @@
+{
+  "kind": "condition",
+  "key": "condition/labour-pain",
+  "authorship": {
+    "authoredBy": "editorial-labour-pain-hub",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-10-21T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — landmark descriptions followed for sanyinjiao (SP6) and hegu (LI4).",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — point categories, name glosses, and general childbirth framing consulted for context.",
+    "aijiu-mpvue (MIT License), licensed dataset — recorded indications and pregnancy cautions underlying the two point identities.",
+    "Liu Guanjun (ed.), Acupuncture-Moxibustion (Zhenjiuxue), vol. 3 of 3 (Higher TCM Correspondence Textbooks, Guangming TCM Correspondence University), chapter on stalled labour — https://www.gmzyjx.com/books/zjx/zjx-zjx2.3-0.0.8.0.0/",
+    "China Association of Acupuncture-Moxibustion, public note on acupuncture for inducing labour (2007) — https://www.caam.cn/article/758",
+    "China Maternal and Child Health Association, Midwives Branch, clinical practice guideline for normal birth in China (2018) — https://www.cmcha.org/detail/15264445802990710660.html",
+    "Smith CA et al., acupuncture or acupressure for pain management during labour, Cochrane Database of Systematic Reviews (2020) — https://doi.org/10.1002/14651858.CD009232.pub2",
+    "Raana HN, Fan XN, acupressure for pain during the first stage of labour: systematic review and meta-analysis, Complementary Therapies in Clinical Practice (2020) — https://doi.org/10.1016/j.ctcp.2020.101126",
+    "Deniz D et al., intervention parameters of LI4 acupressure for labor pain: systematic review and meta-analysis, Explore (2026) — https://doi.org/10.1016/j.explore.2026.103453"
+  ],
+  "lastReviewed": "2026-10-21T00:00:00.000Z",
+  "publishedAt": "2026-10-21T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

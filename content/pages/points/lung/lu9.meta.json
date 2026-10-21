@@ -1,0 +1,23 @@
+{
+  "kind": "point",
+  "key": "LU9",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-lu9",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-24T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "aijiu-mpvue (MIT License) — dataset witness behind this entry’s location wording, point categories, and recorded indications.",
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — nomenclature conventions.",
+    "A Manual of Acupuncture (Deadman) — general classical context on source points and the vessel meeting, consulted without quotation."
+  ],
+  "lastReviewed": "2026-08-24T00:00:00.000Z",
+  "echoedDatasetCautions": [
+    "Keep clear of the radial artery: push it aside and insert on its lateral side."
+  ],
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

@@ -1,0 +1,21 @@
+{
+  "kind": "point",
+  "key": "ST14",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-st14",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-24T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008), World Health Organization — nomenclature conventions.",
+    "A Manual of Acupuncture, Peter Deadman, Mazin Al-Khafaji and Kevin Baker — point-name tradition and channel context.",
+    "aijiu-mpvue (MIT License) licensed dataset, entry for ST14 Kufang — location, actions, and caution record."
+  ],
+  "lastReviewed": "2026-08-24T00:00:00.000Z",
+  "echoedDatasetCautions": ["Keep insertion shallow, angled obliquely or transversely."],
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

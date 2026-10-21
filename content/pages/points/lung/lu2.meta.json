@@ -1,0 +1,23 @@
+{
+  "kind": "point",
+  "key": "LU2",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-lu2",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-24T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "aijiu-mpvue (MIT License) dataset — Chinese-language location and indication witnesses underlying the catalogue entry for LU2.",
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — nomenclature and location conventions referenced by the in-house English wording.",
+    "A Manual of Acupuncture (Deadman) — point-name imagery and channel context consulted for editorial background."
+  ],
+  "lastReviewed": "2026-08-24T00:00:00.000Z",
+  "echoedDatasetCautions": [
+    "Keep insertion shallow; a deep needle can puncture the lung and cause pneumothorax."
+  ],
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

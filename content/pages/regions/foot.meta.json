@@ -1,0 +1,21 @@
+{
+  "kind": "region",
+  "key": "region/foot",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-foot-hub",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — landmark descriptions for the region’s three catalogued points, followed closely in the palpation notes below.",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — classical channel pathways and point classes consulted for general framing.",
+    "aijiu-mpvue (MIT License), licensed dataset — point identities, categories, and recorded cautions underlying this overview."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "publishedAt": "2026-08-26T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

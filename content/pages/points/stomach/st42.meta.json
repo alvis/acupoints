@@ -1,0 +1,21 @@
+{
+  "kind": "point",
+  "key": "ST42",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-st42",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-24T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008), World Health Organization — nomenclature conventions.",
+    "A Manual of Acupuncture, Peter Deadman, Mazin Al-Khafaji and Kevin Baker — point-name tradition, yuan-source theory, and channel context.",
+    "aijiu-mpvue (MIT License) licensed dataset, entry for ST42 Chongyang — location, point class, actions, and caution record."
+  ],
+  "lastReviewed": "2026-08-24T00:00:00.000Z",
+  "echoedDatasetCautions": ["Keep clear of the dorsalis pedis artery when needling."],
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

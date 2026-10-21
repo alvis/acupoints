@@ -1,0 +1,23 @@
+{
+  "kind": "point",
+  "key": "CV23",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-cv23",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-25T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008), World Health Organization — nomenclature conventions.",
+    "A Manual of Acupuncture, Peter Deadman, Mazin Al-Khafaji and Kevin Baker — point-name tradition and ren-vessel channel context.",
+    "aijiu-mpvue (MIT License) licensed dataset, entry for CV23 Lianquan — location, point class, actions, and caution record."
+  ],
+  "lastReviewed": "2026-08-25T00:00:00.000Z",
+  "echoedDatasetCautions": [
+    "Needle cautiously and shallowly, and do not drive the needle deep toward the throat — the hyoid bone, tongue root, and upper airway are close."
+  ],
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

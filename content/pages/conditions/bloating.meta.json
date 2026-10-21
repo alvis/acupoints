@@ -1,0 +1,27 @@
+{
+  "kind": "condition",
+  "key": "condition/bloating",
+  "authorship": {
+    "authoredBy": "editorial-bloating-hub",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-10-21T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — landmark descriptions followed for zhongwan (CV12), tianshu (ST25), qihai (CV6), zusanli (ST36), and neiguan (PC6).",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — point categories, name glosses, and general digestive-complaint framing consulted for context.",
+    "aijiu-mpvue (MIT License), licensed dataset — recorded indications and cautions underlying the five point identities.",
+    "China Association of Chinese Medicine, TCM nursing protocols for 13 conditions (2026 edition), stomach pain (chronic gastritis) and COPD plans — https://www.cacm.org.cn/wp-content/uploads/2026/09/%E9%99%84%E4%BB%B61.-%E4%B8%AD%E9%A3%8E%E7%AD%8913%E4%B8%AA%E7%97%85%E7%A7%8D%E4%B8%AD%E5%8C%BB%E6%8A%A4%E7%90%86%E6%96%B9%E6%A1%88%EF%BC%882026%E5%B9%B4%E7%89%88%EF%BC%89%E5%85%A8%E6%96%87.pdf",
+    "Chinese Association of Integrative Medicine, expert consensus on functional dyspepsia (2025) — https://doi.org/10.3969/j.issn.1671-038X.2025.11.03",
+    "Yang JW et al., acupuncture versus sham acupuncture for postprandial distress syndrome, Annals of Internal Medicine (2020) — https://doi.org/10.7326/M19-2880",
+    "Asal MGR et al., self-administered active versus sham acupressure for diarrhoea-predominant irritable bowel syndrome, BMC Nursing (2025) — https://doi.org/10.1186/s12912-024-02594-5",
+    "Liu Y et al., nurse-delivered acupressure after colorectal cancer surgery, Asia-Pacific Journal of Oncology Nursing (2023) — https://doi.org/10.1016/j.apjon.2023.100229",
+    "Manheimer E et al., acupuncture for treatment of irritable bowel syndrome, Cochrane Database of Systematic Reviews (2012) — https://doi.org/10.1002/14651858.CD005111.pub3"
+  ],
+  "lastReviewed": "2026-10-21T00:00:00.000Z",
+  "publishedAt": "2026-10-21T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

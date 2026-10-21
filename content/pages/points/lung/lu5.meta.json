@@ -1,0 +1,23 @@
+{
+  "kind": "point",
+  "key": "LU5",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-lu5",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-24T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "aijiu-mpvue (MIT License) and the licensed composite catalogue (content/catalog/lung.ts) — origin of the location string, action list, and the vessel caution echoed verbatim above.",
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — nomenclature conventions reflected in the catalogue location wording for Chize (LU5); cited generally, never quoted.",
+    "A Manual of Acupuncture — general doctrinal background for he-sea point theory and traditional indication framing; consulted at the level of teaching, never quoted."
+  ],
+  "lastReviewed": "2026-08-24T00:00:00.000Z",
+  "echoedDatasetCautions": [
+    "Keep clear of the cephalic vein; piercing it can leave bruising and swelling."
+  ],
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

@@ -1,0 +1,20 @@
+{
+  "kind": "point",
+  "key": "EX-HN5",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-exhn5",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-26T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008), World Health Organization — extra-point nomenclature, the EX-HN head-and-neck group, and the recorded Taiyang location.",
+    "A Manual of Acupuncture, Peter Deadman, Mazin Al-Khafaji and Kevin Baker — point-name tradition and the place of extra points beside the regular channels."
+  ],
+  "lastReviewed": "2026-08-26T00:00:00.000Z",
+  "echoedDatasetCautions": [],
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

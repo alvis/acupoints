@@ -1,0 +1,28 @@
+{
+  "kind": "condition",
+  "key": "condition/desk-neck-shoulder",
+  "authorship": {
+    "authoredBy": "editorial-desk-neck-shoulder-hub",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-10-21T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — landmark descriptions followed for fengchi (GB20), jianjing (GB21), and quchi (LI11).",
+    "A Manual of Acupuncture (Deadman, Al-Khafaji & Baker) — point categories, name glosses, and general neck-and-shoulder framing consulted for context.",
+    "aijiu-mpvue (MIT License), licensed dataset — recorded indications and cautions underlying the three point identities.",
+    "China Association of Chinese Medicine, 中風等13個病種中醫護理方案（2026年版）, 項痹病（神經根型頸椎病）section — pattern framing, point massage at fengchi, and the desk-work and exercise advice: https://www.cacm.org.cn/wp-content/uploads/2026/09/%E9%99%84%E4%BB%B61.-%E4%B8%AD%E9%A3%8E%E7%AD%8913%E4%B8%AA%E7%97%85%E7%A7%8D%E4%B8%AD%E5%8C%BB%E6%8A%A4%E7%90%86%E6%96%B9%E6%A1%88%EF%BC%882026%E5%B9%B4%E7%89%88%EF%BC%89%E5%85%A8%E6%96%87.pdf",
+    "Matsubara T et al. (2011), acupressure at local and distal points in women with chronic neck pain, Evidence-Based Complementary and Alternative Medicine: https://doi.org/10.1155/2011/543291",
+    "Kim M & Kim J (2021), acupressure for chronic neck pain in middle-aged women, Journal of Alternative and Complementary Medicine: https://doi.org/10.1089/acm.2020.0413",
+    "Zhao L et al. (2024), individualized acupuncture for chronic neck pain, Annals of Internal Medicine: https://doi.org/10.7326/M23-2425",
+    "Gross AR et al. (2024), Cochrane review of massage for neck pain: https://doi.org/10.1002/14651858.CD004871.pub5",
+    "Hoe VCW et al. (2018), Cochrane review of ergonomic interventions for office workers: https://doi.org/10.1002/14651858.CD008570.pub3",
+    "American Academy of Orthopaedic Surgeons (2024), Management of Carpal Tunnel Syndrome evidence-based clinical practice guideline: https://www.aaos.org/cts2cpg"
+  ],
+  "lastReviewed": "2026-10-21T00:00:00.000Z",
+  "publishedAt": "2026-10-21T00:00:00.000Z",
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

@@ -1,0 +1,68 @@
+---
+schema: 'acupoints-prose-v1'
+kind: 'point'
+key: 'LV1'
+locale: 'en'
+faqs:
+  - q: 'How do I find Dadun without knowing anything about cun?'
+    a: 'Use the toenail as the whole map. Turn the foot so you can see the big toe’s outer side, find the corner of the nail furthest from the second toe, and settle your fingertip in the shallow dip a couple of millimetres beyond that corner. Cun measurements encode the same landmark sequence in proportional language; the landmark sequence itself is all a home practitioner needs.'
+  - q: 'Is pressing such a tiny spot really safe?'
+    a: 'For healthy adults, light fingertip contact held on the surface is generally reasonable self-care, and at this site lightness matters more than anywhere else, because the underlying bone sits so close to the skin. Respect the stop signals: sharp or electric sensation means finish at once. Skip the point whenever the surrounding skin is cut, inflamed, or infected.'
+  - q: 'What did classical practice use Dadun for?'
+    a: 'The traditional record spans hernia-type complaints, uterine bleeding and prolapse, absent menstruation, bedwetting and difficult urination, convulsive disorders, stomachache, and constipation. Its jing-well status placed it in classical discussions of acute presentations. These are traditional frameworks for understanding the body, documented for context — not evidence-backed treatment claims.'
+  - q: 'Why does the liver channel begin at the big toe?'
+    a: 'Classical maps draw the liver channel rising from the great toe, climbing the inner leg, and reaching the rib-side region where it ends. Setting the source at the body’s edge matches the wellspring imagery of the jing-well points: the first drop emerges at the tip before the river gathers. Beginning there gave the tradition a natural place to reason about the channel as a whole.'
+  - q: 'Can pressing Dadun stand in for care of a hernia?'
+    a: 'It cannot. A hernia that becomes suddenly painful, red, or hard, or that arrives with nausea and vomiting, needs emergency assessment immediately, and even a quiet, diagnosed hernia belongs with a clinician for ongoing decisions. Self-acupressure is a comfort practice with no diagnostic value; it may accompany professional care, never substitute for it.'
+selfCareLimits: 'Self-care here means light, purely surface fingertip contact beside the toenail: no tools, no digging into the nail fold, and none over broken or infected skin. Stop at once on sharp sensation. Suspected hernia with severe pain, heavy bleeding, or inability to pass urine calls for urgent medical care — this page is educational only.'
+---
+
+Dadun, the Great Thickness, opens the liver channel at the tip of the big toe, a hair’s breadth beyond the outer corner of the toenail. Classical practice reached for this tiny jing-well point in cases of hernia, women’s bleeding and prolapse, and troubled water metabolism. This guide shows how to find it by touch and press it gently and safely at home.
+
+## Where Dadun Sits at the Tip of the Big Toe {#where-it-sits}
+
+The licensed dataset places Dadun on the lateral side of the end of the big toe, 0.1 cun from the corner of the nail. Two details deserve unpacking. First, “lateral” here means the side facing away from the second toe — the outer border of the foot, not the side tucked against its neighbour. Second, 0.1 cun is one tenth of a cun, the smallest fraction the tradition routinely writes down. A cun is the proportional measuring unit of Chinese point-location, taken from the person being examined rather than from a ruler; one tenth of a cun works out to roughly two or three millimetres, so the instruction simply says: at the corner of the nail, and just beyond it, where nail gives way to skin.
+
+What lies under the fingertip is modest but real. The spot carries firm, slightly glossy skin backed by dense fibrous tissue, and beneath it the bone of the toe’s last segment runs close to the surface. Small nerves and vessels thread the area, which is why even light pressure there produces a distinct, carrying awareness out of proportion to the force used. Nothing about this ground invites depth: the point occupies a sliver between nail wall and soft tissue, and honest self-care never needs to leave that surface.
+
+A neighbour helps confirm the placement. The next point up the channel, Xingjian (LV2), waits farther back between the first and second toes, at the junction of the red and white skin behind the web margin. If your search drifts back along the toe or climbs onto the dorsum of the foot, that contrast tells you at once: Dadun stays at the very tip, hugging the outer corner of the nail, while Xingjian keeps to the web. Tip against web, edge against valley — the two points triangulate each other neatly.
+
+## A Self-Palpation Walkthrough {#finding-it-by-touch}
+
+Sit upright in a chair and lay one ankle across the opposite knee so the foot turns toward you. Orient yourself first: the side of the big toe facing the second toe is the inner side; the side facing outward, toward the little toe, is the lateral side. Trace the outer contour of the toenail to its corner, then carry your fingertip outward past that corner by the same two or three millimetres the measurement describes, into the shallow dip where the nail wall yields to skin. That dip is the site. Repeat the whole search on the other foot so both sides receive the same patient attention.
+
+A few quiet confirmations help before any pressing begins. Touch feather-light and compare sides: many people notice a faint, dull awareness at the true point and almost nothing a finger’s width away, though at this scale “a finger’s width” would land clear off the toe — think in millimetres. Check three things: your fingertip is not resting on the nail plate, it has not slipped to the inner side, and it has not retreated toward the web. When the position is right, the lightest contact already speaks, which is the nature of points set at the extremities.
+
+The classic mistake is inside-out confusion: with the sole turned toward you, left and right reverse in the eye, and the finger slides to the side facing the second toe. The next slip is retreating too far and arriving in the web between the toes, which is Xingjian’s territory, not Dadun’s. Some people press straight onto the nail itself and wonder at the silence. Whenever doubt creeps in, return to the outer nail corner and start again, moving one small step at a time.
+
+## Reading the Name: Great Thickness {#name-and-meaning}
+
+The two characters sketch the site in miniature. Da 大 means great — and by extension the great toe itself, which Chinese anatomical speech calls the “large” toe. Dun 敦 carries the sense of thick, solid, substantial, with a further shading of generosity and sincerity of heart. Read together as “great thickness”, they point at the plump, resilient pad of flesh at the tip of the great toe: among a landscape of gates, valleys, courtyards, and springs, this name speaks of texture instead of architecture, a rare directness in point-naming.
+
+Classical theory sets the origin of every channel at the extremities, and the jing-well points mark those origins. The image is a wellspring: channel qi, likened to water, emerges here as a trickle from the deep before gathering volume downstream. Classical teaching then arranges five shu stages along the limbs, the jing-well standing first among them. The liver channel runs fourteen points from toe to rib-side, and Dadun heads the line. Five-phase doctrine adds a tidy correspondence: the liver belongs to wood, and among the yin channels the jing-well likewise corresponds to wood, so the channel opens on its own elemental note. These are traditional frameworks for thinking, offered for understanding.
+
+Pinyin renders the name Dàdūn: da carries a falling fourth tone, dropping from high to low, and dun holds a level first tone, sustained high and even. The hanzi 大敦 take little effort to memorise. As with many channel names, the words double as instructions: go to the great toe, and seek the thickest little mound at its outermost tip.
+
+## Traditional Indications, Explained {#traditional-use}
+
+The recorded actions read: hernia; uterine bleeding; prolapse of the uterus; amenorrhea; enuresis; difficult urination; epilepsy; stomachache; constipation. Framed as tradition rather than promise, classical practice traditionally reached for Dadun across this wide spread. Hernia in the old records is broader than the single modern condition: classical writers gathered under hernia-like terms a family of dragging, colicky, come-and-go complaints of the groin and lower abdomen. Classical discussions often paired the jing-well points with acute or sudden presentations, which partly explains why this smallest point appears in such varied company.
+
+Two clusters organise the list for a modern reader. The first gathers women’s concerns: uterine bleeding, prolapse of the uterus, absent menstruation. Classical physiology assigned the liver the office of storing the blood, and menstrual and postpartum troubles were therefore reasoned through the liver channel, whose pathway classical texts trace through the lower abdomen and genital region. The second cluster reads water metabolism: enuresis and difficult urination sit together as disorders of the waterways, approached at the same toe-tip. Neither cluster implies anything about what self-applied pressure achieves; they describe how the tradition mapped the body.
+
+Three items remain, and honesty separates them. Epilepsy belonged in classical lists of convulsive disturbance, yet today it belongs unambiguously with neurologists and prescribed treatment, and nothing done at a toenail substitutes for either. Stomachache and constipation are the everyday members of the list, the sorts of complaints classical practice folded into channel-based reasoning. It bears saying plainly: these are traditional uses recorded in a licensed dataset and old literature, presented for cultural and historical understanding. Where modern research touches self-applied pressure at all, reviews suggest effects are modest and depend heavily on context, and evidence tied to any single point stays thin.
+
+## Self-Care Acupressure at Home {#self-care-practice}
+
+With the point located by the walkthrough above, settle in: seated and unhurried, ankle resting on the opposite knee. Use the pad of the index finger — never the nail, never a tool — and rest it on the little dip beside the nail corner. Begin with bare contact for a few breaths, then add very small, slow circles, or hold a steady, weightless lean. Sensation should register as mild dullness or a faint spreading ache, never sharpness. A common home rhythm is one to three minutes per foot, once or twice daily, timed to slow exhales; then swap feet and keep the two sessions symmetrical.
+
+Quality outweighs duration. Cold feet tense against the touch, so warm them first — a few minutes of walking or a warm-water rinse is plenty. Choose a quiet corner rather than a screen, and let the minute or two double as a breathing pause: fingers still on the inhale, pressure easing on the long exhale. People who keep such routines tend to anchor them to something already fixed in the day — before evening washing, after an afternoon walk — because what self-care traditions actually ask for is regularity, not intensity.
+
+Treat the exercise as a short ritual of paying attention to your own feet. Across weeks, notice what changes: perhaps the spot feels less twitchy, perhaps the body settles faster while you press, perhaps nothing shifts except that you spend a few deliberate minutes tending yourself. All of that sits within the honest reach of self-acupressure. What sits outside it is escalation — pushing harder or longer to force a result. When curiosity pulls that way, return to lightness, or simply close the session for the day.
+
+## Cautions and Safe Practice {#cautions-safety}
+
+Plainly stated: the licensed dataset records no specific caution for this point. An empty record is a fact about the dataset, not permission for force. Practical limits still follow from the geography. The site is tiny and sits hard against the nail fold, so skip it entirely over hangnails, cuts, ingrown or inflamed nails, or any fungal or broken skin there. Anyone managing diabetes or poor circulation in the feet should ask a qualified practitioner before starting any new foot practice at all.
+
+Draw the referral lines firmly. A known or suspected hernia that suddenly turns severely painful, red, or hard, especially with nausea or vomiting, is an emergency — seek immediate care, not a pressure routine. Heavy or unusually prolonged vaginal bleeding calls for a clinician promptly. New pelvic heaviness, dragging, or a visible bulge suggesting prolapse deserves proper assessment. Complete inability to pass urine is urgent. And anyone living with epilepsy should stay under the care of their prescribing doctor, never adjusting medication on their own account. Acupressure can sit alongside such care as a comfort practice; it cannot precede or replace it. Persistent symptoms belong with a licensed practitioner — Western medicine or East Asian medicine, whichever suits the complaint.
+
+One wider rule stands over everything: this page is educational, and acupressure is self-care, not diagnosis or therapy. Pregnant readers, and anyone with an ongoing condition, should consult a qualified practitioner before adding new point work. Of the channel’s fourteen points, the smallest asks for the least force — a light touch at the toe’s edge is both the safest and the most fitting way to meet it.

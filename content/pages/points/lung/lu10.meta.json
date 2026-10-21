@@ -1,0 +1,20 @@
+{
+  "kind": "point",
+  "key": "LU10",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-lu10",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-24T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "aijiu-mpvue (MIT License), complateXwInfo.json — dataset witness mirrored in content/catalog/lung.ts for the LU10 location, indications, and point class.",
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — nomenclature conventions followed by the in-house English wording of the catalogue entry."
+  ],
+  "lastReviewed": "2026-08-24T00:00:00.000Z",
+  "echoedDatasetCautions": [],
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

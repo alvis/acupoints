@@ -1,0 +1,23 @@
+{
+  "kind": "point",
+  "key": "CV17",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-cv17",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-24T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "aijiu-mpvue (MIT License), complateXwInfo.json — Chinese-language location, indications, and point class for this entry.",
+    "English wording authored in-house (2026) from the Chinese-language record, following WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) nomenclature conventions.",
+    "Point-name reading, mu-point and eight-influential context cross-checked against A Manual of Acupuncture (Deadman) and WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008)."
+  ],
+  "lastReviewed": "2026-08-24T00:00:00.000Z",
+  "echoedDatasetCautions": [
+    "Angle the needle transversely or obliquely and keep it shallow — where the sternum has a foramen, a deep needle can enter the chest or pericardium."
+  ],
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

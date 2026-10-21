@@ -1,0 +1,21 @@
+{
+  "kind": "point",
+  "key": "SP10",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-sp10",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-24T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008), World Health Organization — nomenclature conventions.",
+    "A Manual of Acupuncture, Peter Deadman, Mazin Al-Khafaji and Kevin Baker — point-name tradition, blood-sea imagery, and channel context.",
+    "aijiu-mpvue (MIT License) licensed dataset, entry for SP10 Xuehai — location, actions, and indication record."
+  ],
+  "lastReviewed": "2026-08-24T00:00:00.000Z",
+  "echoedDatasetCautions": [],
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}

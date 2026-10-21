@@ -1,0 +1,21 @@
+{
+  "kind": "point",
+  "key": "LU4",
+  "authorship": {
+    "authoredBy": "ox-alpha-author-lu4",
+    "method": "dual-witness-authored",
+    "generatedAt": "2026-08-24T00:00:00.000Z",
+    "reviewStatus": "draft",
+    "policyVersion": "2026-08-editorial-v1"
+  },
+  "sources": [
+    "aijiu-mpvue (MIT License), complateXwInfo.json — Chinese-language location, indications, and point class for this entry.",
+    "WHO Standard Acupuncture Point Locations in the Western Pacific Region (2008) — nomenclature conventions followed for the English wording.",
+    "A Manual of Acupuncture (Deadman et al.) — point-name commentary and channel-context background."
+  ],
+  "lastReviewed": "2026-08-24T00:00:00.000Z",
+  "echoedDatasetCautions": [],
+  "heroImage": null,
+  "pageLogo": null,
+  "ogImage": null
+}
