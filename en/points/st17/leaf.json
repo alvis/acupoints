@@ -1,0 +1,30 @@
+{
+  "id": "ST17",
+  "name": {
+    "en": "Ruzhong",
+    "gloss": "Middle of the Breast",
+    "zh-Hant": "乳中",
+    "zh-Hans": "乳中"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 17,
+    "of": 45
+  },
+  "location": {
+    "text": "At the centre of the nipple, in the fourth gap between the ribs."
+  },
+  "for": [
+    "A landmark for finding the chest points around it"
+  ],
+  "press": {
+    "text": "Do not press: it is the nipple itself, used only as a landmark.",
+    "pressable": false
+  },
+  "cautions": [
+    "Classical texts warn against working on this point."
+  ],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 4",
+  "url": "https://acupoints.com/en/points/st17",
+  "lastReviewed": "2026-08-24"
+}

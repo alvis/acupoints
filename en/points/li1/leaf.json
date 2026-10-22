@@ -1,0 +1,30 @@
+{
+  "id": "LI1",
+  "name": {
+    "en": "Shangyang",
+    "gloss": "Shang Note, Yang Side",
+    "zh-Hant": "商陽",
+    "zh-Hans": "商阳"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 1,
+    "of": 20
+  },
+  "location": {
+    "text": "On the index finger, just off the corner of the nail on the thumb side."
+  },
+  "for": [
+    "toothache",
+    "sore throat",
+    "fever"
+  ],
+  "press": {
+    "text": "Press with a fingernail edge, on and off, for about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/li1",
+  "lastReviewed": "2026-08-24"
+}

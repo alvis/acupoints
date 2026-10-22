@@ -1,0 +1,30 @@
+{
+  "id": "BL28",
+  "name": {
+    "en": "Pangguangshu",
+    "gloss": "Bladder Transport",
+    "zh-Hant": "膀胱俞",
+    "zh-Hans": "膀胱俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 28,
+    "of": 67
+  },
+  "location": {
+    "text": "On the sacrum, about level with the two dimples of the low back, two finger-widths from the centre ridge."
+  },
+  "for": [
+    "difficult urination",
+    "bed-wetting",
+    "low back ache"
+  ],
+  "press": {
+    "text": "Reach behind and press with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl28",
+  "lastReviewed": "2026-08-24"
+}

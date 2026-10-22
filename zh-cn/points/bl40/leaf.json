@@ -1,0 +1,32 @@
+{
+  "id": "BL40",
+  "name": {
+    "en": "Weizhong",
+    "gloss": "Bend Middle",
+    "zh-Hant": "委中",
+    "zh-Hans": "委中"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 40,
+    "of": 67
+  },
+  "location": {
+    "text": "膝后横纹正中，两条筋腱之间。"
+  },
+  "for": [
+    "腰背痛",
+    "下肢无力"
+  ],
+  "press": {
+    "text": "屈膝，以指腹轻按，每条腿约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "膝后静脉曲张、肿胀或触痛时不按。"
+  ],
+  "source": "《灵枢·本输》",
+  "url": "https://acupoints.com/zh-cn/points/bl40",
+  "lastReviewed": "2026-08-24"
+}

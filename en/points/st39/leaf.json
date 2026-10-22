@@ -1,0 +1,30 @@
+{
+  "id": "ST39",
+  "name": {
+    "en": "Xiajuxu",
+    "gloss": "Lower Great Hollow",
+    "zh-Hant": "下巨虛",
+    "zh-Hans": "下巨虚"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 39,
+    "of": 45
+  },
+  "location": {
+    "text": "One thumb-width below ST38, one finger out from the shin."
+  },
+  "for": [
+    "loose stools",
+    "lower-belly ache"
+  ],
+  "press": {
+    "text": "Firm thumb pressure, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st39",
+  "lastReviewed": "2026-08-24"
+}

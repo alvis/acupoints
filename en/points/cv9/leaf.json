@@ -1,0 +1,30 @@
+{
+  "id": "CV9",
+  "name": {
+    "en": "Shuifen",
+    "gloss": "Water Divide",
+    "zh-Hant": "水分",
+    "zh-Hans": "水分"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 9,
+    "of": 24
+  },
+  "location": {
+    "text": "On the midline of the belly, one thumb-width above the navel."
+  },
+  "for": [
+    "belly pain",
+    "loose stools",
+    "puffy swelling"
+  ],
+  "press": {
+    "text": "Gentle with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv9",
+  "lastReviewed": "2026-08-25"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "BL28",
+  "name": {
+    "en": "Pangguangshu",
+    "gloss": "Bladder Transport",
+    "zh-Hant": "膀胱俞",
+    "zh-Hans": "膀胱俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 28,
+    "of": 67
+  },
+  "location": {
+    "text": "骶骨上，約與腰窩（髂後上棘）同高，骶骨正中嵴旁開兩橫指。"
+  },
+  "for": [
+    "小便不利",
+    "遺尿",
+    "腰骶痛"
+  ],
+  "press": {
+    "text": "雙手反到背後，以指腹按揉，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl28",
+  "lastReviewed": "2026-08-24"
+}

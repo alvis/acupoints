@@ -1,0 +1,28 @@
+{
+  "id": "TH15",
+  "name": {
+    "en": "Tianliao",
+    "gloss": "A Heavenly Hollow",
+    "zh-Hant": "天髎",
+    "zh-Hans": "天髎"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 15,
+    "of": 23
+  },
+  "location": {
+    "text": "On the upper back, at the top inner corner of the shoulder blade."
+  },
+  "for": [
+    "aching shoulder and arm",
+    "stiff neck"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure on the surface, no elbows or knuckles, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/en/points/th15",
+  "lastReviewed": "2026-08-24"
+}

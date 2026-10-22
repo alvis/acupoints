@@ -1,0 +1,30 @@
+{
+  "id": "HT4",
+  "name": {
+    "en": "Lingdao",
+    "gloss": "Spirit Way",
+    "zh-Hant": "靈道",
+    "zh-Hans": "灵道"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 4,
+    "of": 9
+  },
+  "location": {
+    "text": "On the inner forearm, two finger-widths above the wrist crease, beside the tendon in line with the little finger."
+  },
+  "for": [
+    "sudden hoarseness",
+    "elbow and arm pain",
+    "grief and fearfulness"
+  ],
+  "press": {
+    "text": "One finger pad, slow circles, one minute each wrist.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ht4",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ST18",
+  "name": {
+    "en": "Rugen",
+    "gloss": "Milk Root",
+    "zh-Hant": "乳根",
+    "zh-Hans": "乳根"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 18,
+    "of": 45
+  },
+  "location": {
+    "text": "乳头正下方，乳房根部，第五肋间隙。"
+  },
+  "for": [
+    "乳汁不足",
+    "咳嗽",
+    "胸痛"
+  ],
+  "press": {
+    "text": "轻按，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "乳房有肿块或红热时不按，请就医检查。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/st18",
+  "lastReviewed": "2026-08-24"
+}

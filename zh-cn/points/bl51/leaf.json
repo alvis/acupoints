@@ -1,0 +1,31 @@
+{
+  "id": "BL51",
+  "name": {
+    "en": "Huangmen",
+    "gloss": "Gate of the Huang",
+    "zh-Hant": "肓門",
+    "zh-Hans": "肓门"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 51,
+    "of": 67
+  },
+  "location": {
+    "text": "腰部，比肚脐水平高一个骨突（第一腰椎下），脊柱旁开四横指。"
+  },
+  "for": [
+    "腹痛",
+    "便秘"
+  ],
+  "press": {
+    "text": "双手叉腰，以拇指稍用力按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "下方是肾，只宜轻按，切勿用力。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl51",
+  "lastReviewed": "2026-08-25"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GV24",
+  "name": {
+    "en": "Shenting",
+    "gloss": "Spirit Courtyard",
+    "zh-Hant": "神庭",
+    "zh-Hans": "神庭"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 24,
+    "of": 28
+  },
+  "location": {
+    "text": "On the midline, half a thumb-width inside the front hairline, straight up from the nose."
+  },
+  "for": [
+    "headache",
+    "poor sleep",
+    "a blocked nose"
+  ],
+  "press": {
+    "text": "Gentle, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv24",
+  "lastReviewed": "2026-08-24"
+}

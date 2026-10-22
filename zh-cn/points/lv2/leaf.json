@@ -1,0 +1,31 @@
+{
+  "id": "LV2",
+  "name": {
+    "en": "Xingjian",
+    "gloss": "The Space of Movement",
+    "zh-Hant": "行間",
+    "zh-Hans": "行间"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 2,
+    "of": 14
+  },
+  "location": {
+    "text": "足背，大脚趾与第二趾之间，趾蹼边缘稍后方。"
+  },
+  "for": [
+    "头痛",
+    "头晕",
+    "目赤肿痛"
+  ],
+  "press": {
+    "text": "指腹轻按，每脚约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/lv2",
+  "lastReviewed": "2026-08-24"
+}

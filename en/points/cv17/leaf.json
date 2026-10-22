@@ -1,0 +1,30 @@
+{
+  "id": "CV17",
+  "name": {
+    "en": "Danzhong",
+    "gloss": "Chest Centre",
+    "zh-Hant": "膻中",
+    "zh-Hans": "膻中"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 17,
+    "of": 24
+  },
+  "location": {
+    "text": "On the breastbone, level with the fourth rib space; in men, midway between the nipples."
+  },
+  "for": [
+    "chest tightness",
+    "palpitations",
+    "cough"
+  ],
+  "press": {
+    "text": "Gentle, on the breastbone, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv17",
+  "lastReviewed": "2026-08-24"
+}

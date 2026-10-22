@@ -1,0 +1,30 @@
+{
+  "id": "GV23",
+  "name": {
+    "en": "Shangxing",
+    "gloss": "Upper Star",
+    "zh-Hant": "上星",
+    "zh-Hans": "上星"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 23,
+    "of": 28
+  },
+  "location": {
+    "text": "頭部正中線，前髮際正中直上一拇指寬。"
+  },
+  "for": [
+    "頭痛",
+    "鼻塞",
+    "眼睛紅腫"
+  ],
+  "press": {
+    "text": "輕按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gv23",
+  "lastReviewed": "2026-08-24"
+}

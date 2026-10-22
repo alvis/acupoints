@@ -1,0 +1,30 @@
+{
+  "id": "GV10",
+  "name": {
+    "en": "Lingtai",
+    "gloss": "Spirit Tower",
+    "zh-Hant": "靈臺",
+    "zh-Hans": "灵台"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 10,
+    "of": 28
+  },
+  "location": {
+    "text": "背部後正中線，第六胸椎棘突下；由肩胛骨下角水平往上數一個棘突。"
+  },
+  "for": [
+    "咳嗽",
+    "呼吸短促",
+    "脊背僵痛"
+  ],
+  "press": {
+    "text": "請旁人以拇指稍用力按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《銅人腧穴針灸圖經·卷中》",
+  "url": "https://acupoints.com/zh-hant/points/gv10",
+  "lastReviewed": "2026-08-24"
+}

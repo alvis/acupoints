@@ -1,0 +1,31 @@
+{
+  "id": "TH3",
+  "name": {
+    "en": "Zhongzhu",
+    "gloss": "Central Islet",
+    "zh-Hant": "中渚",
+    "zh-Hans": "中渚"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 3,
+    "of": 23
+  },
+  "location": {
+    "text": "手背，无名指与小指掌骨之间，指根关节后方的凹陷。"
+  },
+  "for": [
+    "耳鸣",
+    "头痛",
+    "肩臂酸痛"
+  ],
+  "press": {
+    "text": "以指腹轻柔按压，每手约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/th3",
+  "lastReviewed": "2026-08-24"
+}

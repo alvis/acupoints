@@ -1,0 +1,29 @@
+{
+  "id": "GV6",
+  "name": {
+    "en": "Jizhong",
+    "gloss": "Middle of the Spine",
+    "zh-Hant": "脊中",
+    "zh-Hans": "脊中"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 6,
+    "of": 28
+  },
+  "location": {
+    "text": "背部后正中线，第十一胸椎棘突下；由肩胛骨下角水平往下数四个棘突。"
+  },
+  "for": [
+    "腹部胀满",
+    "脊背僵痛"
+  ],
+  "press": {
+    "text": "请旁人以拇指稍用力按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gv6",
+  "lastReviewed": "2026-08-24"
+}

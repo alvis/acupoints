@@ -1,0 +1,30 @@
+{
+  "id": "HT4",
+  "name": {
+    "en": "Lingdao",
+    "gloss": "Spirit Way",
+    "zh-Hant": "靈道",
+    "zh-Hans": "灵道"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 4,
+    "of": 9
+  },
+  "location": {
+    "text": "前臂内侧，腕横纹上两横指，小指侧肌腱旁。"
+  },
+  "for": [
+    "突然失声",
+    "肘臂痛",
+    "悲伤恐惧"
+  ],
+  "press": {
+    "text": "一指指腹慢慢打圈，每侧一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/ht4",
+  "lastReviewed": "2026-08-24"
+}

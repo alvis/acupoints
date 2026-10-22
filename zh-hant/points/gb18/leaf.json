@@ -1,0 +1,31 @@
+{
+  "id": "GB18",
+  "name": {
+    "en": "Chengling",
+    "gloss": "Receiving the Spirit",
+    "zh-Hant": "承靈",
+    "zh-Hans": "承灵"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 18,
+    "of": 44
+  },
+  "location": {
+    "text": "頭頂，瞳孔直上的線上，前髮際內四橫指。"
+  },
+  "for": [
+    "頭痛",
+    "頭暈",
+    "鼻塞"
+  ],
+  "press": {
+    "text": "指腹輕按頭皮，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gb18",
+  "lastReviewed": "2026-08-24"
+}

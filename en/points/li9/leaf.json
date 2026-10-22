@@ -1,0 +1,31 @@
+{
+  "id": "LI9",
+  "name": {
+    "en": "Shanglian",
+    "gloss": "Upper Edge",
+    "zh-Hant": "上廉",
+    "zh-Hans": "上廉"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 9,
+    "of": 20
+  },
+  "location": {
+    "text": "On the back of the forearm, thumb side, four finger-widths below the outer end of the elbow crease."
+  },
+  "for": [
+    "an aching elbow and arm",
+    "numb hands",
+    "headache"
+  ],
+  "press": {
+    "text": "Firm thumb pressure, about a minute each arm.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 5",
+  "url": "https://acupoints.com/en/points/li9",
+  "lastReviewed": "2026-08-24"
+}

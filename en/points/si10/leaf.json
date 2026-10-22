@@ -1,0 +1,30 @@
+{
+  "id": "SI10",
+  "name": {
+    "en": "Naoshu",
+    "gloss": "Upper Arm’s Transport",
+    "zh-Hant": "臑俞",
+    "zh-Hans": "臑俞"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 10,
+    "of": 19
+  },
+  "location": {
+    "text": "Straight up from the end of the back armpit crease, in the dip under the ridge of the shoulder blade."
+  },
+  "for": [
+    "shoulder and arm pain",
+    "trouble lifting the arm"
+  ],
+  "press": {
+    "text": "Two finger pads, slow circles, one minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 4",
+  "url": "https://acupoints.com/en/points/si10",
+  "lastReviewed": "2026-08-24"
+}

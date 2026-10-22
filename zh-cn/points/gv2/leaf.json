@@ -1,0 +1,30 @@
+{
+  "id": "GV2",
+  "name": {
+    "en": "Yaoshu",
+    "gloss": "Waist Way-Station",
+    "zh-Hant": "腰俞",
+    "zh-Hans": "腰俞"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 2,
+    "of": 28
+  },
+  "location": {
+    "text": "背部正中线最下端，尾骨上方的凹陷中，两个小骨突之间。"
+  },
+  "for": [
+    "腰骶疼痛",
+    "痔疮",
+    "月经不调"
+  ],
+  "press": {
+    "text": "用指尖稍用力按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gv2",
+  "lastReviewed": "2026-08-24"
+}

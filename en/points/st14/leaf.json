@@ -1,0 +1,32 @@
+{
+  "id": "ST14",
+  "name": {
+    "en": "Kufang",
+    "gloss": "Storeroom",
+    "zh-Hant": "庫房",
+    "zh-Hans": "库房"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 14,
+    "of": 45
+  },
+  "location": {
+    "text": "On the chest, in line with the nipple, in the first gap between the ribs below the collarbone."
+  },
+  "for": [
+    "cough",
+    "shortness of breath",
+    "a full",
+    "sore chest"
+  ],
+  "press": {
+    "text": "Gentle pressure, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st14",
+  "lastReviewed": "2026-08-24"
+}

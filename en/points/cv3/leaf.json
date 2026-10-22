@@ -1,0 +1,32 @@
+{
+  "id": "CV3",
+  "name": {
+    "en": "Zhongji",
+    "gloss": "Central Pole",
+    "zh-Hant": "中極",
+    "zh-Hans": "中极"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 3,
+    "of": 24
+  },
+  "location": {
+    "text": "On the midline of the lower belly, one thumb-width above the pubic bone."
+  },
+  "for": [
+    "period pain",
+    "irregular periods",
+    "bladder discomfort"
+  ],
+  "press": {
+    "text": "Gentle with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv3",
+  "lastReviewed": "2026-08-24"
+}

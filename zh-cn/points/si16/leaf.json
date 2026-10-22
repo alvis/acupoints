@@ -1,0 +1,32 @@
+{
+  "id": "SI16",
+  "name": {
+    "en": "Tianchuang",
+    "gloss": "Heaven’s Window",
+    "zh-Hant": "天窗",
+    "zh-Hans": "天窗"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 16,
+    "of": 19
+  },
+  "location": {
+    "text": "颈侧，与喉结同高，颈部斜行大肌的后缘。"
+  },
+  "for": [
+    "耳鸣",
+    "咽喉肿痛",
+    "颈项强痛"
+  ],
+  "press": {
+    "text": "轻触肌肉，一次一侧，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "附近有颈动脉，摸到脉动即移开。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/si16",
+  "lastReviewed": "2026-08-24"
+}

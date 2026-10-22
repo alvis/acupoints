@@ -1,0 +1,33 @@
+{
+  "id": "BL12",
+  "name": {
+    "en": "Fengmen",
+    "gloss": "Wind Gate",
+    "zh-Hant": "風門",
+    "zh-Hans": "风门"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 12,
+    "of": 67
+  },
+  "location": {
+    "text": "第七頸椎往下第二個骨突下方，脊柱旁開兩橫指。"
+  },
+  "for": [
+    "感冒",
+    "咳嗽",
+    "頸痛"
+  ],
+  "press": {
+    "text": "請家人用拇指輕按，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "下方是肺，只宜輕按，切勿用力。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl12",
+  "lastReviewed": "2026-08-24"
+}

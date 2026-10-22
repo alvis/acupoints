@@ -1,0 +1,30 @@
+{
+  "id": "ST45",
+  "name": {
+    "en": "Lidui",
+    "gloss": "Sharp Exchange",
+    "zh-Hant": "厲兌",
+    "zh-Hans": "厉兑"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 45,
+    "of": 45
+  },
+  "location": {
+    "text": "On the second toe, just off the corner of the nail on the side away from the big toe."
+  },
+  "for": [
+    "nosebleed",
+    "toothache",
+    "dream-filled sleep"
+  ],
+  "press": {
+    "text": "Press with a fingernail edge, on and off, for about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st45",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "PC8",
+  "name": {
+    "en": "Laogong",
+    "gloss": "Palace of Toil",
+    "zh-Hant": "勞宮",
+    "zh-Hans": "劳宫"
+  },
+  "channel": {
+    "id": "PC",
+    "order": 8,
+    "of": 9
+  },
+  "location": {
+    "text": "In the centre of the palm, where the tip of the middle finger lands when you make a loose fist."
+  },
+  "for": [
+    "mouth ulcers",
+    "bad breath",
+    "numb fingers"
+  ],
+  "press": {
+    "text": "Gentle pressure with the other thumb pad, no nails, about a minute; then switch.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Lingshu, chapter 2",
+  "url": "https://acupoints.com/en/points/pc8",
+  "lastReviewed": "2026-08-24"
+}

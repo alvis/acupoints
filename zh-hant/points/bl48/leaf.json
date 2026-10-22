@@ -1,0 +1,29 @@
+{
+  "id": "BL48",
+  "name": {
+    "en": "Yanggang",
+    "gloss": "Yang’s Guiding Cord",
+    "zh-Hant": "陽綱",
+    "zh-Hans": "阳纲"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 48,
+    "of": 67
+  },
+  "location": {
+    "text": "肩胛骨下角水平再往下三個骨突（第十胸椎下），脊柱旁開四橫指。"
+  },
+  "for": [
+    "腸鳴腹痛",
+    "腹瀉"
+  ],
+  "press": {
+    "text": "請家人以拇指按，或背靠牆壓一顆軟球，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl48",
+  "lastReviewed": "2026-08-24"
+}

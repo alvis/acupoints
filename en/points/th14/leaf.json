@@ -1,0 +1,29 @@
+{
+  "id": "TH14",
+  "name": {
+    "en": "Jianliao",
+    "gloss": "Shoulder Hollow",
+    "zh-Hant": "肩髎",
+    "zh-Hans": "肩髎"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 14,
+    "of": 23
+  },
+  "location": {
+    "text": "Lift the arm out to the side: the hollow that appears behind and below the tip of the shoulder."
+  },
+  "for": [
+    "A heavy shoulder that will not lift",
+    "arm pain"
+  ],
+  "press": {
+    "text": "Gentle finger pressure, about a minute each shoulder.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 4",
+  "url": "https://acupoints.com/en/points/th14",
+  "lastReviewed": "2026-08-24"
+}

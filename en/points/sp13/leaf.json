@@ -1,0 +1,32 @@
+{
+  "id": "SP13",
+  "name": {
+    "en": "Fushe",
+    "gloss": "Mansion Lodging",
+    "zh-Hant": "府舍",
+    "zh-Hans": "府舍"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 13,
+    "of": 21
+  },
+  "location": {
+    "text": "Low on the belly just above the groin crease, about a finger-width above Chongmen (SP12)."
+  },
+  "for": [
+    "lower belly pain",
+    "aching at the groin"
+  ],
+  "press": {
+    "text": "Lying with knees bent, gentle finger pads, one minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Not on the belly in pregnancy; keep off any pulse in the groin."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/sp13",
+  "lastReviewed": "2026-08-24"
+}

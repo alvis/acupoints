@@ -1,0 +1,30 @@
+{
+  "id": "GV8",
+  "name": {
+    "en": "Jinsuo",
+    "gloss": "Sinew Contraction",
+    "zh-Hant": "筋縮",
+    "zh-Hans": "筋缩"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 8,
+    "of": 28
+  },
+  "location": {
+    "text": "On the spine, below the ninth thoracic bump: two bumps below the level of the shoulder-blade tips."
+  },
+  "for": [
+    "A stiff spine",
+    "stomach ache",
+    "low-back pain"
+  ],
+  "press": {
+    "text": "Ask a helper to press firmly with a thumb, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv8",
+  "lastReviewed": "2026-08-24"
+}

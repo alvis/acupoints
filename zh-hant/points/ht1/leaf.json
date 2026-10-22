@@ -1,0 +1,32 @@
+{
+  "id": "HT1",
+  "name": {
+    "en": "Jiquan",
+    "gloss": "Summit Spring",
+    "zh-Hant": "極泉",
+    "zh-Hans": "极泉"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 1,
+    "of": 9
+  },
+  "location": {
+    "text": "舉臂，腋窩正中可摸到脈動處。"
+  },
+  "for": [
+    "肩臂痛",
+    "脅肋痛"
+  ],
+  "press": {
+    "text": "在脈動旁輕觸，勿壓脈上，每側一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "此處有腋動脈，不可壓在脈動上。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/ht1",
+  "lastReviewed": "2026-08-24"
+}

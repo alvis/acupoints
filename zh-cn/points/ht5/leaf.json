@@ -1,0 +1,30 @@
+{
+  "id": "HT5",
+  "name": {
+    "en": "Tongli",
+    "gloss": "Connecting to the Interior",
+    "zh-Hant": "通里",
+    "zh-Hans": "通里"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 5,
+    "of": 9
+  },
+  "location": {
+    "text": "前臂内侧，腕横纹上一拇指宽，小指侧肌腱旁。"
+  },
+  "for": [
+    "心悸",
+    "突然失声",
+    "腕臂痛"
+  ],
+  "press": {
+    "text": "两指指腹慢慢打圈，每侧一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/ht5",
+  "lastReviewed": "2026-08-25"
+}

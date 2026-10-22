@@ -1,0 +1,31 @@
+{
+  "id": "GV6",
+  "name": {
+    "en": "Jizhong",
+    "gloss": "Middle of the Spine",
+    "zh-Hant": "脊中",
+    "zh-Hans": "脊中"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 6,
+    "of": 28
+  },
+  "location": {
+    "text": "On the spine, below the eleventh thoracic bump: four bumps below the level of the shoulder-blade tips."
+  },
+  "for": [
+    "A full",
+    "bloated belly",
+    "a stiff",
+    "aching spine"
+  ],
+  "press": {
+    "text": "Ask a helper to press firmly with a thumb, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv6",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ST33",
+  "name": {
+    "en": "Yinshi",
+    "gloss": "Yin Market",
+    "zh-Hant": "陰市",
+    "zh-Hans": "阴市"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 33,
+    "of": 45
+  },
+  "location": {
+    "text": "On the front of the thigh, four finger-widths above the outer top corner of the kneecap."
+  },
+  "for": [
+    "weak legs",
+    "knees that will not bend or straighten easily"
+  ],
+  "press": {
+    "text": "Firm thumb pressure, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st33",
+  "lastReviewed": "2026-08-24"
+}

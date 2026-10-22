@@ -1,0 +1,32 @@
+{
+  "id": "SP5",
+  "name": {
+    "en": "Shangqiu",
+    "gloss": "Mound of Shang",
+    "zh-Hant": "商丘",
+    "zh-Hans": "商丘"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 5,
+    "of": 21
+  },
+  "location": {
+    "text": "内踝前下方的凹陷处。"
+  },
+  "for": [
+    "腹胀",
+    "腹泻或便秘",
+    "脚踝疼痛"
+  ],
+  "press": {
+    "text": "拇指或两指指腹慢慢打圈，每侧一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "脚踝新扭伤或肿胀时不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/sp5",
+  "lastReviewed": "2026-08-24"
+}

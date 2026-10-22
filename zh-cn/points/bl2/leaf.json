@@ -1,0 +1,33 @@
+{
+  "id": "BL2",
+  "name": {
+    "en": "Cuanzhu",
+    "gloss": "Gathered Bamboo",
+    "zh-Hant": "攢竹",
+    "zh-Hans": "攒竹"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 2,
+    "of": 67
+  },
+  "location": {
+    "text": "眉头内端的小凹陷，在眼内角上方的骨缘上。"
+  },
+  "for": [
+    "头痛",
+    "眉棱骨痛",
+    "眼皮跳"
+  ],
+  "press": {
+    "text": "指腹在骨上慢慢打小圈，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "只按眉骨，切勿往下按到眼球。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl2",
+  "lastReviewed": "2026-08-24"
+}

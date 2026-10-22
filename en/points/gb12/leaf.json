@@ -1,0 +1,34 @@
+{
+  "id": "GB12",
+  "name": {
+    "en": "Wangu",
+    "gloss": "Completed Bone",
+    "zh-Hant": "完骨",
+    "zh-Hans": "完骨"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 12,
+    "of": 44
+  },
+  "location": {
+    "text": "In the soft hollow just below and behind the bony knob behind the earlobe."
+  },
+  "for": [
+    "headache",
+    "a stiff",
+    "sore neck",
+    "toothache"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "In pregnancy, ask a practitioner first."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gb12",
+  "lastReviewed": "2026-08-24"
+}

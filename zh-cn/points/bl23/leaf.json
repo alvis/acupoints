@@ -1,0 +1,32 @@
+{
+  "id": "BL23",
+  "name": {
+    "en": "Shenshu",
+    "gloss": "The Kidney’s Transport",
+    "zh-Hant": "腎俞",
+    "zh-Hans": "肾俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 23,
+    "of": 67
+  },
+  "location": {
+    "text": "腰部，与肚脐同高，脊柱旁开两横指。"
+  },
+  "for": [
+    "腰痛",
+    "耳鸣",
+    "遗尿"
+  ],
+  "press": {
+    "text": "双手叉腰，以拇指稍用力按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "下方是肾，只宜轻按，切勿用力。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl23",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "BL19",
+  "name": {
+    "en": "Danshu",
+    "gloss": "The Gallbladder’s Transport",
+    "zh-Hant": "膽俞",
+    "zh-Hans": "胆俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 19,
+    "of": 67
+  },
+  "location": {
+    "text": "Three bumps below the shoulder-blade tips (below the tenth bump from C7), two finger-widths to each side."
+  },
+  "for": [
+    "A bitter taste in the mouth",
+    "aching under the ribs"
+  ],
+  "press": {
+    "text": "Ask a partner to press with a thumb, or lean on a soft ball against a wall, a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl19",
+  "lastReviewed": "2026-08-24"
+}

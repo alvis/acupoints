@@ -1,0 +1,30 @@
+{
+  "id": "GB5",
+  "name": {
+    "en": "Xuanlu",
+    "gloss": "Suspended Skull",
+    "zh-Hant": "懸顱",
+    "zh-Hans": "悬颅"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 5,
+    "of": 44
+  },
+  "location": {
+    "text": "鬓角发际内，额角发际至耳尖弧线的中点。"
+  },
+  "for": [
+    "偏头痛",
+    "头晕",
+    "牙痛"
+  ],
+  "press": {
+    "text": "指腹轻按头皮约一分钟；头痛发作时不按。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《铜人腧穴针灸图经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gb5",
+  "lastReviewed": "2026-08-24"
+}

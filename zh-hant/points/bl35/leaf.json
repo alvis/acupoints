@@ -1,0 +1,31 @@
+{
+  "id": "BL35",
+  "name": {
+    "en": "Huiyang",
+    "gloss": "Meeting of Yang",
+    "zh-Hant": "會陽",
+    "zh-Hans": "会阳"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 35,
+    "of": 67
+  },
+  "location": {
+    "text": "尾骨尖兩旁，各約半拇指寬處。"
+  },
+  "for": [
+    "痔瘡",
+    "腹瀉"
+  ],
+  "press": {
+    "text": "隔著衣物以指腹輕按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "痔瘡發作疼痛或皮膚破損時不按。"
+  ],
+  "source": "《銅人腧穴針灸圖經·卷四》",
+  "url": "https://acupoints.com/zh-hant/points/bl35",
+  "lastReviewed": "2026-08-24"
+}

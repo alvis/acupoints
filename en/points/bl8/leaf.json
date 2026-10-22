@@ -1,0 +1,31 @@
+{
+  "id": "BL8",
+  "name": {
+    "en": "Luoque",
+    "gloss": "The Net That Steps Back",
+    "zh-Hant": "絡卻",
+    "zh-Hans": "络却"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 8,
+    "of": 67
+  },
+  "location": {
+    "text": "Just behind the crown, two finger-widths behind BL7 and two finger-widths out from the centre line."
+  },
+  "for": [
+    "dizziness",
+    "ringing in the ears",
+    "blurred vision"
+  ],
+  "press": {
+    "text": "Small circles with two fingertips, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl8",
+  "lastReviewed": "2026-08-24"
+}

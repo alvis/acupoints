@@ -1,0 +1,30 @@
+{
+  "id": "GV17",
+  "name": {
+    "en": "Naohu",
+    "gloss": "Brain's Door",
+    "zh-Hant": "腦戶",
+    "zh-Hans": "脑户"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 17,
+    "of": 28
+  },
+  "location": {
+    "text": "后头部，枕骨隆突上缘的凹陷中，风府直上两横指。"
+  },
+  "for": [
+    "头痛",
+    "颈项僵硬",
+    "头晕"
+  ],
+  "press": {
+    "text": "轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gv17",
+  "lastReviewed": "2026-08-24"
+}

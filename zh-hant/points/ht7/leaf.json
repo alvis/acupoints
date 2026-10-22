@@ -1,0 +1,30 @@
+{
+  "id": "HT7",
+  "name": {
+    "en": "Shenmen",
+    "gloss": "Spirit Gate",
+    "zh-Hant": "神門",
+    "zh-Hans": "神门"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 7,
+    "of": 9
+  },
+  "location": {
+    "text": "腕橫紋小指側端，肌腱旁的凹陷。"
+  },
+  "for": [
+    "失眠",
+    "心煩",
+    "健忘"
+  ],
+  "press": {
+    "text": "兩指指腹慢慢打圈，每側一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/ht7",
+  "lastReviewed": "2026-08-24"
+}

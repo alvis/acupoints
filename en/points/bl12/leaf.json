@@ -1,0 +1,33 @@
+{
+  "id": "BL12",
+  "name": {
+    "en": "Fengmen",
+    "gloss": "Wind Gate",
+    "zh-Hant": "風門",
+    "zh-Hans": "风门"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 12,
+    "of": 67
+  },
+  "location": {
+    "text": "Below the second bump under the neck bone (C7), two finger-widths to each side of the spine."
+  },
+  "for": [
+    "common cold",
+    "cough",
+    "neck ache"
+  ],
+  "press": {
+    "text": "Ask a partner to press gently with a thumb, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "The lungs lie beneath: gentle pressure only, never hard or sharp."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl12",
+  "lastReviewed": "2026-08-24"
+}

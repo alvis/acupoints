@@ -1,0 +1,32 @@
+{
+  "id": "CV4",
+  "name": {
+    "en": "Guanyuan",
+    "gloss": "Gate of the Origin",
+    "zh-Hant": "關元",
+    "zh-Hans": "关元"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 4,
+    "of": 24
+  },
+  "location": {
+    "text": "On the midline of the lower belly, four finger-widths below the navel."
+  },
+  "for": [
+    "period pain",
+    "frequent urination",
+    "tiredness with a feeling of cold"
+  ],
+  "press": {
+    "text": "Gentle with the palm or fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv4",
+  "lastReviewed": "2026-08-24"
+}

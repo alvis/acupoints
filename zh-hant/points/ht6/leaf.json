@@ -1,0 +1,29 @@
+{
+  "id": "HT6",
+  "name": {
+    "en": "Yinxi",
+    "gloss": "Yin Cleft",
+    "zh-Hant": "陰郄",
+    "zh-Hans": "阴郄"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 6,
+    "of": 9
+  },
+  "location": {
+    "text": "前臂內側，腕橫紋上半拇指寬，小指側肌腱旁。"
+  },
+  "for": [
+    "心悸易驚",
+    "盜汗"
+  ],
+  "press": {
+    "text": "兩指指腹慢慢打圈，每側一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《銅人腧穴針灸圖經·卷五》",
+  "url": "https://acupoints.com/zh-hant/points/ht6",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "LV11",
+  "name": {
+    "en": "Yinlian",
+    "gloss": "Margin of the Yin",
+    "zh-Hant": "陰廉",
+    "zh-Hans": "阴廉"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 11,
+    "of": 14
+  },
+  "location": {
+    "text": "大腿内侧根部，腹股沟下三横指，夹腿时浮起的肌腱旁。"
+  },
+  "for": [
+    "月经不调",
+    "小腹痛"
+  ],
+  "press": {
+    "text": "指腹轻按，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "摸到脉搏跳动处，切勿按压。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/lv11",
+  "lastReviewed": "2026-08-24"
+}

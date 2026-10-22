@@ -1,0 +1,30 @@
+{
+  "id": "CV18",
+  "name": {
+    "en": "Yutang",
+    "gloss": "Jade Hall",
+    "zh-Hant": "玉堂",
+    "zh-Hans": "玉堂"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 18,
+    "of": 24
+  },
+  "location": {
+    "text": "胸骨正中線，平第三肋間。"
+  },
+  "for": [
+    "胸悶",
+    "咳嗽",
+    "咽喉痛"
+  ],
+  "press": {
+    "text": "在胸骨上輕按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/cv18",
+  "lastReviewed": "2026-08-24"
+}

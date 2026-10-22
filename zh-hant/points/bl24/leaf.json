@@ -1,0 +1,29 @@
+{
+  "id": "BL24",
+  "name": {
+    "en": "Qihaishu",
+    "gloss": "Sea-of-Qi Transport",
+    "zh-Hant": "氣海俞",
+    "zh-Hans": "气海俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 24,
+    "of": 67
+  },
+  "location": {
+    "text": "腰部，比肚臍水平低一個骨突（第三腰椎下），脊柱旁開兩橫指。"
+  },
+  "for": [
+    "腰痛",
+    "經痛",
+    "腹脹"
+  ],
+  "press": {
+    "text": "雙手叉腰，以拇指稍用力按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/zh-hant/points/bl24",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "SP16",
+  "name": {
+    "en": "Fu’ai",
+    "gloss": "Belly’s Sorrow",
+    "zh-Hant": "腹哀",
+    "zh-Hans": "腹哀"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 16,
+    "of": 21
+  },
+  "location": {
+    "text": "乳头直下，肚脐水平上四横指。"
+  },
+  "for": [
+    "腹痛",
+    "消化不良",
+    "便秘"
+  ],
+  "press": {
+    "text": "指腹轻按，每侧一分钟；饱餐后不按。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按腹部。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/sp16",
+  "lastReviewed": "2026-08-24"
+}

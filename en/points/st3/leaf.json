@@ -1,0 +1,31 @@
+{
+  "id": "ST3",
+  "name": {
+    "en": "Juliao",
+    "gloss": "Great Bone-Hollow",
+    "zh-Hant": "巨髎",
+    "zh-Hans": "巨髎"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 3,
+    "of": 45
+  },
+  "location": {
+    "text": "Straight below the pupil, level with the bottom of the nostril, just outside the smile line."
+  },
+  "for": [
+    "toothache",
+    "nosebleed",
+    "a puffy cheek"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st3",
+  "lastReviewed": "2026-08-24"
+}

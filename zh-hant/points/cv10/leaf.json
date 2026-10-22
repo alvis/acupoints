@@ -1,0 +1,30 @@
+{
+  "id": "CV10",
+  "name": {
+    "en": "Xiawan",
+    "gloss": "Lower Stomach Cavity",
+    "zh-Hant": "下脘",
+    "zh-Hans": "下脘"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 10,
+    "of": 24
+  },
+  "location": {
+    "text": "腹部正中線，肚臍上兩拇指寬。"
+  },
+  "for": [
+    "腹脹",
+    "消化不良",
+    "打嗝"
+  ],
+  "press": {
+    "text": "以指腹輕按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/cv10",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "TH11",
+  "name": {
+    "en": "Qinglengyuan",
+    "gloss": "Clear Cold Deep Pool",
+    "zh-Hant": "清冷淵",
+    "zh-Hans": "清冷渊"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 11,
+    "of": 23
+  },
+  "location": {
+    "text": "屈肘，肘尖上三橫指。"
+  },
+  "for": [
+    "手臂痠痛",
+    "頭痛",
+    "頸項強痛"
+  ],
+  "press": {
+    "text": "以指腹輕柔按壓，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《銅人腧穴針灸圖經·卷下》",
+  "url": "https://acupoints.com/zh-hant/points/th11",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "LI10",
+  "name": {
+    "en": "Shousanli",
+    "gloss": "Arm Three Miles",
+    "zh-Hant": "手三里",
+    "zh-Hans": "手三里"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 10,
+    "of": 20
+  },
+  "location": {
+    "text": "前臂背面靠拇指一側，肘橫紋外端下三橫指處。"
+  },
+  "for": [
+    "手臂無力",
+    "腹痛",
+    "牙痛"
+  ],
+  "press": {
+    "text": "拇指稍用力按入肌肉，每臂約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《銅人腧穴針灸圖經·卷五》",
+  "url": "https://acupoints.com/zh-hant/points/li10",
+  "lastReviewed": "2026-08-24"
+}

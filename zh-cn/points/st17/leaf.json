@@ -1,0 +1,30 @@
+{
+  "id": "ST17",
+  "name": {
+    "en": "Ruzhong",
+    "gloss": "Middle of the Breast",
+    "zh-Hant": "乳中",
+    "zh-Hans": "乳中"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 17,
+    "of": 45
+  },
+  "location": {
+    "text": "乳头正中，第四肋间隙。"
+  },
+  "for": [
+    "作为定位周围胸部穴位的标志"
+  ],
+  "press": {
+    "text": "不要按压：此穴即乳头，只作定位标志。",
+    "pressable": false
+  },
+  "cautions": [
+    "古籍告诫不可在此施术。"
+  ],
+  "source": "《铜人腧穴针灸图经·卷四》",
+  "url": "https://acupoints.com/zh-cn/points/st17",
+  "lastReviewed": "2026-08-24"
+}

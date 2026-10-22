@@ -1,0 +1,33 @@
+{
+  "id": "BL57",
+  "name": {
+    "en": "Chengshan",
+    "gloss": "Supporting the Mountain",
+    "zh-Hant": "承山",
+    "zh-Hans": "承山"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 57,
+    "of": 67
+  },
+  "location": {
+    "text": "小腿後側正中，踮腳時小腿肚下方出現的尖形凹陷。"
+  },
+  "for": [
+    "小腿抽筋",
+    "痔瘡",
+    "便秘"
+  ],
+  "press": {
+    "text": "以拇指稍用力按，每條腿約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "小腿突然腫、熱、痛時不按，並應就醫。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl57",
+  "lastReviewed": "2026-08-24"
+}

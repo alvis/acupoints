@@ -1,0 +1,30 @@
+{
+  "id": "HT8",
+  "name": {
+    "en": "Shaofu",
+    "gloss": "Young Palace",
+    "zh-Hant": "少府",
+    "zh-Hans": "少府"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 8,
+    "of": 9
+  },
+  "location": {
+    "text": "On the palm, where the tip of the little finger rests when you make a fist."
+  },
+  "for": [
+    "palpitations",
+    "itchy sores",
+    "a cramping little finger"
+  ],
+  "press": {
+    "text": "Thumb pad, slow circles, one minute each palm.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ht8",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GB2",
+  "name": {
+    "en": "Tinghui",
+    "gloss": "Where Hearing Gathers",
+    "zh-Hant": "聽會",
+    "zh-Hans": "听会"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 2,
+    "of": 44
+  },
+  "location": {
+    "text": "耳屏下方小切迹前，张口时出现的凹陷中。"
+  },
+  "for": [
+    "耳鸣",
+    "牙痛",
+    "面部疼痛"
+  ],
+  "press": {
+    "text": "微微张口，指腹轻按约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gb2",
+  "lastReviewed": "2026-08-24"
+}

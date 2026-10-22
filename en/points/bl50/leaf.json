@@ -1,0 +1,30 @@
+{
+  "id": "BL50",
+  "name": {
+    "en": "Weicang",
+    "gloss": "The Stomach Granary",
+    "zh-Hant": "胃倉",
+    "zh-Hans": "胃仓"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 50,
+    "of": 67
+  },
+  "location": {
+    "text": "Below the twelfth bump counted down from the neck bone (C7), four finger-widths from the spine."
+  },
+  "for": [
+    "stomach ache",
+    "bloating",
+    "back ache"
+  ],
+  "press": {
+    "text": "Ask a partner to press with a thumb, or lean on a soft ball against a wall, a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl50",
+  "lastReviewed": "2026-08-25"
+}

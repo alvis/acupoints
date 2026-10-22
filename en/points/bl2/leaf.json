@@ -1,0 +1,33 @@
+{
+  "id": "BL2",
+  "name": {
+    "en": "Cuanzhu",
+    "gloss": "Gathered Bamboo",
+    "zh-Hant": "攢竹",
+    "zh-Hans": "攒竹"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 2,
+    "of": 67
+  },
+  "location": {
+    "text": "In the small notch at the inner end of the eyebrow, on the bone above the inner corner of the eye."
+  },
+  "for": [
+    "headache",
+    "aching brow",
+    "twitching eyelids"
+  ],
+  "press": {
+    "text": "Small slow circles with a fingertip on the bone, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Press the brow bone only, never down into the eye."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl2",
+  "lastReviewed": "2026-08-24"
+}

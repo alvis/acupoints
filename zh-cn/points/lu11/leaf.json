@@ -1,0 +1,30 @@
+{
+  "id": "LU11",
+  "name": {
+    "en": "Shaoshang",
+    "gloss": "Lesser Shang",
+    "zh-Hant": "少商",
+    "zh-Hans": "少商"
+  },
+  "channel": {
+    "id": "LU",
+    "order": 11,
+    "of": 11
+  },
+  "location": {
+    "text": "拇指指甲角旁，远离食指的一侧。"
+  },
+  "for": [
+    "喉咙痛",
+    "流鼻血",
+    "发烧"
+  ],
+  "press": {
+    "text": "用另一手指甲边缘一按一放，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/lu11",
+  "lastReviewed": "2026-08-24"
+}

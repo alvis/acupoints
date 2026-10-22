@@ -1,0 +1,30 @@
+{
+  "id": "SP2",
+  "name": {
+    "en": "Dadu",
+    "gloss": "Great Capital",
+    "zh-Hant": "大都",
+    "zh-Hans": "大都"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 2,
+    "of": 21
+  },
+  "location": {
+    "text": "腳內側緣，大腳趾根部關節前方，腳背與腳底膚色交界處。"
+  },
+  "for": [
+    "腹脹",
+    "胃痛",
+    "手腳冰冷"
+  ],
+  "press": {
+    "text": "拇指腹慢慢打小圈，每隻腳一分鐘，勿重壓關節。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/zh-hant/points/sp2",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ST30",
+  "name": {
+    "en": "Qichong",
+    "gloss": "Qi Surge",
+    "zh-Hant": "氣衝",
+    "zh-Hans": "气冲"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 30,
+    "of": 45
+  },
+  "location": {
+    "text": "Just above the groin, level with the top of the pubic bone, three finger-widths out from the midline."
+  },
+  "for": [
+    "A rumbling",
+    "aching belly",
+    "irregular periods"
+  ],
+  "press": {
+    "text": "Light touch; if a pulse beats under the finger, move outward off it."
+  },
+  "cautions": [
+    "Large vessels run close by; not in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st30",
+  "lastReviewed": "2026-08-24"
+}

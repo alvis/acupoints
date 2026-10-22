@@ -1,0 +1,32 @@
+{
+  "id": "LV13",
+  "name": {
+    "en": "Zhangmen",
+    "gloss": "Orderly Gate",
+    "zh-Hant": "章門",
+    "zh-Hans": "章门"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 13,
+    "of": 14
+  },
+  "location": {
+    "text": "On the side of the belly, just below the free tip of the second-lowest rib."
+  },
+  "for": [
+    "pain under the ribs",
+    "a bloated belly",
+    "loose stools"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure on the muscle, not under the ribs; about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not during a stomach upset; in pregnancy, ask a practitioner first."
+  ],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 4",
+  "url": "https://acupoints.com/en/points/lv13",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "SI7",
+  "name": {
+    "en": "Zhizheng",
+    "gloss": "Branch to the Main Line",
+    "zh-Hant": "支正",
+    "zh-Hans": "支正"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 7,
+    "of": 19
+  },
+  "location": {
+    "text": "前臂小指側邊緣，腕與肘連線中點稍下方。"
+  },
+  "for": [
+    "頭痛",
+    "頸項強",
+    "肘臂痠痛"
+  ],
+  "press": {
+    "text": "兩指指腹慢慢打圈，每臂一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《銅人腧穴針灸圖經·卷五》",
+  "url": "https://acupoints.com/zh-hant/points/si7",
+  "lastReviewed": "2026-08-24"
+}

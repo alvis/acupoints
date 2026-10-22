@@ -1,0 +1,33 @@
+{
+  "id": "SP8",
+  "name": {
+    "en": "Diji",
+    "gloss": "Pivot of the Earth",
+    "zh-Hant": "地機",
+    "zh-Hans": "地机"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 8,
+    "of": 21
+  },
+  "location": {
+    "text": "小腿內側，陰陵泉下四橫指，脛骨內側緣後方。"
+  },
+  "for": [
+    "經痛",
+    "月經不調",
+    "腹瀉"
+  ],
+  "press": {
+    "text": "兩指指腹慢慢打圈，每條腿一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期按壓前，先請教醫師。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/sp8",
+  "lastReviewed": "2026-08-24"
+}

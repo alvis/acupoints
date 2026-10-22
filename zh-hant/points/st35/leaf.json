@@ -1,0 +1,32 @@
+{
+  "id": "ST35",
+  "name": {
+    "en": "Dubi",
+    "gloss": "Calf's Nose",
+    "zh-Hant": "犢鼻",
+    "zh-Hans": "犊鼻"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 35,
+    "of": 45
+  },
+  "location": {
+    "text": "屈膝，髕骨下方、髕韌帶外側的凹陷（外膝眼）。"
+  },
+  "for": [
+    "膝痛",
+    "膝蓋屈伸不利",
+    "膝部麻木"
+  ],
+  "press": {
+    "text": "屈膝，以指尖按入凹陷，每膝約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "膝部皮膚破損或流膿時不按。"
+  ],
+  "source": "《銅人腧穴針灸圖經·卷五》",
+  "url": "https://acupoints.com/zh-hant/points/st35",
+  "lastReviewed": "2026-08-24"
+}

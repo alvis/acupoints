@@ -1,0 +1,32 @@
+{
+  "id": "BL16",
+  "name": {
+    "en": "Dushu",
+    "gloss": "Transport of the Overseer",
+    "zh-Hant": "督俞",
+    "zh-Hans": "督俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 16,
+    "of": 67
+  },
+  "location": {
+    "text": "Below the sixth bump under the neck bone (C7), two finger-widths to each side of the spine."
+  },
+  "for": [
+    "A tight chest",
+    "stomach ache",
+    "a rumbling belly"
+  ],
+  "press": {
+    "text": "Ask a partner to press gently with a thumb, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "The lungs lie beneath: gentle pressure only, never hard or sharp."
+  ],
+  "url": "https://acupoints.com/en/points/bl16",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ST41",
+  "name": {
+    "en": "Jiexi",
+    "gloss": "Divided Stream",
+    "zh-Hant": "解溪",
+    "zh-Hans": "解溪"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 41,
+    "of": 45
+  },
+  "location": {
+    "text": "足背与小腿交界的横纹中点，两条肌腱之间的凹陷。"
+  },
+  "for": [
+    "脚踝痛",
+    "足部无力",
+    "头痛"
+  ],
+  "press": {
+    "text": "以指尖按入凹陷，每侧脚踝约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/st41",
+  "lastReviewed": "2026-08-24"
+}

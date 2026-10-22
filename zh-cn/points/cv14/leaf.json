@@ -1,0 +1,30 @@
+{
+  "id": "CV14",
+  "name": {
+    "en": "Juque",
+    "gloss": "Great Gateway",
+    "zh-Hant": "巨闕",
+    "zh-Hans": "巨阙"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 14,
+    "of": 24
+  },
+  "location": {
+    "text": "上腹正中线，胸骨下端往下两拇指宽。"
+  },
+  "for": [
+    "心悸",
+    "腹胀",
+    "呕吐"
+  ],
+  "press": {
+    "text": "以指腹轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/cv14",
+  "lastReviewed": "2026-08-24"
+}

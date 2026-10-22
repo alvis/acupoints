@@ -1,0 +1,31 @@
+{
+  "id": "BL62",
+  "name": {
+    "en": "Shenmai",
+    "gloss": "The Extending Vessel",
+    "zh-Hant": "申脈",
+    "zh-Hans": "申脉"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 62,
+    "of": 67
+  },
+  "location": {
+    "text": "In the hollow directly below the tip of the outer ankle bone."
+  },
+  "for": [
+    "headache",
+    "dizziness",
+    "poor sleep"
+  ],
+  "press": {
+    "text": "Thumb pressure into the hollow, about a minute each foot.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl62",
+  "lastReviewed": "2026-08-25"
+}

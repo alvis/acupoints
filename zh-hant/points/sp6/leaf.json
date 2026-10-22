@@ -1,0 +1,33 @@
+{
+  "id": "SP6",
+  "name": {
+    "en": "Sanyinjiao",
+    "gloss": "Three Yin Intersection",
+    "zh-Hant": "三陰交",
+    "zh-Hans": "三阴交"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 6,
+    "of": 21
+  },
+  "location": {
+    "text": "內踝尖上四橫指，脛骨內側緣後方。"
+  },
+  "for": [
+    "經痛",
+    "月經不調",
+    "失眠"
+  ],
+  "press": {
+    "text": "拇指腹慢慢打圈，每條腿一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期絕不可按；可能懷孕時，先請教醫師。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/sp6",
+  "lastReviewed": "2026-08-24"
+}

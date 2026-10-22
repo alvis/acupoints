@@ -1,0 +1,30 @@
+{
+  "id": "TH4",
+  "name": {
+    "en": "Yangchi",
+    "gloss": "Yang Pool",
+    "zh-Hant": "陽池",
+    "zh-Hans": "阳池"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 4,
+    "of": 23
+  },
+  "location": {
+    "text": "On the back wrist crease, in the dip on the little-finger side of the finger tendons."
+  },
+  "for": [
+    "wrist pain",
+    "aching shoulder and arm",
+    "ringing ears"
+  ],
+  "press": {
+    "text": "Light fingertip pressure, not into the joint, about a minute each wrist.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/th4",
+  "lastReviewed": "2026-08-24"
+}

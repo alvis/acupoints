@@ -1,0 +1,29 @@
+{
+  "id": "KI10",
+  "name": {
+    "en": "Yingu",
+    "gloss": "Yin Valley",
+    "zh-Hant": "陰谷",
+    "zh-Hans": "阴谷"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 10,
+    "of": 27
+  },
+  "location": {
+    "text": "With the knee bent, at the inner end of the crease behind the knee, between two tendons."
+  },
+  "for": [
+    "inner knee and thigh pain",
+    "difficult urination"
+  ],
+  "press": {
+    "text": "Gentle finger pressure, no digging, about a minute each knee.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki10",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "CV7",
+  "name": {
+    "en": "Yinjiao",
+    "gloss": "Yin Intersection",
+    "zh-Hant": "陰交",
+    "zh-Hans": "阴交"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 7,
+    "of": 24
+  },
+  "location": {
+    "text": "下腹正中線，肚臍下一拇指寬。"
+  },
+  "for": [
+    "腹痛",
+    "腹瀉",
+    "月經不調"
+  ],
+  "press": {
+    "text": "以指腹輕按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期不按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/cv7",
+  "lastReviewed": "2026-08-24"
+}

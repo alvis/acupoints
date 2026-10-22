@@ -1,0 +1,33 @@
+{
+  "id": "BL39",
+  "name": {
+    "en": "Weiyang",
+    "gloss": "The Bent Yang",
+    "zh-Hant": "委陽",
+    "zh-Hans": "委阳"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 39,
+    "of": 67
+  },
+  "location": {
+    "text": "At the outer end of the crease behind the knee, just inside the tendon there."
+  },
+  "for": [
+    "A stiff lower back",
+    "cramping legs",
+    "difficult urination"
+  ],
+  "press": {
+    "text": "Sit with the knee bent and press with a fingertip, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "A nerve runs beside this tendon: press gently, and ease off if it tingles."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl39",
+  "lastReviewed": "2026-08-24"
+}

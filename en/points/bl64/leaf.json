@@ -1,0 +1,31 @@
+{
+  "id": "BL64",
+  "name": {
+    "en": "Jinggu",
+    "gloss": "Capital Bone",
+    "zh-Hant": "京骨",
+    "zh-Hans": "京骨"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 64,
+    "of": 67
+  },
+  "location": {
+    "text": "On the outer edge of the foot, just past the bony bump halfway along it, where the skin of the top meets the sole."
+  },
+  "for": [
+    "headache",
+    "stiff neck",
+    "low back and leg ache"
+  ],
+  "press": {
+    "text": "Thumb pressure, about a minute each foot.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl64",
+  "lastReviewed": "2026-08-24"
+}

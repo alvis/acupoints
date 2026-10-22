@@ -1,0 +1,29 @@
+{
+  "id": "GV7",
+  "name": {
+    "en": "Zhongshu",
+    "gloss": "Central Pivot",
+    "zh-Hant": "中樞",
+    "zh-Hans": "中枢"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 7,
+    "of": 28
+  },
+  "location": {
+    "text": "背部后正中线，第十胸椎棘突下；由肩胛骨下角水平往下数三个棘突。"
+  },
+  "for": [
+    "胃痛",
+    "食欲不振",
+    "背痛"
+  ],
+  "press": {
+    "text": "请旁人以拇指稍用力按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/zh-cn/points/gv7",
+  "lastReviewed": "2026-08-24"
+}

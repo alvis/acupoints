@@ -1,0 +1,31 @@
+{
+  "id": "GV26",
+  "name": {
+    "en": "Shuigou",
+    "gloss": "Water Ditch",
+    "zh-Hant": "水溝",
+    "zh-Hans": "水沟"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 26,
+    "of": 28
+  },
+  "location": {
+    "text": "鼻与上唇之间的人中沟，由上往下约三分之一处。"
+  },
+  "for": [
+    "昏厥",
+    "腰背僵痛"
+  ],
+  "press": {
+    "text": "以指尖轻而稳地按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "昏厥或倒地须紧急救助，请先求救。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gv26",
+  "lastReviewed": "2026-08-24"
+}

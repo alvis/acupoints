@@ -1,0 +1,33 @@
+{
+  "id": "ST20",
+  "name": {
+    "en": "Chengman",
+    "gloss": "Holding Fullness",
+    "zh-Hant": "承滿",
+    "zh-Hans": "承满"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 20,
+    "of": 45
+  },
+  "location": {
+    "text": "上腹部，前正中線旁開三橫指，不容穴下一拇指寬。"
+  },
+  "for": [
+    "胃痛",
+    "腹脹",
+    "食慾不振"
+  ],
+  "press": {
+    "text": "手指平放輕按，每側約一分鐘，飽餐後不按。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按腹部。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/st20",
+  "lastReviewed": "2026-08-24"
+}

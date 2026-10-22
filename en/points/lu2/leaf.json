@@ -1,0 +1,31 @@
+{
+  "id": "LU2",
+  "name": {
+    "en": "Yunmen",
+    "gloss": "Cloud Gate",
+    "zh-Hant": "雲門",
+    "zh-Hans": "云门"
+  },
+  "channel": {
+    "id": "LU",
+    "order": 2,
+    "of": 11
+  },
+  "location": {
+    "text": "On the front of the shoulder, in the hollow just under the outer end of the collarbone."
+  },
+  "for": [
+    "cough",
+    "wheezing",
+    "an aching chest and shoulder"
+  ],
+  "press": {
+    "text": "Gentle pressure into the hollow, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/lu2",
+  "lastReviewed": "2026-08-24"
+}

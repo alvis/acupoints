@@ -1,0 +1,29 @@
+{
+  "id": "GV28",
+  "name": {
+    "en": "Yinjiao",
+    "gloss": "Gum Junction",
+    "zh-Hant": "齦交",
+    "zh-Hans": "龈交"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 28,
+    "of": 28
+  },
+  "location": {
+    "text": "口內，上唇繫帶與上牙齦相接處。"
+  },
+  "for": [
+    "牙齦腫痛",
+    "口臭"
+  ],
+  "press": {
+    "text": "以洗淨的指尖輕按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gv28",
+  "lastReviewed": "2026-08-24"
+}

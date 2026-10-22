@@ -1,0 +1,32 @@
+{
+  "id": "LI18",
+  "name": {
+    "en": "Futu",
+    "gloss": "Supporting the Prominence",
+    "zh-Hant": "扶突",
+    "zh-Hans": "扶突"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 18,
+    "of": 20
+  },
+  "location": {
+    "text": "頸側，與喉結同高，胸鎖乳突肌前後緣之間的淺溝中。"
+  },
+  "for": [
+    "喉嚨痛",
+    "突然失聲",
+    "咳嗽"
+  ],
+  "press": {
+    "text": "只宜輕觸，一次一側，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "頸動脈就在附近，摸到脈搏就移開；不可兩側同按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/li18",
+  "lastReviewed": "2026-08-24"
+}

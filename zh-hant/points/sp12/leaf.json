@@ -1,0 +1,31 @@
+{
+  "id": "SP12",
+  "name": {
+    "en": "Chongmen",
+    "gloss": "Surging Gate",
+    "zh-Hant": "衝門",
+    "zh-Hans": "冲门"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 12,
+    "of": 21
+  },
+  "location": {
+    "text": "腹股溝外側，摸到脈動處的外側。"
+  },
+  "for": [
+    "下腹痛",
+    "小便不利"
+  ],
+  "press": {
+    "text": "只在脈動旁輕觸，勿壓脈上，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "此處有動脈，摸到脈動處不可按壓。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/sp12",
+  "lastReviewed": "2026-08-24"
+}

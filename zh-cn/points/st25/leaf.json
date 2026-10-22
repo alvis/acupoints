@@ -1,0 +1,33 @@
+{
+  "id": "ST25",
+  "name": {
+    "en": "Tianshu",
+    "gloss": "Celestial Pivot",
+    "zh-Hant": "天樞",
+    "zh-Hans": "天枢"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 25,
+    "of": 45
+  },
+  "location": {
+    "text": "肚脐左右各旁开三横指。"
+  },
+  "for": [
+    "腹胀",
+    "便秘",
+    "腹泻"
+  ],
+  "press": {
+    "text": "手指平放轻按，两侧同时，约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按腹部。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/st25",
+  "lastReviewed": "2026-08-24"
+}

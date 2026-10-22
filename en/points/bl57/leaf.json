@@ -1,0 +1,33 @@
+{
+  "id": "BL57",
+  "name": {
+    "en": "Chengshan",
+    "gloss": "Supporting the Mountain",
+    "zh-Hant": "承山",
+    "zh-Hans": "承山"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 57,
+    "of": 67
+  },
+  "location": {
+    "text": "Halfway down the back of the calf, in the pointed hollow that forms below the calf muscle when you rise onto your toes."
+  },
+  "for": [
+    "calf cramps",
+    "haemorrhoids",
+    "constipation"
+  ],
+  "press": {
+    "text": "Firm thumb pressure, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Skip a calf that is suddenly swollen, hot or sore, and see a doctor."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl57",
+  "lastReviewed": "2026-08-24"
+}

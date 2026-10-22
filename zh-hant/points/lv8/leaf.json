@@ -1,0 +1,33 @@
+{
+  "id": "LV8",
+  "name": {
+    "en": "Ququan",
+    "gloss": "Spring at the Bend",
+    "zh-Hant": "曲泉",
+    "zh-Hans": "曲泉"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 8,
+    "of": 14
+  },
+  "location": {
+    "text": "屈膝，膕橫紋內側端，肌腱前方的凹陷中。"
+  },
+  "for": [
+    "小便不利",
+    "經痛",
+    "膝痛"
+  ],
+  "press": {
+    "text": "屈膝，指腹輕觸，每條腿約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "膝蓋發熱、腫脹或剛受傷時不按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/lv8",
+  "lastReviewed": "2026-08-25"
+}

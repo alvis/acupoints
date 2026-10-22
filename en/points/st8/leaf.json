@@ -1,0 +1,31 @@
+{
+  "id": "ST8",
+  "name": {
+    "en": "Touwei",
+    "gloss": "Head's Corner-Rope",
+    "zh-Hant": "頭維",
+    "zh-Hans": "头维"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 8,
+    "of": 45
+  },
+  "location": {
+    "text": "At the corner of the forehead hairline, then half a finger-width up into the hair."
+  },
+  "for": [
+    "headache",
+    "dizziness",
+    "sore eyes"
+  ],
+  "press": {
+    "text": "Small fingertip circles, both sides together, about a minute.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st8",
+  "lastReviewed": "2026-08-24"
+}

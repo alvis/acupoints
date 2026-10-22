@@ -1,0 +1,32 @@
+{
+  "id": "ST10",
+  "name": {
+    "en": "Shuitu",
+    "gloss": "Water Rushing",
+    "zh-Hant": "水突",
+    "zh-Hans": "水突"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 10,
+    "of": 45
+  },
+  "location": {
+    "text": "頸部，胸鎖乳突肌前緣，人迎穴與鎖骨內端之間的中點。"
+  },
+  "for": [
+    "喉嚨痛",
+    "咳嗽",
+    "呼吸短促"
+  ],
+  "press": {
+    "text": "輕觸，一次一側，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "避開脈搏與氣管，不可兩側同按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/st10",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "CV22",
+  "name": {
+    "en": "Tiantu",
+    "gloss": "Heaven's Chimney",
+    "zh-Hant": "天突",
+    "zh-Hans": "天突"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 22,
+    "of": 24
+  },
+  "location": {
+    "text": "頸前正中，胸骨上窩中央的凹陷。"
+  },
+  "for": [
+    "咳嗽",
+    "喉中異物感",
+    "聲音沙啞"
+  ],
+  "press": {
+    "text": "只可輕觸，朝胸骨方向往下按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "切勿用力或向後壓迫咽喉：氣管就在其下。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/cv22",
+  "lastReviewed": "2026-08-24"
+}

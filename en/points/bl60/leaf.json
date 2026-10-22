@@ -1,0 +1,33 @@
+{
+  "id": "BL60",
+  "name": {
+    "en": "Kunlun",
+    "gloss": "The Kunlun Mountains",
+    "zh-Hant": "崑崙",
+    "zh-Hans": "昆仑"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 60,
+    "of": 67
+  },
+  "location": {
+    "text": "In the hollow between the outer ankle bone and the Achilles tendon."
+  },
+  "for": [
+    "back-of-head headache",
+    "stiff neck",
+    "ankle pain"
+  ],
+  "press": {
+    "text": "Thumb pressure into the hollow, about a minute each foot.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Not in pregnancy, or if you could be pregnant."
+  ],
+  "source": "Lingshu, chapter 2",
+  "url": "https://acupoints.com/en/points/bl60",
+  "lastReviewed": "2026-08-24"
+}

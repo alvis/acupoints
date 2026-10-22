@@ -1,0 +1,31 @@
+{
+  "id": "KI3",
+  "name": {
+    "en": "Taixi",
+    "gloss": "Great Stream",
+    "zh-Hant": "太谿",
+    "zh-Hans": "太溪"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 3,
+    "of": 27
+  },
+  "location": {
+    "text": "内踝尖与跟腱之间的凹陷处。"
+  },
+  "for": [
+    "耳鸣",
+    "腰痛",
+    "失眠"
+  ],
+  "press": {
+    "text": "以指腹在凹陷处轻柔按压，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/ki3",
+  "lastReviewed": "2026-08-24"
+}

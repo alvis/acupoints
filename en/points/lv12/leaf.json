@@ -1,0 +1,30 @@
+{
+  "id": "LV12",
+  "name": {
+    "en": "Jimai",
+    "gloss": "Urgent Pulse",
+    "zh-Hant": "急脈",
+    "zh-Hans": "急脉"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 12,
+    "of": 14
+  },
+  "location": {
+    "text": "In the groin fold, just out from the pubic bone, where you feel the pulse of the large thigh artery."
+  },
+  "for": [
+    "low belly pain",
+    "groin pain"
+  ],
+  "press": {
+    "text": "Do not press the artery: rest a feather-light fingertip beside the pulse only.",
+    "pressable": false
+  },
+  "cautions": [
+    "Never press on the pulse itself; skip it over lumps or swollen glands."
+  ],
+  "url": "https://acupoints.com/en/points/lv12",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "BL25",
+  "name": {
+    "en": "Dachangshu",
+    "gloss": "Large Intestine Transport",
+    "zh-Hant": "大腸俞",
+    "zh-Hans": "大肠俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 25,
+    "of": 67
+  },
+  "location": {
+    "text": "两侧髂骨最高点连线上（第四腰椎下），脊柱旁开两横指。"
+  },
+  "for": [
+    "便秘或腹泻",
+    "腰腿痛"
+  ],
+  "press": {
+    "text": "双手叉腰，以拇指稍用力按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl25",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "SI6",
+  "name": {
+    "en": "Yanglao",
+    "gloss": "Nourishing the Aged",
+    "zh-Hant": "養老",
+    "zh-Hans": "养老"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 6,
+    "of": 19
+  },
+  "location": {
+    "text": "掌心轉向胸口，手腕背面小指側骨突旁張開的縫隙中。"
+  },
+  "for": [
+    "視物模糊",
+    "肩臂痠痛",
+    "腰痛"
+  ],
+  "press": {
+    "text": "一指指腹慢慢打圈，每側一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/si6",
+  "lastReviewed": "2026-08-24"
+}

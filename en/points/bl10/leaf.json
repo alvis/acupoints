@@ -1,0 +1,30 @@
+{
+  "id": "BL10",
+  "name": {
+    "en": "Tianzhu",
+    "gloss": "Pillar of Heaven",
+    "zh-Hant": "天柱",
+    "zh-Hans": "天柱"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 10,
+    "of": 67
+  },
+  "location": {
+    "text": "On the back of the neck, just below the skull, in the hollow at the outer edge of the thick neck muscle."
+  },
+  "for": [
+    "back-of-head headache",
+    "stiff neck",
+    "aching shoulders"
+  ],
+  "press": {
+    "text": "Thumbs press up under the skull, firm, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl10",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GV21",
+  "name": {
+    "en": "Qianding",
+    "gloss": "Front Crown",
+    "zh-Hant": "前頂",
+    "zh-Hans": "前顶"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 21,
+    "of": 28
+  },
+  "location": {
+    "text": "头顶正中线，百会往前两横指。"
+  },
+  "for": [
+    "头痛",
+    "头晕",
+    "鼻窦阻塞"
+  ],
+  "press": {
+    "text": "轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "切勿按压婴儿此处：未闭合的囟门可延伸至此。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gv21",
+  "lastReviewed": "2026-08-24"
+}

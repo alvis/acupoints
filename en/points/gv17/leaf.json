@@ -1,0 +1,30 @@
+{
+  "id": "GV17",
+  "name": {
+    "en": "Naohu",
+    "gloss": "Brain's Door",
+    "zh-Hant": "腦戶",
+    "zh-Hans": "脑户"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 17,
+    "of": 28
+  },
+  "location": {
+    "text": "On the back of the head, in the dip on the upper edge of the skull bump, two finger-widths above Fengfu."
+  },
+  "for": [
+    "headache",
+    "a stiff neck",
+    "dizziness"
+  ],
+  "press": {
+    "text": "Gentle, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv17",
+  "lastReviewed": "2026-08-24"
+}

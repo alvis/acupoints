@@ -1,0 +1,31 @@
+{
+  "id": "KI7",
+  "name": {
+    "en": "Fuliu",
+    "gloss": "Returning Flow",
+    "zh-Hant": "復溜",
+    "zh-Hans": "复溜"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 7,
+    "of": 27
+  },
+  "location": {
+    "text": "Three finger-widths above the hollow behind the inner ankle, just in front of the Achilles tendon."
+  },
+  "for": [
+    "night sweats",
+    "swelling",
+    "bloating"
+  ],
+  "press": {
+    "text": "Light fingertip pressure in front of the tendon, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki7",
+  "lastReviewed": "2026-08-24"
+}

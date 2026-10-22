@@ -1,0 +1,32 @@
+{
+  "id": "ST26",
+  "name": {
+    "en": "Wailing",
+    "gloss": "Outer Mound",
+    "zh-Hant": "外陵",
+    "zh-Hans": "外陵"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 26,
+    "of": 45
+  },
+  "location": {
+    "text": "下腹部，脐下一拇指宽，前正中线旁开三横指。"
+  },
+  "for": [
+    "腹痛",
+    "经痛"
+  ],
+  "press": {
+    "text": "手指平放轻按，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按腹部。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/st26",
+  "lastReviewed": "2026-08-24"
+}

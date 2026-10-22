@@ -1,0 +1,30 @@
+{
+  "id": "GV10",
+  "name": {
+    "en": "Lingtai",
+    "gloss": "Spirit Tower",
+    "zh-Hant": "靈臺",
+    "zh-Hans": "灵台"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 10,
+    "of": 28
+  },
+  "location": {
+    "text": "On the spine, below the sixth thoracic bump: one bump above the level of the shoulder-blade tips."
+  },
+  "for": [
+    "cough",
+    "shortness of breath",
+    "a stiff aching spine"
+  ],
+  "press": {
+    "text": "Ask a helper to press firmly with a thumb, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, middle book",
+  "url": "https://acupoints.com/en/points/gv10",
+  "lastReviewed": "2026-08-24"
+}

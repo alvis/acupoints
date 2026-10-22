@@ -1,0 +1,30 @@
+{
+  "id": "ST41",
+  "name": {
+    "en": "Jiexi",
+    "gloss": "Divided Stream",
+    "zh-Hant": "解溪",
+    "zh-Hans": "解溪"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 41,
+    "of": 45
+  },
+  "location": {
+    "text": "At the front of the ankle, in the middle of the crease, in the hollow between the two big tendons."
+  },
+  "for": [
+    "ankle pain",
+    "weak feet",
+    "headache"
+  ],
+  "press": {
+    "text": "Fingertip pressure into the hollow, about a minute each ankle.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st41",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ST19",
+  "name": {
+    "en": "Burong",
+    "gloss": "Not Containing",
+    "zh-Hant": "不容",
+    "zh-Hans": "不容"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 19,
+    "of": 45
+  },
+  "location": {
+    "text": "On the upper belly, eight finger-widths above the navel and three finger-widths out from the midline."
+  },
+  "for": [
+    "stomach ache",
+    "vomiting",
+    "poor appetite"
+  ],
+  "press": {
+    "text": "Gentle flat-finger pressure, about a minute each side, not after a big meal.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Not on the belly in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st19",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GB4",
+  "name": {
+    "en": "Hanyan",
+    "gloss": "Jaw Pressing",
+    "zh-Hant": "頷厭",
+    "zh-Hans": "颔厌"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 4,
+    "of": 44
+  },
+  "location": {
+    "text": "In the hair of the temple, a quarter of the way along the hairline curve from the forehead corner to ear-top level."
+  },
+  "for": [
+    "one-sided headache",
+    "dizziness",
+    "ringing ears"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure on the scalp, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 3",
+  "url": "https://acupoints.com/en/points/gb4",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "TH20",
+  "name": {
+    "en": "Jiaosun",
+    "gloss": "Horn and Grandson",
+    "zh-Hant": "角孫",
+    "zh-Hans": "角孙"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 20,
+    "of": 23
+  },
+  "location": {
+    "text": "将耳廓向前折，耳尖正上方的发际内。"
+  },
+  "for": [
+    "牙痛",
+    "颈项强",
+    "颊肿"
+  ],
+  "press": {
+    "text": "拨开头发，以指尖轻触，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/th20",
+  "lastReviewed": "2026-08-24"
+}

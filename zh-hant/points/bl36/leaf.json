@@ -1,0 +1,31 @@
+{
+  "id": "BL36",
+  "name": {
+    "en": "Chengfu",
+    "gloss": "Holding Support",
+    "zh-Hant": "承扶",
+    "zh-Hans": "承扶"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 36,
+    "of": 67
+  },
+  "location": {
+    "text": "臀下橫紋的正中點。"
+  },
+  "for": [
+    "腰",
+    "臀及大腿痛",
+    "痔瘡"
+  ],
+  "press": {
+    "text": "以手指稍用力按，或坐在硬球上，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl36",
+  "lastReviewed": "2026-08-24"
+}

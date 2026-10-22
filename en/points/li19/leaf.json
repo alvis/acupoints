@@ -1,0 +1,29 @@
+{
+  "id": "LI19",
+  "name": {
+    "en": "Kouheliao",
+    "gloss": "Grain Hollow by the Mouth",
+    "zh-Hant": "口禾髎",
+    "zh-Hans": "口禾髎"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 19,
+    "of": 20
+  },
+  "location": {
+    "text": "On the upper lip, straight below the outer edge of the nostril, level with the groove under the nose."
+  },
+  "for": [
+    "A blocked or runny nose",
+    "nosebleed"
+  ],
+  "press": {
+    "text": "Light fingertip touch, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/li19",
+  "lastReviewed": "2026-08-24"
+}

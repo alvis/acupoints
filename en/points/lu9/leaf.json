@@ -1,0 +1,32 @@
+{
+  "id": "LU9",
+  "name": {
+    "en": "Taiyuan",
+    "gloss": "Great Abyss",
+    "zh-Hant": "太淵",
+    "zh-Hans": "太渊"
+  },
+  "channel": {
+    "id": "LU",
+    "order": 9,
+    "of": 11
+  },
+  "location": {
+    "text": "At the thumb end of the inner wrist crease, where you feel the pulse."
+  },
+  "for": [
+    "cough",
+    "wheezing",
+    "wrist pain"
+  ],
+  "press": {
+    "text": "Light touch, about a minute each wrist, without pressing the pulse flat.",
+    "seconds": 60
+  },
+  "cautions": [
+    "It sits on the wrist pulse; keep the touch light."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/lu9",
+  "lastReviewed": "2026-08-24"
+}

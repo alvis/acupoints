@@ -1,0 +1,30 @@
+{
+  "id": "GV27",
+  "name": {
+    "en": "Duiduan",
+    "gloss": "Tip of the Mouth",
+    "zh-Hant": "兌端",
+    "zh-Hans": "兑端"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 27,
+    "of": 28
+  },
+  "location": {
+    "text": "At the centre of the upper lip's edge, where the groove meets the red of the lip."
+  },
+  "for": [
+    "sore",
+    "swollen gums",
+    "a blocked nose"
+  ],
+  "press": {
+    "text": "Light touch with a fingertip, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv27",
+  "lastReviewed": "2026-08-24"
+}

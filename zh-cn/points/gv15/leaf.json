@@ -1,0 +1,30 @@
+{
+  "id": "GV15",
+  "name": {
+    "en": "Yamen",
+    "gloss": "Gate of Muteness",
+    "zh-Hant": "啞門",
+    "zh-Hans": "哑门"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 15,
+    "of": 28
+  },
+  "location": {
+    "text": "颈后正中，后发际正中直上半拇指宽，颅骨下方的凹陷中。"
+  },
+  "for": [
+    "突然失声",
+    "头痛",
+    "颈项僵硬"
+  ],
+  "press": {
+    "text": "以指尖轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gv15",
+  "lastReviewed": "2026-08-24"
+}

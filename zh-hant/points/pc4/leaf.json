@@ -1,0 +1,32 @@
+{
+  "id": "PC4",
+  "name": {
+    "en": "Ximen",
+    "gloss": "Cleft Gate",
+    "zh-Hant": "郄門",
+    "zh-Hans": "郄门"
+  },
+  "channel": {
+    "id": "PC",
+    "order": 4,
+    "of": 9
+  },
+  "location": {
+    "text": "前臂掌側，腕橫紋上約七橫指，兩條肌腱之間。"
+  },
+  "for": [
+    "心悸",
+    "打嗝"
+  ],
+  "press": {
+    "text": "以指尖輕按，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "新發胸痛或昏厥須立即就醫；孕期請先諮詢。"
+  ],
+  "source": "《銅人腧穴針灸圖經·卷五》",
+  "url": "https://acupoints.com/zh-hant/points/pc4",
+  "lastReviewed": "2026-08-24"
+}

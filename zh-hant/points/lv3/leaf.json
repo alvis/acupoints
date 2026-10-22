@@ -1,0 +1,33 @@
+{
+  "id": "LV3",
+  "name": {
+    "en": "Taichong",
+    "gloss": "Grand Surge",
+    "zh-Hant": "太衝",
+    "zh-Hans": "太冲"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 3,
+    "of": 14
+  },
+  "location": {
+    "text": "足背，由大腳趾與第二趾之間往腳踝方向推，至兩骨相接前的凹陷中。"
+  },
+  "for": [
+    "頭痛",
+    "頭暈",
+    "經痛"
+  ],
+  "press": {
+    "text": "指腹穩穩按壓，每腳約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期請先諮詢醫師。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/lv3",
+  "lastReviewed": "2026-08-24"
+}

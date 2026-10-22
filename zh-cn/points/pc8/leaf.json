@@ -1,0 +1,30 @@
+{
+  "id": "PC8",
+  "name": {
+    "en": "Laogong",
+    "gloss": "Palace of Toil",
+    "zh-Hant": "勞宮",
+    "zh-Hans": "劳宫"
+  },
+  "channel": {
+    "id": "PC",
+    "order": 8,
+    "of": 9
+  },
+  "location": {
+    "text": "掌心，轻握拳时中指指尖所点之处。"
+  },
+  "for": [
+    "口疮",
+    "口臭",
+    "手指麻木"
+  ],
+  "press": {
+    "text": "以另一手拇指指腹轻按，勿用指甲，约一分钟后换手。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《灵枢·本输》",
+  "url": "https://acupoints.com/zh-cn/points/pc8",
+  "lastReviewed": "2026-08-24"
+}

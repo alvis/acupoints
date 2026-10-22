@@ -1,0 +1,32 @@
+{
+  "id": "KI18",
+  "name": {
+    "en": "Shiguan",
+    "gloss": "Stone Pass",
+    "zh-Hant": "石關",
+    "zh-Hans": "石关"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 18,
+    "of": 27
+  },
+  "location": {
+    "text": "Four finger-widths above the navel, half a thumb-width out from the midline."
+  },
+  "for": [
+    "vomiting",
+    "belly ache",
+    "constipation"
+  ],
+  "press": {
+    "text": "Lying down, a light fingertip touch, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "In pregnancy, ask a practitioner first."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki18",
+  "lastReviewed": "2026-08-24"
+}

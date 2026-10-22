@@ -1,0 +1,33 @@
+{
+  "id": "KI25",
+  "name": {
+    "en": "Shencang",
+    "gloss": "Spirit Storehouse",
+    "zh-Hant": "神藏",
+    "zh-Hans": "神藏"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 25,
+    "of": 27
+  },
+  "location": {
+    "text": "In the second rib space below the collarbone, halfway between the breastbone and the nipple line."
+  },
+  "for": [
+    "cough",
+    "fullness of the chest",
+    "poor appetite"
+  ],
+  "press": {
+    "text": "A light fingertip touch on the surface, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Light touch only; never press in between the ribs."
+  ],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 4",
+  "url": "https://acupoints.com/en/points/ki25",
+  "lastReviewed": "2026-08-24"
+}

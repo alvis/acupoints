@@ -1,0 +1,33 @@
+{
+  "id": "TH21",
+  "name": {
+    "en": "Ermen",
+    "gloss": "Ear Gate",
+    "zh-Hant": "耳門",
+    "zh-Hans": "耳门"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 21,
+    "of": 23
+  },
+  "location": {
+    "text": "In front of the ear, at the notch above the small flap, in the dip that opens when the mouth opens."
+  },
+  "for": [
+    "ear pain",
+    "ringing ears",
+    "toothache"
+  ],
+  "press": {
+    "text": "Feather-light fingertip touch, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Never into the ear canal; not with ear discharge or infection."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/th21",
+  "lastReviewed": "2026-08-24"
+}

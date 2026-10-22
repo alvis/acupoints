@@ -1,0 +1,32 @@
+{
+  "id": "SI15",
+  "name": {
+    "en": "Jianzhongshu",
+    "gloss": "Central Shoulder Transport",
+    "zh-Hant": "肩中俞",
+    "zh-Hans": "肩中俞"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 15,
+    "of": 19
+  },
+  "location": {
+    "text": "与颈根大骨突同高，旁开三横指。"
+  },
+  "for": [
+    "肩背痛",
+    "咳嗽"
+  ],
+  "press": {
+    "text": "两指指腹慢慢打圈，每侧一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "下方是肺，只宜轻按，切勿用力。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/si15",
+  "lastReviewed": "2026-08-24"
+}

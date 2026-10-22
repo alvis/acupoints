@@ -1,0 +1,31 @@
+{
+  "id": "LI2",
+  "name": {
+    "en": "Erjian",
+    "gloss": "Second Space",
+    "zh-Hant": "二間",
+    "zh-Hans": "二间"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 2,
+    "of": 20
+  },
+  "location": {
+    "text": "轻握拳，食指靠拇指一侧，掌指关节前方，掌面与手背皮肤交界处。"
+  },
+  "for": [
+    "牙痛",
+    "流鼻血",
+    "眼睛不适"
+  ],
+  "press": {
+    "text": "用指尖按入凹陷约一分钟，两手各一次。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/li2",
+  "lastReviewed": "2026-08-24"
+}

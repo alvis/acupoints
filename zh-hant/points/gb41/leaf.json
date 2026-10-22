@@ -1,0 +1,33 @@
+{
+  "id": "GB41",
+  "name": {
+    "en": "Zulinqi",
+    "gloss": "Foot Overlooking Tears",
+    "zh-Hant": "足臨泣",
+    "zh-Hans": "足临泣"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 41,
+    "of": 44
+  },
+  "location": {
+    "text": "足背，第四趾根關節後方的凹陷中，小趾肌腱外側。"
+  },
+  "for": [
+    "偏頭痛",
+    "乳房脹痛",
+    "足背腫痛"
+  ],
+  "press": {
+    "text": "指腹輕按，每腳約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期、糖尿病或足部麻木者，請先徵詢醫師意見。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gb41",
+  "lastReviewed": "2026-08-25"
+}

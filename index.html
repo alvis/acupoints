@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Acupoints</title>
+    <noscript><meta http-equiv="refresh" content="0; url=/en/" /></noscript>
+    <script>
+      // Locale gate for the bare domain. Order: saved choice first, then a
+      // browser-language sniff. Every zh* browser lands on /zh-hant/ — both
+      // Chinese locales currently share the traditional prose arm — and any
+      // other language lands on /en/. The decision is written back so later
+      // visits skip the sniff and honor an explicit switcher pick.
+      (() => {
+        const KEY = 'acupoints-locale';
+        const LOCALES = ['en', 'zh-hant', 'zh-cn'];
+        let saved = null;
+        try {
+          saved = window.localStorage.getItem(KEY);
+        } catch {
+          /* storage unavailable — fall through to sniffing */
+        }
+        let locale = LOCALES.indexOf(saved) !== -1 ? saved : null;
+        if (!locale) {
+          const languages = navigator.languages || [navigator.language || 'en'];
+          for (const language of languages) {
+            if ((language || '').toLowerCase().indexOf('zh') === 0) {
+              locale = 'zh-hant';
+              break;
+            }
+          }
+          locale = locale || 'en';
+        }
+        try {
+          window.localStorage.setItem(KEY, locale);
+        } catch {
+          /* persistence is best-effort; navigation proceeds regardless */
+        }
+        window.location.replace(`/${locale}/`);
+      })();
+    </script>
+  </head>
+  <body>
+    <h1>Acupoints</h1>
+    <p>
+      Choose a language:
+      <a href="/en/" lang="en">English</a> · <a href="/zh-hant/" lang="zh-Hant">繁體中文</a> ·
+      <a href="/zh-cn/" lang="zh-Hans">简体中文</a>
+    </p>
+  </body>
+</html>

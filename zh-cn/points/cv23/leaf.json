@@ -1,0 +1,32 @@
+{
+  "id": "CV23",
+  "name": {
+    "en": "Lianquan",
+    "gloss": "Edge Spring",
+    "zh-Hant": "廉泉",
+    "zh-Hans": "廉泉"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 23,
+    "of": 24
+  },
+  "location": {
+    "text": "颈前正中，下巴下方，喉结上方的舌骨上缘凹陷处。"
+  },
+  "for": [
+    "口舌生疮",
+    "流口水",
+    "吞咽困难"
+  ],
+  "press": {
+    "text": "轻触，朝下巴方向往上按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "切勿用力按压咽喉。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/cv23",
+  "lastReviewed": "2026-08-25"
+}

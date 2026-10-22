@@ -1,0 +1,30 @@
+{
+  "id": "GB22",
+  "name": {
+    "en": "Yuanye",
+    "gloss": "Deep Pool of the Axilla",
+    "zh-Hant": "淵腋",
+    "zh-Hans": "渊腋"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 22,
+    "of": 44
+  },
+  "location": {
+    "text": "舉臂，腋窩正下方胸側四橫指處，肋骨間隙中。"
+  },
+  "for": [
+    "胸悶",
+    "脅肋痛",
+    "腋下腫"
+  ],
+  "press": {
+    "text": "指腹輕按肋間，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gb22",
+  "lastReviewed": "2026-08-24"
+}

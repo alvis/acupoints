@@ -1,0 +1,30 @@
+{
+  "id": "CV16",
+  "name": {
+    "en": "Zhongting",
+    "gloss": "Central Courtyard",
+    "zh-Hant": "中庭",
+    "zh-Hans": "中庭"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 16,
+    "of": 24
+  },
+  "location": {
+    "text": "胸骨正中線下端，左右肋骨相會處，平第五肋間。"
+  },
+  "for": [
+    "胸脅脹滿",
+    "吞嚥不順",
+    "嘔吐"
+  ],
+  "press": {
+    "text": "在胸骨上輕按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/cv16",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "BL25",
+  "name": {
+    "en": "Dachangshu",
+    "gloss": "Large Intestine Transport",
+    "zh-Hant": "大腸俞",
+    "zh-Hans": "大肠俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 25,
+    "of": 67
+  },
+  "location": {
+    "text": "On the line joining the tops of the hip bones (below the fourth lumbar bump), two finger-widths from the spine."
+  },
+  "for": [
+    "constipation or loose stools",
+    "low back and leg pain"
+  ],
+  "press": {
+    "text": "Hands on hips, press with the thumbs, fairly firm, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl25",
+  "lastReviewed": "2026-08-24"
+}

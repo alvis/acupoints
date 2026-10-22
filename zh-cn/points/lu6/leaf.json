@@ -1,0 +1,31 @@
+{
+  "id": "LU6",
+  "name": {
+    "en": "Kongzui",
+    "gloss": "Utmost Opening",
+    "zh-Hant": "孔最",
+    "zh-Hans": "孔最"
+  },
+  "channel": {
+    "id": "LU",
+    "order": 6,
+    "of": 11
+  },
+  "location": {
+    "text": "前臂内侧靠拇指一侧，腕横纹与肘横纹的中点再往上一拇指宽。"
+  },
+  "for": [
+    "咳嗽",
+    "喉咙痛",
+    "肘臂痛"
+  ],
+  "press": {
+    "text": "拇指稍用力按约一分钟，再换另一臂。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《铜人腧穴针灸图经·卷五》",
+  "url": "https://acupoints.com/zh-cn/points/lu6",
+  "lastReviewed": "2026-08-24"
+}

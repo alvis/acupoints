@@ -1,0 +1,33 @@
+{
+  "id": "BL46",
+  "name": {
+    "en": "Geguan",
+    "gloss": "The Diaphragm’s Gate",
+    "zh-Hant": "膈關",
+    "zh-Hans": "膈关"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 46,
+    "of": 67
+  },
+  "location": {
+    "text": "與兩側肩胛骨下角同高（第七頸椎往下第七個骨突下方），脊柱旁開四橫指。"
+  },
+  "for": [
+    "胸悶",
+    "噯氣",
+    "背脊僵痛"
+  ],
+  "press": {
+    "text": "請家人用拇指輕按，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "下方是肺，只宜輕按，切勿用力。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl46",
+  "lastReviewed": "2026-08-25"
+}

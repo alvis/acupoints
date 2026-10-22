@@ -1,0 +1,31 @@
+{
+  "id": "GB32",
+  "name": {
+    "en": "Zhongdu",
+    "gloss": "Central Watercourse",
+    "zh-Hant": "中瀆",
+    "zh-Hans": "中渎"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 32,
+    "of": 44
+  },
+  "location": {
+    "text": "On the outer thigh, three finger-widths below GB31, in the groove between the front and back thigh muscles."
+  },
+  "for": [
+    "numb legs",
+    "knee pain",
+    "calf cramps"
+  ],
+  "press": {
+    "text": "Steady fingertip pressure, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gb32",
+  "lastReviewed": "2026-08-24"
+}

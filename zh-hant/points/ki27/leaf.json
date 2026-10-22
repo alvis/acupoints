@@ -1,0 +1,33 @@
+{
+  "id": "KI27",
+  "name": {
+    "en": "Shufu",
+    "gloss": "Shu Mansion",
+    "zh-Hant": "俞府",
+    "zh-Hans": "俞府"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 27,
+    "of": 27
+  },
+  "location": {
+    "text": "鎖骨下緣，胸骨正中與乳頭連線的中點。"
+  },
+  "for": [
+    "咳嗽",
+    "胸痛",
+    "食慾不振"
+  ],
+  "press": {
+    "text": "以指尖輕觸皮膚表面，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "只可輕觸，切勿往鎖骨下方深按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/ki27",
+  "lastReviewed": "2026-08-24"
+}

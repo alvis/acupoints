@@ -1,0 +1,32 @@
+{
+  "id": "BL16",
+  "name": {
+    "en": "Dushu",
+    "gloss": "Transport of the Overseer",
+    "zh-Hant": "督俞",
+    "zh-Hans": "督俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 16,
+    "of": 67
+  },
+  "location": {
+    "text": "第七頸椎往下第六個骨突下方，脊柱旁開兩橫指。"
+  },
+  "for": [
+    "胸悶",
+    "腹痛",
+    "腸鳴"
+  ],
+  "press": {
+    "text": "請家人用拇指輕按，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "下方是肺，只宜輕按，切勿用力。"
+  ],
+  "url": "https://acupoints.com/zh-hant/points/bl16",
+  "lastReviewed": "2026-08-24"
+}

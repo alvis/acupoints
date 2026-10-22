@@ -1,0 +1,32 @@
+{
+  "id": "ST29",
+  "name": {
+    "en": "Guilai",
+    "gloss": "Return and Arrival",
+    "zh-Hant": "歸來",
+    "zh-Hans": "归来"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 29,
+    "of": 45
+  },
+  "location": {
+    "text": "下腹部，耻骨上缘上一拇指宽，前正中线旁开三横指。"
+  },
+  "for": [
+    "小腹痛",
+    "月经不调"
+  ],
+  "press": {
+    "text": "排尿后轻按，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按腹部。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/st29",
+  "lastReviewed": "2026-08-24"
+}

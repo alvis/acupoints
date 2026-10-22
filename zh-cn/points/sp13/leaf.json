@@ -1,0 +1,32 @@
+{
+  "id": "SP13",
+  "name": {
+    "en": "Fushe",
+    "gloss": "Mansion Lodging",
+    "zh-Hant": "府舍",
+    "zh-Hans": "府舍"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 13,
+    "of": 21
+  },
+  "location": {
+    "text": "下腹部，腹股沟上方，冲门上约一横指。"
+  },
+  "for": [
+    "下腹痛",
+    "腹股沟酸痛"
+  ],
+  "press": {
+    "text": "屈膝躺下，指腹轻按，每侧一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按腹部；避开腹股沟的脉动处。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/sp13",
+  "lastReviewed": "2026-08-24"
+}

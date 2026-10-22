@@ -1,0 +1,30 @@
+{
+  "id": "BL20",
+  "name": {
+    "en": "Pishu",
+    "gloss": "Spleen Transport",
+    "zh-Hant": "脾俞",
+    "zh-Hans": "脾俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 20,
+    "of": 67
+  },
+  "location": {
+    "text": "第七頸椎往下數第十一個骨突下方，脊柱旁開兩橫指。"
+  },
+  "for": [
+    "腹脹",
+    "腹瀉",
+    "背痛"
+  ],
+  "press": {
+    "text": "請家人以拇指按，或背靠牆壓一顆軟球，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl20",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "LV13",
+  "name": {
+    "en": "Zhangmen",
+    "gloss": "Orderly Gate",
+    "zh-Hant": "章門",
+    "zh-Hans": "章门"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 13,
+    "of": 14
+  },
+  "location": {
+    "text": "側腹，倒數第二根肋骨游離端的下方。"
+  },
+  "for": [
+    "脅肋痛",
+    "腹脹",
+    "腹瀉"
+  ],
+  "press": {
+    "text": "指腹輕按肌肉，勿往肋下深按；約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "腸胃不適時不按；孕期請先徵詢醫師意見。"
+  ],
+  "source": "《銅人腧穴針灸圖經·卷四》",
+  "url": "https://acupoints.com/zh-hant/points/lv13",
+  "lastReviewed": "2026-08-24"
+}

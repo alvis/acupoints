@@ -1,0 +1,30 @@
+{
+  "id": "LI12",
+  "name": {
+    "en": "Zhouliao",
+    "gloss": "Elbow Hollow",
+    "zh-Hant": "肘髎",
+    "zh-Hans": "肘髎"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 12,
+    "of": 20
+  },
+  "location": {
+    "text": "Bend the elbow: one thumb-width above LI11, on the outer edge of the upper-arm bone."
+  },
+  "for": [
+    "aching",
+    "numbness or cramp in the elbow and arm"
+  ],
+  "press": {
+    "text": "Firm thumb pressure, about a minute each arm.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/li12",
+  "lastReviewed": "2026-08-24"
+}

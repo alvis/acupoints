@@ -1,0 +1,33 @@
+{
+  "id": "BL42",
+  "name": {
+    "en": "Pohu",
+    "gloss": "Door of the Corporeal Soul",
+    "zh-Hant": "魄戶",
+    "zh-Hans": "魄户"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 42,
+    "of": 67
+  },
+  "location": {
+    "text": "Below the third bump under the neck bone (C7), four finger-widths to each side of the spine."
+  },
+  "for": [
+    "cough",
+    "shortness of breath",
+    "stiff neck"
+  ],
+  "press": {
+    "text": "Ask a partner to press gently with a thumb, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "The lungs lie beneath: gentle pressure only, never hard or sharp."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl42",
+  "lastReviewed": "2026-08-24"
+}

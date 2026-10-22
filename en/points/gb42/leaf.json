@@ -1,0 +1,33 @@
+{
+  "id": "GB42",
+  "name": {
+    "en": "Diwuhui",
+    "gloss": "Earth Five Meeting",
+    "zh-Hant": "地五會",
+    "zh-Hans": "地五会"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 42,
+    "of": 44
+  },
+  "location": {
+    "text": "On top of the foot, behind the knuckle of the fourth toe, in the valley between the fourth and fifth toe bones."
+  },
+  "for": [
+    "headache",
+    "ringing ears",
+    "a swollen",
+    "sore foot"
+  ],
+  "press": {
+    "text": "Light fingertip pressure, not deep between the bones, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "With numb feet or poor circulation, ask a clinician first."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gb42",
+  "lastReviewed": "2026-08-25"
+}

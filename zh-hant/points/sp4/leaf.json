@@ -1,0 +1,31 @@
+{
+  "id": "SP4",
+  "name": {
+    "en": "Gongsun",
+    "gloss": "Duke’s Grandson",
+    "zh-Hant": "公孫",
+    "zh-Hans": "公孙"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 4,
+    "of": 21
+  },
+  "location": {
+    "text": "腳弓內側，太白後約一拇指寬，足骨底部下方的凹陷。"
+  },
+  "for": [
+    "胃痛",
+    "嘔吐",
+    "失眠"
+  ],
+  "press": {
+    "text": "拇指腹慢慢打圈，每隻腳一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/sp4",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GV14",
+  "name": {
+    "en": "Dazhui",
+    "gloss": "Great Vertebra",
+    "zh-Hant": "大椎",
+    "zh-Hans": "大椎"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 14,
+    "of": 28
+  },
+  "location": {
+    "text": "頸後根部最突出的骨頭下方凹陷；轉頭時，這塊骨頭會隨之活動。"
+  },
+  "for": [
+    "感冒發熱",
+    "頸項僵硬",
+    "肩背疼痛"
+  ],
+  "press": {
+    "text": "用指尖稍用力按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gv14",
+  "lastReviewed": "2026-08-24"
+}

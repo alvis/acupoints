@@ -1,0 +1,32 @@
+3:"$Sreact.fragment"
+4:"/_next/static/chunks/2yhoklg4p0-mu.js"
+5:I[7554,["$4"],"default"]
+6:I[81365,["$4"],"default"]
+b:"/_next/static/chunks/2jbhtn5hhu2rw.js"
+c:"/_next/static/chunks/0qr56_vkxph9-.js"
+d:"/_next/static/chunks/260r48jv9gsub.js"
+e:"/_next/static/chunks/1sq7olxjokl7j.js"
+f:I[56499,["$b","$c","$d","$e"],""]
+10:I[41344,["$b","$c","$d","$e"],"SearchOpener"]
+11:I[30584,["$4"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[30584,["$4"],"$15"]
+17:"MetadataBoundary"
+18:I[30584,["$4"],"$17"]
+19:I[64539,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-[1440px] px-4 pb-8 sm:px-8 lg:px-20","children":[["$","nav",null,{"className":"pt-[22px] text-base","aria-label":"导览路径","children":["$","ol",null,{"className":"\n        m-0 flex list-none flex-wrap items-center gap-x-3.5 gap-y-1 p-0\n      ","children":[["$","li","首页",{"className":"flex items-center gap-3.5","children":[["$","$Lf",null,{"className":"wb-link","href":"/zh-cn/","children":[null,["$","span",null,{"className":"tc","children":"首页"}]]}],["$","svg",null,{"aria-hidden":"true","className":"shrink-0","height":10,"viewBox":"0 0 40 22","width":18,"children":["$","path",null,{"d":"M0 0 H40 V22 L20 12 L0 22 Z","fill":"var(--color-ink)"}]}]]}],["$","li","检索",{"className":"flex items-center gap-3.5","children":[["$","span",null,{"aria-current":"page","children":[null,["$","span",null,{"className":"tc","children":"检索"}]]}],null]}]]}]}],["$","section",null,{"className":"mt-[34px] grid items-start gap-10","children":[["$","div",null,{"className":"flex items-start gap-[30px]","children":[["$","span",null,{"aria-hidden":"true","className":"tc vt r2 hidden shrink-0 font-black tracking-[0.08em] sm:inline-block px-3 py-5 text-[3.4rem]","children":"检索"}],["$","div",null,{"className":"flex min-w-0 flex-col gap-3.5 pt-2","children":[["$","span",null,{"className":"cap tc","children":[["$","span",null,{"className":"tc","children":"寻叶"}]," ","· ",["$","span",null,{"className":"tc","children":"寻叶"}]]}],["$","h1",null,{"className":"m-0 max-w-[16ch] text-[2.5rem] leading-[1.04] font-medium sm:text-[3.2rem] lg:text-[4rem] tc","children":"检索全书"}],["$","p",null,{"className":"m-0 max-w-[640px] text-[1.15rem] leading-normal text-ink-soft sm:text-[1.25rem] tc","children":"输入代码（例如 LI4）、名称、身体部位（例如手腕）或感觉（例如恶心）。先列穴位、症候与经络，内文中的相符之处随后列出。"}]]}]]}],"$undefined"]}],["$","div",null,{"className":"mt-10 flex flex-col items-start gap-4","children":[["$","$L10",null,{"label":"打开检索","locale":"zh-cn","zh":true}],["$","p",null,{"className":"m-0 text-base text-ink-micro tc","children":"在任何一页按 ⌘K、Ctrl K，或点页首的「搜寻」按钮，都会打开同一个检索视窗。"}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/1sq7olxjokl7j.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$9"}}]]
+2:[["children",{"s":"search","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":{"n":"locale","t":"d","k":"zh-cn","s":["en","feed.xml","llms.txt","zh-cn","zh-hant"]},"h":48,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"检索 · Acupoints"}],["$","meta","1",{"name":"description","content":"以代码、名称、身体部位或感觉检索三百六十一叶：先列穴位、症候与经络，再列内文中的相符之处。"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://acupoints.com/zh-cn/search/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://acupoints.com/en/search/"}],["$","link","5",{"rel":"alternate","hrefLang":"zh-Hant","href":"https://acupoints.com/zh-hant/search/"}],["$","link","6",{"rel":"alternate","hrefLang":"zh-Hans","href":"https://acupoints.com/zh-cn/search/"}],["$","link","7",{"rel":"alternate","hrefLang":"x-default","href":"https://acupoints.com/en/search/"}],["$","meta","8",{"property":"og:title","content":"检索 · Acupoints"}],["$","meta","9",{"property":"og:description","content":"以代码、名称、身体部位或感觉检索三百六十一叶：先列穴位、症候与经络，再列内文中的相符之处。"}],["$","meta","10",{"property":"og:url","content":"https://acupoints.com/zh-cn/search/"}],["$","meta","11",{"property":"og:site_name","content":"Acupoints"}],["$","meta","12",{"property":"og:image","content":"https://acupoints.com/og/default.png"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:type","content":"website"}],["$","meta","16",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","17",{"name":"twitter:title","content":"检索 · Acupoints"}],["$","meta","18",{"name":"twitter:description","content":"以代码、名称、身体部位或感觉检索三百六十一叶：先列穴位、症候与经络，再列内文中的相符之处。"}],["$","meta","19",{"name":"twitter:image","content":"https://acupoints.com/og/default.png"}],["$","link","20",{"rel":"icon","href":"/icon.svg?icon.259v-oco91-wx.svg","sizes":"any","type":"image/svg+xml"}],["$","$L19","21",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$9"}},"a":"$@1b","u":"$@1c","b":"tTyGsjgsD6XIhEzaiHry5"}
+13:null
+1c:true
+9:300
+9:C
+1b:0
+7:"$undefined"
+1a:"$undefined"
+14:"$undefined"

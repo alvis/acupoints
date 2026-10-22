@@ -1,0 +1,32 @@
+{
+  "id": "KI4",
+  "name": {
+    "en": "Dazhong",
+    "gloss": "Great Bell",
+    "zh-Hant": "大鐘",
+    "zh-Hans": "大钟"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 4,
+    "of": 27
+  },
+  "location": {
+    "text": "Behind and below the inner ankle bone, in the dip just in front of where the Achilles tendon meets the heel."
+  },
+  "for": [
+    "heel pain",
+    "a stiff",
+    "aching back",
+    "constipation"
+  ],
+  "press": {
+    "text": "Gentle finger pressure, not against the tendon, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 5",
+  "url": "https://acupoints.com/en/points/ki4",
+  "lastReviewed": "2026-08-24"
+}

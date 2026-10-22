@@ -1,0 +1,30 @@
+{
+  "id": "GV18",
+  "name": {
+    "en": "Qiangjian",
+    "gloss": "Strong Interval",
+    "zh-Hant": "強間",
+    "zh-Hans": "强间"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 18,
+    "of": 28
+  },
+  "location": {
+    "text": "On the midline of the back of the head, halfway between the skull bump and Baihui at the crown."
+  },
+  "for": [
+    "headache",
+    "dizziness",
+    "poor sleep"
+  ],
+  "press": {
+    "text": "Gentle, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv18",
+  "lastReviewed": "2026-08-24"
+}

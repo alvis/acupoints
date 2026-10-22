@@ -1,0 +1,31 @@
+{
+  "id": "LV6",
+  "name": {
+    "en": "Zhongdu",
+    "gloss": "Central Capital",
+    "zh-Hant": "中都",
+    "zh-Hans": "中都"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 6,
+    "of": 14
+  },
+  "location": {
+    "text": "內踝尖上七拇指寬，脛骨內側平面的中央。"
+  },
+  "for": [
+    "小腹痛",
+    "脅肋痛",
+    "下肢無力"
+  ],
+  "press": {
+    "text": "指腹輕按骨面，每條腿約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《銅人腧穴針灸圖經·卷五》",
+  "url": "https://acupoints.com/zh-hant/points/lv6",
+  "lastReviewed": "2026-08-24"
+}

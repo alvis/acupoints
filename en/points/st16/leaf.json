@@ -1,0 +1,31 @@
+{
+  "id": "ST16",
+  "name": {
+    "en": "Yingchuang",
+    "gloss": "Window of the Chest",
+    "zh-Hant": "膺窗",
+    "zh-Hans": "膺窗"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 16,
+    "of": 45
+  },
+  "location": {
+    "text": "On the chest, in line with the nipple, in the third gap between the ribs."
+  },
+  "for": [
+    "cough",
+    "shortness of breath",
+    "aching chest and ribs"
+  ],
+  "press": {
+    "text": "Gentle pressure, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st16",
+  "lastReviewed": "2026-08-24"
+}

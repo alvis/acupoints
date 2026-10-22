@@ -1,0 +1,33 @@
+{
+  "id": "TH22",
+  "name": {
+    "en": "Erheliao",
+    "gloss": "Ear Harmony Crevice",
+    "zh-Hant": "耳和髎",
+    "zh-Hans": "耳和髎"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 22,
+    "of": 23
+  },
+  "location": {
+    "text": "耳根上部前方，鬓发后缘，可触及的脉动稍后方。"
+  },
+  "for": [
+    "头痛",
+    "耳鸣",
+    "颊肿"
+  ],
+  "press": {
+    "text": "以指尖轻触，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "切勿用力按压鬓角的脉动处。"
+  ],
+  "source": "《铜人腧穴针灸图经·卷中》",
+  "url": "https://acupoints.com/zh-cn/points/th22",
+  "lastReviewed": "2026-08-25"
+}

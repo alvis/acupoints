@@ -1,0 +1,32 @@
+{
+  "id": "SI16",
+  "name": {
+    "en": "Tianchuang",
+    "gloss": "Heaven’s Window",
+    "zh-Hant": "天窗",
+    "zh-Hans": "天窗"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 16,
+    "of": 19
+  },
+  "location": {
+    "text": "On the side of the neck, level with the Adam’s apple, just behind the back edge of the long neck muscle."
+  },
+  "for": [
+    "ringing ears",
+    "sore throat",
+    "a stiff neck"
+  ],
+  "press": {
+    "text": "Light touch on the muscle, one side at a time, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "The carotid artery lies near: if you feel a beat, move off it."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/si16",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "SP8",
+  "name": {
+    "en": "Diji",
+    "gloss": "Pivot of the Earth",
+    "zh-Hant": "地機",
+    "zh-Hans": "地机"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 8,
+    "of": 21
+  },
+  "location": {
+    "text": "On the inner shin, four finger-widths below Yinlingquan (SP9), just behind the edge of the shinbone."
+  },
+  "for": [
+    "period pain",
+    "irregular periods",
+    "loose stools"
+  ],
+  "press": {
+    "text": "Two finger pads, slow circles, one minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "In pregnancy, ask a practitioner before pressing."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/sp8",
+  "lastReviewed": "2026-08-24"
+}

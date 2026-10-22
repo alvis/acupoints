@@ -1,0 +1,33 @@
+{
+  "id": "BL56",
+  "name": {
+    "en": "Chengjin",
+    "gloss": "Supporting the Sinew",
+    "zh-Hant": "承筋",
+    "zh-Hans": "承筋"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 56,
+    "of": 67
+  },
+  "location": {
+    "text": "小腿後側正中，小腿肚最豐滿處。"
+  },
+  "for": [
+    "小腿抽筋",
+    "腰腿拘痛",
+    "痔瘡"
+  ],
+  "press": {
+    "text": "以拇指適度按壓，每條腿約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "小腿突然腫、熱、痛時不按，並應就醫。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl56",
+  "lastReviewed": "2026-08-24"
+}

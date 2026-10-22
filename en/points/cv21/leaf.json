@@ -1,0 +1,30 @@
+{
+  "id": "CV21",
+  "name": {
+    "en": "Xuanji",
+    "gloss": "Jade Pivot",
+    "zh-Hant": "璇璣",
+    "zh-Hans": "璇玑"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 21,
+    "of": 24
+  },
+  "location": {
+    "text": "On the breastbone, one thumb-width below the notch at its top."
+  },
+  "for": [
+    "cough",
+    "sore throat",
+    "a full chest"
+  ],
+  "press": {
+    "text": "Gentle, on the breastbone, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv21",
+  "lastReviewed": "2026-08-24"
+}

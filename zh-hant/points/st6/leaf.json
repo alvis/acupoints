@@ -1,0 +1,31 @@
+{
+  "id": "ST6",
+  "name": {
+    "en": "Jiache",
+    "gloss": "Cheek Wheel",
+    "zh-Hant": "頰車",
+    "zh-Hans": "颊车"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 6,
+    "of": 45
+  },
+  "location": {
+    "text": "咬緊牙齒時，下頜角前上方一橫指隆起的肌肉處。"
+  },
+  "for": [
+    "牙痛",
+    "下巴開合不利",
+    "臉頰腫"
+  ],
+  "press": {
+    "text": "放鬆下巴，在肌肉上輕輕打圈，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/st6",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "CV14",
+  "name": {
+    "en": "Juque",
+    "gloss": "Great Gateway",
+    "zh-Hant": "巨闕",
+    "zh-Hans": "巨阙"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 14,
+    "of": 24
+  },
+  "location": {
+    "text": "On the midline of the upper belly, two thumb-widths below the lower tip of the breastbone."
+  },
+  "for": [
+    "palpitations",
+    "bloating",
+    "vomiting"
+  ],
+  "press": {
+    "text": "Gentle with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv14",
+  "lastReviewed": "2026-08-24"
+}

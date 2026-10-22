@@ -1,0 +1,30 @@
+{
+  "id": "HT7",
+  "name": {
+    "en": "Shenmen",
+    "gloss": "Spirit Gate",
+    "zh-Hant": "神門",
+    "zh-Hans": "神门"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 7,
+    "of": 9
+  },
+  "location": {
+    "text": "On the wrist crease at the little-finger end, in the dip beside the tendon."
+  },
+  "for": [
+    "poor sleep",
+    "a restless mind",
+    "forgetfulness"
+  ],
+  "press": {
+    "text": "Two finger pads, slow circles, one minute each wrist.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ht7",
+  "lastReviewed": "2026-08-24"
+}

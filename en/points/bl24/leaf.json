@@ -1,0 +1,29 @@
+{
+  "id": "BL24",
+  "name": {
+    "en": "Qihaishu",
+    "gloss": "Sea-of-Qi Transport",
+    "zh-Hant": "氣海俞",
+    "zh-Hans": "气海俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 24,
+    "of": 67
+  },
+  "location": {
+    "text": "On the lower back, one bump below navel level (below the third lumbar bump), two finger-widths from the spine."
+  },
+  "for": [
+    "lower back ache",
+    "period pain",
+    "bloating"
+  ],
+  "press": {
+    "text": "Hands on hips, press with the thumbs, fairly firm, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/en/points/bl24",
+  "lastReviewed": "2026-08-24"
+}

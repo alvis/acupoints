@@ -1,0 +1,29 @@
+{
+  "id": "GB23",
+  "name": {
+    "en": "Zhejin",
+    "gloss": "Carriage Boards and Sinew",
+    "zh-Hant": "輒筋",
+    "zh-Hans": "辄筋"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 23,
+    "of": 44
+  },
+  "location": {
+    "text": "On the side of the chest, level with the nipple, one thumb-width in front of GB22, between ribs."
+  },
+  "for": [
+    "A full chest and sore ribs",
+    "acid reflux"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure in the rib groove, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gb23",
+  "lastReviewed": "2026-08-24"
+}

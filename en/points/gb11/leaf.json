@@ -1,0 +1,31 @@
+{
+  "id": "GB11",
+  "name": {
+    "en": "Touqiaoyin",
+    "gloss": "Yin Apertures of the Head",
+    "zh-Hant": "頭竅陰",
+    "zh-Hans": "头窍阴"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 11,
+    "of": 44
+  },
+  "location": {
+    "text": "Behind the ear, on the scalp just above and behind the bony knob, one thumb-width below GB10."
+  },
+  "for": [
+    "headache",
+    "ringing ears",
+    "a stiff neck"
+  ],
+  "press": {
+    "text": "Light fingertip touch on the scalp, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gb11",
+  "lastReviewed": "2026-08-24"
+}

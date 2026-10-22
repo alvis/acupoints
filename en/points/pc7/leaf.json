@@ -1,0 +1,30 @@
+{
+  "id": "PC7",
+  "name": {
+    "en": "Daling",
+    "gloss": "Great Mound",
+    "zh-Hant": "大陵",
+    "zh-Hans": "大陵"
+  },
+  "channel": {
+    "id": "PC",
+    "order": 7,
+    "of": 9
+  },
+  "location": {
+    "text": "At the middle of the wrist crease on the palm side, between the two tendons."
+  },
+  "for": [
+    "palpitations",
+    "stomach ache",
+    "wrist pain"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure, about a minute each wrist.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/pc7",
+  "lastReviewed": "2026-08-24"
+}

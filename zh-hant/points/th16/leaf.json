@@ -1,0 +1,32 @@
+{
+  "id": "TH16",
+  "name": {
+    "en": "Tianyou",
+    "gloss": "Heavenly Window",
+    "zh-Hant": "天牖",
+    "zh-Hans": "天牖"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 16,
+    "of": 23
+  },
+  "location": {
+    "text": "頸側，耳後乳突後下方，與下頜角同高，胸鎖乳突肌後緣。"
+  },
+  "for": [
+    "頸項強痛",
+    "鼻塞",
+    "咽喉痛"
+  ],
+  "press": {
+    "text": "以指尖極輕觸碰，一次只按一側，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "切勿按在脈動上或兩側同按；孕期請先諮詢。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/th16",
+  "lastReviewed": "2026-08-25"
+}

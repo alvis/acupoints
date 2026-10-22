@@ -1,0 +1,32 @@
+{
+  "id": "CV4",
+  "name": {
+    "en": "Guanyuan",
+    "gloss": "Gate of the Origin",
+    "zh-Hant": "關元",
+    "zh-Hans": "关元"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 4,
+    "of": 24
+  },
+  "location": {
+    "text": "下腹正中线，肚脐下四横指。"
+  },
+  "for": [
+    "经痛",
+    "小便频数",
+    "疲倦怕冷"
+  ],
+  "press": {
+    "text": "以掌心或指腹轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/cv4",
+  "lastReviewed": "2026-08-24"
+}

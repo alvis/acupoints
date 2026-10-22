@@ -1,0 +1,30 @@
+{
+  "id": "BL50",
+  "name": {
+    "en": "Weicang",
+    "gloss": "The Stomach Granary",
+    "zh-Hant": "胃倉",
+    "zh-Hans": "胃仓"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 50,
+    "of": 67
+  },
+  "location": {
+    "text": "第七颈椎往下数第十二个骨突下方，脊柱旁开四横指。"
+  },
+  "for": [
+    "胃痛",
+    "腹胀",
+    "背痛"
+  ],
+  "press": {
+    "text": "请家人以拇指按，或背靠墙压一颗软球，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl50",
+  "lastReviewed": "2026-08-25"
+}

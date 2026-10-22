@@ -1,0 +1,31 @@
+{
+  "id": "GB43",
+  "name": {
+    "en": "Xiaxi",
+    "gloss": "Clasped Stream",
+    "zh-Hant": "俠溪",
+    "zh-Hans": "侠溪"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 43,
+    "of": 44
+  },
+  "location": {
+    "text": "足背，第四、五趾之間，趾蹼邊緣稍後方。"
+  },
+  "for": [
+    "頭痛",
+    "耳鳴",
+    "頭暈"
+  ],
+  "press": {
+    "text": "指腹輕按，每腳約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gb43",
+  "lastReviewed": "2026-08-24"
+}

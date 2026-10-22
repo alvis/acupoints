@@ -1,0 +1,30 @@
+{
+  "id": "LI5",
+  "name": {
+    "en": "Yangxi",
+    "gloss": "Yang Ravine",
+    "zh-Hant": "陽溪",
+    "zh-Hans": "阳溪"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 5,
+    "of": 20
+  },
+  "location": {
+    "text": "翘起拇指，手腕背面靠拇指一侧，两条肌腱之间的凹陷。"
+  },
+  "for": [
+    "手腕痛",
+    "头痛",
+    "牙痛"
+  ],
+  "press": {
+    "text": "用指尖按入凹陷约一分钟，两腕各一次。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/li5",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "BL22",
+  "name": {
+    "en": "Sanjiaoshu",
+    "gloss": "Triple-Burner Transport",
+    "zh-Hant": "三焦俞",
+    "zh-Hans": "三焦俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 22,
+    "of": 67
+  },
+  "location": {
+    "text": "On the lower back, one bump above navel level (below the first lumbar bump), two finger-widths from the spine."
+  },
+  "for": [
+    "bloating",
+    "a rumbling belly",
+    "a stiff lower back"
+  ],
+  "press": {
+    "text": "Hands on hips, press with the thumbs, fairly firm, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "The kidneys lie beneath: gentle pressure only, never hard or sharp."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl22",
+  "lastReviewed": "2026-08-24"
+}

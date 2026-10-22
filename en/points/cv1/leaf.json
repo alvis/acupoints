@@ -1,0 +1,31 @@
+{
+  "id": "CV1",
+  "name": {
+    "en": "Huiyin",
+    "gloss": "Meeting of Yin",
+    "zh-Hant": "會陰",
+    "zh-Hans": "会阴"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 1,
+    "of": 24
+  },
+  "location": {
+    "text": "On the perineum, midway between the anus and the genitals."
+  },
+  "for": [
+    "difficult urination",
+    "haemorrhoids",
+    "genital itching"
+  ],
+  "press": {
+    "text": "Not for self-pressing: it is an intimate area. Leave it to a trained practitioner."
+  },
+  "cautions": [
+    "Intimate area; do not press it yourself."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv1",
+  "lastReviewed": "2026-08-24"
+}

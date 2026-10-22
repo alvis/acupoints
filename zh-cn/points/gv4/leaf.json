@@ -1,0 +1,30 @@
+{
+  "id": "GV4",
+  "name": {
+    "en": "Mingmen",
+    "gloss": "Gate of Life",
+    "zh-Hant": "命門",
+    "zh-Hans": "命门"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 4,
+    "of": 28
+  },
+  "location": {
+    "text": "腰部后正中线，第二腰椎棘突下，与肚脐前后相对。"
+  },
+  "for": [
+    "腰痛",
+    "经痛",
+    "腹中冷痛"
+  ],
+  "press": {
+    "text": "双手拇指或指节稍用力按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gv4",
+  "lastReviewed": "2026-08-24"
+}

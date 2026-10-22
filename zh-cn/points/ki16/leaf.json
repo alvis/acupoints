@@ -1,0 +1,32 @@
+{
+  "id": "KI16",
+  "name": {
+    "en": "Huangshu",
+    "gloss": "A Ferry from the Deep Interior",
+    "zh-Hant": "肓俞",
+    "zh-Hans": "肓俞"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 16,
+    "of": 27
+  },
+  "location": {
+    "text": "与肚脐同高，肚脐旁开半拇指宽。"
+  },
+  "for": [
+    "腹痛",
+    "腹泻",
+    "便秘"
+  ],
+  "press": {
+    "text": "平躺，以指尖轻触约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期请先咨询医师。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/ki16",
+  "lastReviewed": "2026-08-24"
+}

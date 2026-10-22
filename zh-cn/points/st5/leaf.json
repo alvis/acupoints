@@ -1,0 +1,33 @@
+{
+  "id": "ST5",
+  "name": {
+    "en": "Daying",
+    "gloss": "Great Welcome",
+    "zh-Hant": "大迎",
+    "zh-Hans": "大迎"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 5,
+    "of": 45
+  },
+  "location": {
+    "text": "鼓起脸颊时，下颌角前方出现的凹沟，可摸到脉搏处。"
+  },
+  "for": [
+    "牙痛",
+    "脸颊肿",
+    "牙关紧"
+  ],
+  "press": {
+    "text": "在脉搏旁轻按，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "此处有面部动脉搏动，只宜轻按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/st5",
+  "lastReviewed": "2026-08-24"
+}

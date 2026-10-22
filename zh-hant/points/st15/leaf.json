@@ -1,0 +1,30 @@
+{
+  "id": "ST15",
+  "name": {
+    "en": "Wuyi",
+    "gloss": "Chamber Canopy",
+    "zh-Hant": "屋翳",
+    "zh-Hans": "屋翳"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 15,
+    "of": 45
+  },
+  "location": {
+    "text": "胸前，乳頭直上，第二肋間隙。"
+  },
+  "for": [
+    "咳嗽",
+    "胸脅脹痛"
+  ],
+  "press": {
+    "text": "輕按，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/st15",
+  "lastReviewed": "2026-08-24"
+}

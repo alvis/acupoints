@@ -1,0 +1,33 @@
+{
+  "id": "ST28",
+  "name": {
+    "en": "Shuidao",
+    "gloss": "Waterway",
+    "zh-Hant": "水道",
+    "zh-Hans": "水道"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 28,
+    "of": 45
+  },
+  "location": {
+    "text": "On the lower belly, four finger-widths below the navel and three finger-widths out from the midline."
+  },
+  "for": [
+    "A full lower belly",
+    "difficult urination",
+    "period pain"
+  ],
+  "press": {
+    "text": "Gentle pressure after emptying the bladder, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Not on the belly in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st28",
+  "lastReviewed": "2026-08-24"
+}

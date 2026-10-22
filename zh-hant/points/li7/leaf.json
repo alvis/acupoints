@@ -1,0 +1,31 @@
+{
+  "id": "LI7",
+  "name": {
+    "en": "Wenliu",
+    "gloss": "Warm Flow",
+    "zh-Hant": "溫溜",
+    "zh-Hans": "温溜"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 7,
+    "of": 20
+  },
+  "location": {
+    "text": "前臂背面靠拇指一側，腕與肘連線中點往手腕方向一拇指寬。"
+  },
+  "for": [
+    "腹痛腸鳴",
+    "頭痛",
+    "喉嚨痛"
+  ],
+  "press": {
+    "text": "拇指稍用力按，每臂約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/li7",
+  "lastReviewed": "2026-08-24"
+}

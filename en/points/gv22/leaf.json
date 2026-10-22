@@ -1,0 +1,32 @@
+{
+  "id": "GV22",
+  "name": {
+    "en": "Xinhui",
+    "gloss": "Fontanelle Meeting",
+    "zh-Hant": "囟會",
+    "zh-Hans": "囟会"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 22,
+    "of": 28
+  },
+  "location": {
+    "text": "On the midline of the head, two thumb-widths inside the front hairline."
+  },
+  "for": [
+    "headache",
+    "dizziness",
+    "a blocked nose"
+  ],
+  "press": {
+    "text": "Gentle, about a minute; for adults only.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Never press on a baby's soft spot: the skull there has not yet closed."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv22",
+  "lastReviewed": "2026-08-24"
+}

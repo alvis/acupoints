@@ -1,0 +1,33 @@
+{
+  "id": "TH23",
+  "name": {
+    "en": "Sizhukong",
+    "gloss": "Silken Bamboo Hollow",
+    "zh-Hant": "絲竹空",
+    "zh-Hans": "丝竹空"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 23,
+    "of": 23
+  },
+  "location": {
+    "text": "眉梢外端的小凹陷處。"
+  },
+  "for": [
+    "頭痛",
+    "目赤腫痛",
+    "眼瞼跳動"
+  ],
+  "press": {
+    "text": "以指尖極輕觸碰，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "避開眼球與眼瞼。"
+  ],
+  "source": "《銅人腧穴針灸圖經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/th23",
+  "lastReviewed": "2026-08-24"
+}

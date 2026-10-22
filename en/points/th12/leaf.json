@@ -1,0 +1,31 @@
+{
+  "id": "TH12",
+  "name": {
+    "en": "Xiaoluo",
+    "gloss": "Dissolving Waters",
+    "zh-Hant": "消濼",
+    "zh-Hans": "消泺"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 12,
+    "of": 23
+  },
+  "location": {
+    "text": "On the back of the upper arm, midway between the elbow tip and the lower edge of the shoulder muscle."
+  },
+  "for": [
+    "aching shoulder and arm",
+    "toothache",
+    "stiff neck"
+  ],
+  "press": {
+    "text": "Gentle finger pressure, no heat, about a minute each arm.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 5",
+  "url": "https://acupoints.com/en/points/th12",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GV16",
+  "name": {
+    "en": "Fengfu",
+    "gloss": "Mansion of Wind",
+    "zh-Hant": "風府",
+    "zh-Hans": "风府"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 16,
+    "of": 28
+  },
+  "location": {
+    "text": "One thumb-width above the back hairline, in the hollow under the bump of the skull, between the two neck cords."
+  },
+  "for": [
+    "headache",
+    "a stiff neck",
+    "a sore throat"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv16",
+  "lastReviewed": "2026-08-24"
+}

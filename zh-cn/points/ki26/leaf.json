@@ -1,0 +1,33 @@
+{
+  "id": "KI26",
+  "name": {
+    "en": "Yuzhong",
+    "gloss": "Refined Abundance at the Centre",
+    "zh-Hant": "彧中",
+    "zh-Hans": "彧中"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 26,
+    "of": 27
+  },
+  "location": {
+    "text": "锁骨下第一个肋间，胸骨正中与乳头连线的中点。"
+  },
+  "for": [
+    "咳嗽",
+    "胸胁胀满",
+    "咽喉痛"
+  ],
+  "press": {
+    "text": "以指尖轻触皮肤表面，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "只可轻触，切勿往肋间深按。"
+  ],
+  "source": "《铜人腧穴针灸图经·卷中》",
+  "url": "https://acupoints.com/zh-cn/points/ki26",
+  "lastReviewed": "2026-08-24"
+}

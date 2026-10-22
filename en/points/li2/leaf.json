@@ -1,0 +1,31 @@
+{
+  "id": "LI2",
+  "name": {
+    "en": "Erjian",
+    "gloss": "Second Space",
+    "zh-Hant": "二間",
+    "zh-Hans": "二间"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 2,
+    "of": 20
+  },
+  "location": {
+    "text": "Make a loose fist: on the thumb side of the index finger, just in front of the big knuckle, where palm skin meets back skin."
+  },
+  "for": [
+    "toothache",
+    "nosebleed",
+    "sore eyes"
+  ],
+  "press": {
+    "text": "Fingertip pressure into the hollow, about a minute each hand.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/li2",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "BL18",
+  "name": {
+    "en": "Ganshu",
+    "gloss": "The Liver’s Transport",
+    "zh-Hant": "肝俞",
+    "zh-Hans": "肝俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 18,
+    "of": 67
+  },
+  "location": {
+    "text": "Two bumps below the shoulder-blade tips (below the ninth bump from C7), two finger-widths to each side."
+  },
+  "for": [
+    "aching under the ribs",
+    "red eyes",
+    "back ache"
+  ],
+  "press": {
+    "text": "Ask a partner to press with a thumb, or lean on a soft ball against a wall, a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl18",
+  "lastReviewed": "2026-08-24"
+}

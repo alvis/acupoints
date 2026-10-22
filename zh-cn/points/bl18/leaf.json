@@ -1,0 +1,30 @@
+{
+  "id": "BL18",
+  "name": {
+    "en": "Ganshu",
+    "gloss": "The Liver’s Transport",
+    "zh-Hant": "肝俞",
+    "zh-Hans": "肝俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 18,
+    "of": 67
+  },
+  "location": {
+    "text": "肩胛骨下角水平再往下两个骨突（第九胸椎下），脊柱旁开两横指。"
+  },
+  "for": [
+    "胁肋胀痛",
+    "眼红",
+    "背痛"
+  ],
+  "press": {
+    "text": "请家人以拇指按，或背靠墙压一颗软球，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl18",
+  "lastReviewed": "2026-08-24"
+}

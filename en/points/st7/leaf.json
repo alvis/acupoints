@@ -1,0 +1,31 @@
+{
+  "id": "ST7",
+  "name": {
+    "en": "Xiaguan",
+    "gloss": "Lower Pass",
+    "zh-Hant": "下關",
+    "zh-Hans": "下关"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 7,
+    "of": 45
+  },
+  "location": {
+    "text": "In front of the ear, in the hollow under the cheekbone arch; it closes when you open the mouth."
+  },
+  "for": [
+    "jaw pain",
+    "toothache",
+    "ringing ears"
+  ],
+  "press": {
+    "text": "Gentle pressure with the mouth closed, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st7",
+  "lastReviewed": "2026-08-24"
+}

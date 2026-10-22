@@ -1,0 +1,30 @@
+{
+  "id": "GV9",
+  "name": {
+    "en": "Zhiyang",
+    "gloss": "Reaching Yang",
+    "zh-Hant": "至陽",
+    "zh-Hans": "至阳"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 9,
+    "of": 28
+  },
+  "location": {
+    "text": "On the spine, below the seventh thoracic bump, level with the lower tips of the shoulder blades."
+  },
+  "for": [
+    "fullness of the chest and ribs",
+    "a stiff aching back",
+    "cough"
+  ],
+  "press": {
+    "text": "Ask a helper to press firmly with a thumb, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv9",
+  "lastReviewed": "2026-08-24"
+}

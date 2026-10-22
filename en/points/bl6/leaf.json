@@ -1,0 +1,31 @@
+{
+  "id": "BL6",
+  "name": {
+    "en": "Chengguang",
+    "gloss": "Receiving Light",
+    "zh-Hant": "承光",
+    "zh-Hans": "承光"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 6,
+    "of": 67
+  },
+  "location": {
+    "text": "On the scalp, two finger-widths behind BL5, on the same line two finger-widths out from the centre."
+  },
+  "for": [
+    "headache",
+    "dizziness",
+    "blurred vision"
+  ],
+  "press": {
+    "text": "Small circles with two fingertips, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl6",
+  "lastReviewed": "2026-08-25"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "CV20",
+  "name": {
+    "en": "Huagai",
+    "gloss": "Splendid Canopy",
+    "zh-Hant": "華蓋",
+    "zh-Hans": "华盖"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 20,
+    "of": 24
+  },
+  "location": {
+    "text": "High on the breastbone, level with the first rib space."
+  },
+  "for": [
+    "cough",
+    "wheezing",
+    "chest and rib pain"
+  ],
+  "press": {
+    "text": "Gentle, on the breastbone, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv20",
+  "lastReviewed": "2026-08-24"
+}

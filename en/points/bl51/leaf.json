@@ -1,0 +1,31 @@
+{
+  "id": "BL51",
+  "name": {
+    "en": "Huangmen",
+    "gloss": "Gate of the Huang",
+    "zh-Hant": "肓門",
+    "zh-Hans": "肓门"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 51,
+    "of": 67
+  },
+  "location": {
+    "text": "On the lower back, one bump above navel level (below the first lumbar bump), four finger-widths from the spine."
+  },
+  "for": [
+    "belly pain",
+    "constipation"
+  ],
+  "press": {
+    "text": "Hands on hips, press with the thumbs, fairly firm, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "The kidneys lie beneath: gentle pressure only, never hard or sharp."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl51",
+  "lastReviewed": "2026-08-25"
+}

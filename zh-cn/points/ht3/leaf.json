@@ -1,0 +1,30 @@
+{
+  "id": "HT3",
+  "name": {
+    "en": "Shaohai",
+    "gloss": "Young Sea",
+    "zh-Hant": "少海",
+    "zh-Hans": "少海"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 3,
+    "of": 9
+  },
+  "location": {
+    "text": "屈肘，肘横纹内侧端与肘内侧骨突之间的中点。"
+  },
+  "for": [
+    "肘臂痛",
+    "手麻手颤",
+    "心神不宁"
+  ],
+  "press": {
+    "text": "两指指腹慢慢打圈一分钟；手臂发麻即放轻。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/ht3",
+  "lastReviewed": "2026-08-24"
+}

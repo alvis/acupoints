@@ -1,0 +1,31 @@
+{
+  "id": "BL52",
+  "name": {
+    "en": "Zhishi",
+    "gloss": "The Chamber of the Will",
+    "zh-Hant": "志室",
+    "zh-Hans": "志室"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 52,
+    "of": 67
+  },
+  "location": {
+    "text": "腰部，與肚臍同高，脊柱旁開四橫指。"
+  },
+  "for": [
+    "腰脊強痛",
+    "小便不利"
+  ],
+  "press": {
+    "text": "雙手叉腰，以拇指稍用力按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "下方是腎，只宜輕按，切勿用力。"
+  ],
+  "source": "《銅人腧穴針灸圖經·卷四》",
+  "url": "https://acupoints.com/zh-hant/points/bl52",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GV20",
+  "name": {
+    "en": "Baihui",
+    "gloss": "Hundred Meetings",
+    "zh-Hant": "百會",
+    "zh-Hans": "百会"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 20,
+    "of": 28
+  },
+  "location": {
+    "text": "On top of the head, where the midline meets a line drawn over the head from ear tip to ear tip."
+  },
+  "for": [
+    "headache and dizziness",
+    "poor sleep",
+    "a poor memory"
+  ],
+  "press": {
+    "text": "Gentle with a fingertip, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv20",
+  "lastReviewed": "2026-08-24"
+}

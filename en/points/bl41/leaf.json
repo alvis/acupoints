@@ -1,0 +1,33 @@
+{
+  "id": "BL41",
+  "name": {
+    "en": "Fufen",
+    "gloss": "The Attached Branch",
+    "zh-Hant": "附分",
+    "zh-Hans": "附分"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 41,
+    "of": 67
+  },
+  "location": {
+    "text": "Below the second bump under the neck bone (C7), four finger-widths from the spine, at the inner edge of the shoulder blade."
+  },
+  "for": [
+    "stiff neck",
+    "tight shoulders and upper back",
+    "a numb arm"
+  ],
+  "press": {
+    "text": "Ask a partner to press gently with a thumb, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "The lungs lie beneath: gentle pressure only, never hard or sharp."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl41",
+  "lastReviewed": "2026-08-24"
+}

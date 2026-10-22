@@ -1,0 +1,30 @@
+{
+  "id": "BL3",
+  "name": {
+    "en": "Meichong",
+    "gloss": "Eyebrow Surge",
+    "zh-Hant": "眉衝",
+    "zh-Hans": "眉冲"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 3,
+    "of": 67
+  },
+  "location": {
+    "text": "眉头直上，入前发际约半拇指宽处。"
+  },
+  "for": [
+    "头痛",
+    "头晕",
+    "鼻塞"
+  ],
+  "press": {
+    "text": "两指指腹打小圈，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/zh-cn/points/bl3",
+  "lastReviewed": "2026-08-24"
+}

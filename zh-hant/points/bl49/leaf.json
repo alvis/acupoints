@@ -1,0 +1,30 @@
+{
+  "id": "BL49",
+  "name": {
+    "en": "Yishe",
+    "gloss": "House of Thought",
+    "zh-Hant": "意舍",
+    "zh-Hans": "意舍"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 49,
+    "of": 67
+  },
+  "location": {
+    "text": "第七頸椎往下數第十一個骨突下方，脊柱旁開四橫指。"
+  },
+  "for": [
+    "腹脹",
+    "腸鳴",
+    "腹瀉"
+  ],
+  "press": {
+    "text": "請家人以拇指按，或背靠牆壓一顆軟球，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl49",
+  "lastReviewed": "2026-08-24"
+}

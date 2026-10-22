@@ -1,0 +1,32 @@
+{
+  "id": "CV23",
+  "name": {
+    "en": "Lianquan",
+    "gloss": "Edge Spring",
+    "zh-Hant": "廉泉",
+    "zh-Hans": "廉泉"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 23,
+    "of": 24
+  },
+  "location": {
+    "text": "On the front of the neck, just under the chin: the dip above the Adam’s apple, on the top edge of the hyoid bone."
+  },
+  "for": [
+    "mouth and tongue sores",
+    "drooling",
+    "trouble swallowing"
+  ],
+  "press": {
+    "text": "Light touch, pressing up toward the chin, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Never press hard on the throat."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv23",
+  "lastReviewed": "2026-08-25"
+}

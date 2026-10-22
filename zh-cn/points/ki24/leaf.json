@@ -1,0 +1,32 @@
+{
+  "id": "KI24",
+  "name": {
+    "en": "Lingxu",
+    "gloss": "Spirit Mound",
+    "zh-Hant": "靈墟",
+    "zh-Hans": "灵墟"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 24,
+    "of": 27
+  },
+  "location": {
+    "text": "锁骨下第三个肋间，胸骨正中与乳头连线的中点。"
+  },
+  "for": [
+    "咳嗽痰多",
+    "胸胁胀痛"
+  ],
+  "press": {
+    "text": "以指尖轻触，比他处更轻更短，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "只可轻触，切勿往肋间深按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/ki24",
+  "lastReviewed": "2026-08-24"
+}

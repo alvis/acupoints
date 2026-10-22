@@ -1,0 +1,30 @@
+{
+  "id": "CV20",
+  "name": {
+    "en": "Huagai",
+    "gloss": "Splendid Canopy",
+    "zh-Hant": "華蓋",
+    "zh-Hans": "华盖"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 20,
+    "of": 24
+  },
+  "location": {
+    "text": "胸骨正中線上部，平第一肋間。"
+  },
+  "for": [
+    "咳嗽",
+    "氣喘",
+    "胸脅疼痛"
+  ],
+  "press": {
+    "text": "在胸骨上輕按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/cv20",
+  "lastReviewed": "2026-08-24"
+}

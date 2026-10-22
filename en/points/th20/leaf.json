@@ -1,0 +1,31 @@
+{
+  "id": "TH20",
+  "name": {
+    "en": "Jiaosun",
+    "gloss": "Horn and Grandson",
+    "zh-Hant": "角孫",
+    "zh-Hans": "角孙"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 20,
+    "of": 23
+  },
+  "location": {
+    "text": "Fold the ear forward: the point is just above its tip, inside the hairline."
+  },
+  "for": [
+    "toothache",
+    "stiff neck",
+    "a swollen cheek"
+  ],
+  "press": {
+    "text": "A light fingertip touch through parted hair, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/th20",
+  "lastReviewed": "2026-08-24"
+}

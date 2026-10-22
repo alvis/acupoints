@@ -1,0 +1,28 @@
+{
+  "id": "TH13",
+  "name": {
+    "en": "Naohui",
+    "gloss": "A Meeting on the Upper Arm",
+    "zh-Hant": "臑會",
+    "zh-Hans": "臑会"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 13,
+    "of": 23
+  },
+  "location": {
+    "text": "上臂后侧，三角肌后下缘。"
+  },
+  "for": [
+    "上臂及肩胛疼痛"
+  ],
+  "press": {
+    "text": "以指腹轻柔按压，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/zh-cn/points/th13",
+  "lastReviewed": "2026-08-24"
+}

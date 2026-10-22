@@ -1,0 +1,32 @@
+{
+  "id": "BL1",
+  "name": {
+    "en": "Jingming",
+    "gloss": "Brightness of the Eye",
+    "zh-Hant": "睛明",
+    "zh-Hans": "睛明"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 1,
+    "of": 67
+  },
+  "location": {
+    "text": "In the small hollow just above the inner corner of the eye, beside the bridge of the nose."
+  },
+  "for": [
+    "red",
+    "sore eyes",
+    "watery eyes",
+    "blurred vision"
+  ],
+  "press": {
+    "text": "Feather-light, one clean fingertip toward the nose bone, for a few slow breaths."
+  },
+  "cautions": [
+    "Never press the eyeball. Skip with an eye infection or after eye surgery."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl1",
+  "lastReviewed": "2026-08-24"
+}

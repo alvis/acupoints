@@ -1,0 +1,30 @@
+{
+  "id": "CV13",
+  "name": {
+    "en": "Shangwan",
+    "gloss": "Upper Stomach Cavity",
+    "zh-Hant": "上脘",
+    "zh-Hans": "上脘"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 13,
+    "of": 24
+  },
+  "location": {
+    "text": "上腹正中線，中脘（肚臍與胸骨下端之中點）往上一拇指寬。"
+  },
+  "for": [
+    "胃痛",
+    "乾嘔嘔吐",
+    "食慾不振"
+  ],
+  "press": {
+    "text": "以指腹輕按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/cv13",
+  "lastReviewed": "2026-08-24"
+}

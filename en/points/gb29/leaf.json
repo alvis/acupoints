@@ -1,0 +1,30 @@
+{
+  "id": "GB29",
+  "name": {
+    "en": "Juliao",
+    "gloss": "A Dwelling Hollow",
+    "zh-Hant": "居髎",
+    "zh-Hans": "居髎"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 29,
+    "of": 44
+  },
+  "location": {
+    "text": "On the side of the hip, halfway between the bony front tip of the hip and the knob at the top of the thigh bone."
+  },
+  "for": [
+    "low back and hip pain",
+    "heavy",
+    "weak legs"
+  ],
+  "press": {
+    "text": "Steady fingertip pressure, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/en/points/gb29",
+  "lastReviewed": "2026-08-24"
+}

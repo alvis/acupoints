@@ -1,0 +1,30 @@
+{
+  "id": "CV17",
+  "name": {
+    "en": "Danzhong",
+    "gloss": "Chest Centre",
+    "zh-Hant": "膻中",
+    "zh-Hans": "膻中"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 17,
+    "of": 24
+  },
+  "location": {
+    "text": "胸骨正中線，平第四肋間；男性約在兩乳頭連線中點。"
+  },
+  "for": [
+    "胸悶",
+    "心悸",
+    "咳嗽"
+  ],
+  "press": {
+    "text": "在胸骨上輕按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/cv17",
+  "lastReviewed": "2026-08-24"
+}

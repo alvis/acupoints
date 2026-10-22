@@ -1,0 +1,31 @@
+{
+  "id": "GB33",
+  "name": {
+    "en": "Xiyangguan",
+    "gloss": "Yang Gate of the Knee",
+    "zh-Hant": "膝陽關",
+    "zh-Hans": "膝阳关"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 33,
+    "of": 44
+  },
+  "location": {
+    "text": "膝外側，大腿骨外側骨突上方的軟凹中。"
+  },
+  "for": [
+    "膝蓋腫痛",
+    "膕窩筋緊"
+  ],
+  "press": {
+    "text": "膝微屈，指腹輕按約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "膝蓋發熱、新腫或剛受傷時不按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gb33",
+  "lastReviewed": "2026-08-24"
+}

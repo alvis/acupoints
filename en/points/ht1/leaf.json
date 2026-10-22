@@ -1,0 +1,32 @@
+{
+  "id": "HT1",
+  "name": {
+    "en": "Jiquan",
+    "gloss": "Summit Spring",
+    "zh-Hant": "極泉",
+    "zh-Hans": "极泉"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 1,
+    "of": 9
+  },
+  "location": {
+    "text": "With the arm raised, in the centre of the armpit, where you can feel a pulse."
+  },
+  "for": [
+    "shoulder and arm ache",
+    "pain along the ribs"
+  ],
+  "press": {
+    "text": "Light touch beside the pulse, never on it, one minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "An artery runs here: never press on the beat."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ht1",
+  "lastReviewed": "2026-08-24"
+}

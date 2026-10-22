@@ -1,0 +1,33 @@
+{
+  "id": "SI19",
+  "name": {
+    "en": "Tinggong",
+    "gloss": "Listening Palace",
+    "zh-Hant": "聽宮",
+    "zh-Hans": "听宫"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 19,
+    "of": 19
+  },
+  "location": {
+    "text": "耳屏前方，张口时出现的凹陷。"
+  },
+  "for": [
+    "耳鸣",
+    "听力减退",
+    "牙痛"
+  ],
+  "press": {
+    "text": "张口，指腹轻按，每侧一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "耳朵流脓或疼痛时不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/si19",
+  "lastReviewed": "2026-08-24"
+}

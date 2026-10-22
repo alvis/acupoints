@@ -1,0 +1,29 @@
+{
+  "id": "GB29",
+  "name": {
+    "en": "Juliao",
+    "gloss": "A Dwelling Hollow",
+    "zh-Hant": "居髎",
+    "zh-Hans": "居髎"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 29,
+    "of": 44
+  },
+  "location": {
+    "text": "胯侧，髂骨前上棘与大腿骨上端大转子之间的中点。"
+  },
+  "for": [
+    "腰胯痛",
+    "下肢无力"
+  ],
+  "press": {
+    "text": "指腹稳稳按压，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/zh-cn/points/gb29",
+  "lastReviewed": "2026-08-24"
+}

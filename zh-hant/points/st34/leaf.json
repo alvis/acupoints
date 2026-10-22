@@ -1,0 +1,31 @@
+{
+  "id": "ST34",
+  "name": {
+    "en": "Liangqiu",
+    "gloss": "Ridge and Hill",
+    "zh-Hant": "梁丘",
+    "zh-Hans": "梁丘"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 34,
+    "of": 45
+  },
+  "location": {
+    "text": "屈膝，髕骨外上緣上三橫指。"
+  },
+  "for": [
+    "急性胃痛",
+    "腹瀉",
+    "膝蓋腫痛"
+  ],
+  "press": {
+    "text": "拇指稍用力按，每條腿約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/st34",
+  "lastReviewed": "2026-08-24"
+}

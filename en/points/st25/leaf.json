@@ -1,0 +1,33 @@
+{
+  "id": "ST25",
+  "name": {
+    "en": "Tianshu",
+    "gloss": "Celestial Pivot",
+    "zh-Hant": "天樞",
+    "zh-Hans": "天枢"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 25,
+    "of": 45
+  },
+  "location": {
+    "text": "Three finger-widths out to either side of the navel."
+  },
+  "for": [
+    "bloating",
+    "constipation",
+    "loose stools"
+  ],
+  "press": {
+    "text": "Gentle flat-finger pressure, both sides together, about a minute.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Not on the belly in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st25",
+  "lastReviewed": "2026-08-24"
+}

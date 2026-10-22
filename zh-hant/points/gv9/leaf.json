@@ -1,0 +1,30 @@
+{
+  "id": "GV9",
+  "name": {
+    "en": "Zhiyang",
+    "gloss": "Reaching Yang",
+    "zh-Hant": "至陽",
+    "zh-Hans": "至阳"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 9,
+    "of": 28
+  },
+  "location": {
+    "text": "背部後正中線，第七胸椎棘突下，約與兩側肩胛骨下角平齊。"
+  },
+  "for": [
+    "胸脅脹痛",
+    "背部僵痛",
+    "咳嗽"
+  ],
+  "press": {
+    "text": "請旁人以拇指稍用力按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gv9",
+  "lastReviewed": "2026-08-24"
+}

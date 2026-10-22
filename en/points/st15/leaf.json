@@ -1,0 +1,31 @@
+{
+  "id": "ST15",
+  "name": {
+    "en": "Wuyi",
+    "gloss": "Chamber Canopy",
+    "zh-Hant": "屋翳",
+    "zh-Hans": "屋翳"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 15,
+    "of": 45
+  },
+  "location": {
+    "text": "On the chest, in line with the nipple, in the second gap between the ribs."
+  },
+  "for": [
+    "cough",
+    "a full",
+    "aching chest"
+  ],
+  "press": {
+    "text": "Gentle pressure, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st15",
+  "lastReviewed": "2026-08-24"
+}

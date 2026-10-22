@@ -1,0 +1,33 @@
+{
+  "id": "BL11",
+  "name": {
+    "en": "Dazhu",
+    "gloss": "Great Shuttle",
+    "zh-Hant": "大杼",
+    "zh-Hans": "大杼"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 11,
+    "of": 67
+  },
+  "location": {
+    "text": "頸後最突的骨（第七頸椎）往下第一個骨突下方，脊柱旁開兩橫指。"
+  },
+  "for": [
+    "頸僵",
+    "肩背痠痛",
+    "咳嗽"
+  ],
+  "press": {
+    "text": "請家人用拇指輕按，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "下方是肺，只宜輕按，切勿用力。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl11",
+  "lastReviewed": "2026-08-24"
+}

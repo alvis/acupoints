@@ -1,0 +1,32 @@
+{
+  "id": "LU9",
+  "name": {
+    "en": "Taiyuan",
+    "gloss": "Great Abyss",
+    "zh-Hant": "太淵",
+    "zh-Hans": "太渊"
+  },
+  "channel": {
+    "id": "LU",
+    "order": 9,
+    "of": 11
+  },
+  "location": {
+    "text": "手腕內側橫紋靠拇指一端，摸得到脈搏處。"
+  },
+  "for": [
+    "咳嗽",
+    "氣喘",
+    "手腕痛"
+  ],
+  "press": {
+    "text": "輕觸約一分鐘，兩腕各一次，不要把脈搏壓住。",
+    "seconds": 60
+  },
+  "cautions": [
+    "此穴在腕部脈搏上，只宜輕按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/lu9",
+  "lastReviewed": "2026-08-24"
+}

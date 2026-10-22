@@ -1,0 +1,32 @@
+{
+  "id": "GB21",
+  "name": {
+    "en": "Jianjing",
+    "gloss": "Shoulder Well",
+    "zh-Hant": "肩井",
+    "zh-Hans": "肩井"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 21,
+    "of": 44
+  },
+  "location": {
+    "text": "肩上，颈后最高骨突与肩峰之间的中点。"
+  },
+  "for": [
+    "颈项僵硬",
+    "肩背酸痛"
+  ],
+  "press": {
+    "text": "肌肉放松，轻轻按压，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gb21",
+  "lastReviewed": "2026-08-24"
+}

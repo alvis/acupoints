@@ -1,0 +1,33 @@
+{
+  "id": "PC9",
+  "name": {
+    "en": "Zhongchong",
+    "gloss": "Central Rush",
+    "zh-Hant": "中衝",
+    "zh-Hans": "中冲"
+  },
+  "channel": {
+    "id": "PC",
+    "order": 9,
+    "of": 9
+  },
+  "location": {
+    "text": "At the very centre of the tip of the middle finger."
+  },
+  "for": [
+    "faintness in the summer heat",
+    "a stiff",
+    "swollen tongue"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure, nothing sharp, about a minute each hand.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Fainting or heatstroke needs emergency care; skip with diabetes or poor circulation."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/pc9",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "BL56",
+  "name": {
+    "en": "Chengjin",
+    "gloss": "Supporting the Sinew",
+    "zh-Hant": "承筋",
+    "zh-Hans": "承筋"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 56,
+    "of": 67
+  },
+  "location": {
+    "text": "In the middle of the back of the calf, on the fullest part of the calf muscle."
+  },
+  "for": [
+    "calf cramps",
+    "tight low back and legs",
+    "haemorrhoids"
+  ],
+  "press": {
+    "text": "Moderate thumb pressure, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Skip a calf that is suddenly swollen, hot or sore, and see a doctor."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl56",
+  "lastReviewed": "2026-08-24"
+}

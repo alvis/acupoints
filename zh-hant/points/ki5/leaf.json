@@ -1,0 +1,31 @@
+{
+  "id": "KI5",
+  "name": {
+    "en": "Shuiquan",
+    "gloss": "Water Spring",
+    "zh-Hant": "水泉",
+    "zh-Hans": "水泉"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 5,
+    "of": 27
+  },
+  "location": {
+    "text": "內踝後凹陷直下一拇指寬，跟骨內側。"
+  },
+  "for": [
+    "痛經",
+    "月經不調",
+    "小便不利"
+  ],
+  "press": {
+    "text": "以指腹輕柔按壓約一分鐘，再換另一隻腳。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《銅人腧穴針灸圖經·卷五》",
+  "url": "https://acupoints.com/zh-hant/points/ki5",
+  "lastReviewed": "2026-08-24"
+}

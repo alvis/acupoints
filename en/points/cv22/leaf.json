@@ -1,0 +1,32 @@
+{
+  "id": "CV22",
+  "name": {
+    "en": "Tiantu",
+    "gloss": "Heaven's Chimney",
+    "zh-Hant": "天突",
+    "zh-Hans": "天突"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 22,
+    "of": 24
+  },
+  "location": {
+    "text": "At the base of the throat, in the soft notch at the top of the breastbone."
+  },
+  "for": [
+    "cough",
+    "a lump-in-the-throat feeling",
+    "a hoarse voice"
+  ],
+  "press": {
+    "text": "Light touch only, pressing down toward the breastbone, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Never press hard or back into the throat: the windpipe lies just beneath."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv22",
+  "lastReviewed": "2026-08-24"
+}

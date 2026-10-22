@@ -1,0 +1,31 @@
+{
+  "id": "GV1",
+  "name": {
+    "en": "Changqiang",
+    "gloss": "Long Strong",
+    "zh-Hant": "長強",
+    "zh-Hans": "长强"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 1,
+    "of": 28
+  },
+  "location": {
+    "text": "尾骨尖下方，尾骨尖與肛門之間的中點。"
+  },
+  "for": [
+    "痔瘡",
+    "便秘",
+    "尾骨與腰骶痠痛"
+  ],
+  "press": {
+    "text": "不宜自行按壓：此處緊鄰肛門，宜交由受過訓練的醫者處理。"
+  },
+  "cautions": [
+    "私密部位，緊鄰肛門，請勿自行按壓。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gv1",
+  "lastReviewed": "2026-08-24"
+}

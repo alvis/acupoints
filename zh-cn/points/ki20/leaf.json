@@ -1,0 +1,32 @@
+{
+  "id": "KI20",
+  "name": {
+    "en": "Futonggu",
+    "gloss": "A Valley That Passes Through",
+    "zh-Hant": "腹通谷",
+    "zh-Hans": "腹通谷"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 20,
+    "of": 27
+  },
+  "location": {
+    "text": "胸骨下端下四横指，前正中线旁开半拇指宽。"
+  },
+  "for": [
+    "腹胀",
+    "腹痛",
+    "食欲不振"
+  ],
+  "press": {
+    "text": "平躺，以指尖轻触约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "急性腹痛或呕吐时不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/ki20",
+  "lastReviewed": "2026-08-24"
+}

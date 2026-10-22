@@ -1,0 +1,31 @@
+{
+  "id": "GB38",
+  "name": {
+    "en": "Yangfu",
+    "gloss": "Yang Assist",
+    "zh-Hant": "陽輔",
+    "zh-Hans": "阳辅"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 38,
+    "of": 44
+  },
+  "location": {
+    "text": "Four thumb-widths above the outer anklebone, just in front of the front edge of the fibula."
+  },
+  "for": [
+    "one-sided headache",
+    "pain at the outer eye corner",
+    "chest and rib pain"
+  ],
+  "press": {
+    "text": "Steady fingertip pressure, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gb38",
+  "lastReviewed": "2026-08-24"
+}

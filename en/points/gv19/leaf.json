@@ -1,0 +1,30 @@
+{
+  "id": "GV19",
+  "name": {
+    "en": "Houding",
+    "gloss": "Behind the Crown",
+    "zh-Hant": "後頂",
+    "zh-Hans": "后顶"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 19,
+    "of": 28
+  },
+  "location": {
+    "text": "On the midline of the head, two finger-widths behind Baihui at the crown."
+  },
+  "for": [
+    "headache",
+    "a stiff neck",
+    "poor sleep"
+  ],
+  "press": {
+    "text": "Gentle, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv19",
+  "lastReviewed": "2026-08-24"
+}

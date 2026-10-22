@@ -1,0 +1,31 @@
+{
+  "id": "KI4",
+  "name": {
+    "en": "Dazhong",
+    "gloss": "Great Bell",
+    "zh-Hant": "大鐘",
+    "zh-Hans": "大钟"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 4,
+    "of": 27
+  },
+  "location": {
+    "text": "内踝后下方，跟腱附著于脚跟处前方的凹陷。"
+  },
+  "for": [
+    "足跟痛",
+    "腰脊强痛",
+    "便秘"
+  ],
+  "press": {
+    "text": "以指腹轻按，勿顶向跟腱，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《铜人腧穴针灸图经·卷五》",
+  "url": "https://acupoints.com/zh-cn/points/ki4",
+  "lastReviewed": "2026-08-24"
+}

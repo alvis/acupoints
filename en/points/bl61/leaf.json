@@ -1,0 +1,30 @@
+{
+  "id": "BL61",
+  "name": {
+    "en": "Pucan",
+    "gloss": "The Servant’s Respect",
+    "zh-Hant": "僕參",
+    "zh-Hans": "仆参"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 61,
+    "of": 67
+  },
+  "location": {
+    "text": "Directly below BL60, on the side of the heel bone, where the skin of the top of the foot meets the sole."
+  },
+  "for": [
+    "heel pain",
+    "a sore ankle",
+    "weak legs"
+  ],
+  "press": {
+    "text": "Thumb pressure, about a minute each foot.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/en/points/bl61",
+  "lastReviewed": "2026-08-24"
+}

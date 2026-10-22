@@ -1,0 +1,32 @@
+{
+  "id": "KI14",
+  "name": {
+    "en": "Siman",
+    "gloss": "Four Fullness",
+    "zh-Hant": "四滿",
+    "zh-Hans": "四满"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 14,
+    "of": 27
+  },
+  "location": {
+    "text": "Three finger-widths below the navel, half a thumb-width out from the midline."
+  },
+  "for": [
+    "belly ache",
+    "constipation",
+    "irregular periods"
+  ],
+  "press": {
+    "text": "Lying down, a light fingertip touch, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki14",
+  "lastReviewed": "2026-08-24"
+}

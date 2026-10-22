@@ -1,0 +1,32 @@
+{
+  "id": "GV21",
+  "name": {
+    "en": "Qianding",
+    "gloss": "Front Crown",
+    "zh-Hant": "前頂",
+    "zh-Hans": "前顶"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 21,
+    "of": 28
+  },
+  "location": {
+    "text": "On the midline of the head, two finger-widths in front of Baihui at the crown."
+  },
+  "for": [
+    "headache",
+    "dizziness",
+    "blocked sinuses"
+  ],
+  "press": {
+    "text": "Gentle, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Never press here on a baby: the soft spot can reach this far back."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv21",
+  "lastReviewed": "2026-08-24"
+}

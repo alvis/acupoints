@@ -1,0 +1,30 @@
+{
+  "id": "GV25",
+  "name": {
+    "en": "Suliao",
+    "gloss": "Plain Hollow",
+    "zh-Hant": "素髎",
+    "zh-Hans": "素髎"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 25,
+    "of": 28
+  },
+  "location": {
+    "text": "At the very tip of the nose."
+  },
+  "for": [
+    "A blocked nose",
+    "sinus trouble",
+    "a reddened nose"
+  ],
+  "press": {
+    "text": "Light touch with a fingertip, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv25",
+  "lastReviewed": "2026-08-24"
+}

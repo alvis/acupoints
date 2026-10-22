@@ -1,0 +1,33 @@
+{
+  "id": "BL60",
+  "name": {
+    "en": "Kunlun",
+    "gloss": "The Kunlun Mountains",
+    "zh-Hant": "崑崙",
+    "zh-Hans": "昆仑"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 60,
+    "of": 67
+  },
+  "location": {
+    "text": "外踝尖與跟腱之間的凹陷中。"
+  },
+  "for": [
+    "後頭痛",
+    "頸僵",
+    "腳踝痛"
+  ],
+  "press": {
+    "text": "以拇指按入凹陷，每腳約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期或可能懷孕時不按。"
+  ],
+  "source": "《靈樞·本輸》",
+  "url": "https://acupoints.com/zh-hant/points/bl60",
+  "lastReviewed": "2026-08-24"
+}

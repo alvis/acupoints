@@ -1,0 +1,30 @@
+{
+  "id": "LI16",
+  "name": {
+    "en": "Jugu",
+    "gloss": "Great Bone",
+    "zh-Hant": "巨骨",
+    "zh-Hans": "巨骨"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 16,
+    "of": 20
+  },
+  "location": {
+    "text": "On top of the shoulder, in the hollow where the collarbone meets the ridge of the shoulder blade."
+  },
+  "for": [
+    "shoulder pain",
+    "an arm that will not lift"
+  ],
+  "press": {
+    "text": "Moderate fingertip pressure into the hollow, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/li16",
+  "lastReviewed": "2026-08-24"
+}

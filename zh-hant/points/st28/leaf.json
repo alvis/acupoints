@@ -1,0 +1,33 @@
+{
+  "id": "ST28",
+  "name": {
+    "en": "Shuidao",
+    "gloss": "Waterway",
+    "zh-Hant": "水道",
+    "zh-Hans": "水道"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 28,
+    "of": 45
+  },
+  "location": {
+    "text": "下腹部，臍下四橫指，前正中線旁開三橫指。"
+  },
+  "for": [
+    "小腹脹痛",
+    "小便不利",
+    "經痛"
+  ],
+  "press": {
+    "text": "排尿後輕按，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按腹部。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/st28",
+  "lastReviewed": "2026-08-24"
+}

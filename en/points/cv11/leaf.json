@@ -1,0 +1,30 @@
+{
+  "id": "CV11",
+  "name": {
+    "en": "Jianli",
+    "gloss": "Building the Interior",
+    "zh-Hant": "建里",
+    "zh-Hans": "建里"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 11,
+    "of": 24
+  },
+  "location": {
+    "text": "On the midline of the belly, four finger-widths above the navel."
+  },
+  "for": [
+    "stomach ache",
+    "bloating",
+    "poor appetite"
+  ],
+  "press": {
+    "text": "Gentle with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv11",
+  "lastReviewed": "2026-08-24"
+}

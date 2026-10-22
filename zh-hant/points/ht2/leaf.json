@@ -1,0 +1,32 @@
+{
+  "id": "HT2",
+  "name": {
+    "en": "Qingling",
+    "gloss": "Azure Spirit",
+    "zh-Hant": "青靈",
+    "zh-Hans": "青灵"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 2,
+    "of": 9
+  },
+  "location": {
+    "text": "上臂內側，肘橫紋上四橫指，二頭肌內側的凹溝中。"
+  },
+  "for": [
+    "肩臂痛",
+    "頭痛"
+  ],
+  "press": {
+    "text": "兩指指腹慢慢打圈，每臂一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "此溝內有肱動脈，宜輕按，勿壓在脈動上。"
+  ],
+  "source": "《銅人腧穴針灸圖經·卷五》",
+  "url": "https://acupoints.com/zh-hant/points/ht2",
+  "lastReviewed": "2026-08-24"
+}

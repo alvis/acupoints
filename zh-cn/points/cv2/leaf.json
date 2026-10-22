@@ -1,0 +1,32 @@
+{
+  "id": "CV2",
+  "name": {
+    "en": "Qugu",
+    "gloss": "Curved Bone",
+    "zh-Hant": "曲骨",
+    "zh-Hans": "曲骨"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 2,
+    "of": 24
+  },
+  "location": {
+    "text": "下腹正中线，耻骨联合上缘中点。"
+  },
+  "for": [
+    "小便不利",
+    "经痛",
+    "月经不调"
+  ],
+  "press": {
+    "text": "以指腹轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/cv2",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "KI13",
+  "name": {
+    "en": "Qixue",
+    "gloss": "A Cave for Qi",
+    "zh-Hant": "氣穴",
+    "zh-Hans": "气穴"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 13,
+    "of": 27
+  },
+  "location": {
+    "text": "Four finger-widths below the navel, half a thumb-width out from the midline."
+  },
+  "for": [
+    "irregular periods",
+    "difficult urination",
+    "diarrhea"
+  ],
+  "press": {
+    "text": "Lying down, a light fingertip touch, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki13",
+  "lastReviewed": "2026-08-24"
+}

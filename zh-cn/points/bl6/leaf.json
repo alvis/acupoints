@@ -1,0 +1,31 @@
+{
+  "id": "BL6",
+  "name": {
+    "en": "Chengguang",
+    "gloss": "Receiving Light",
+    "zh-Hant": "承光",
+    "zh-Hans": "承光"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 6,
+    "of": 67
+  },
+  "location": {
+    "text": "头顶前部，五处穴后两横指，正中线旁开两横指。"
+  },
+  "for": [
+    "头痛",
+    "头晕",
+    "视物模糊"
+  ],
+  "press": {
+    "text": "两指指腹打小圈，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl6",
+  "lastReviewed": "2026-08-25"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "BL14",
+  "name": {
+    "en": "Jueyinshu",
+    "gloss": "Transport of Terminal Yin",
+    "zh-Hant": "厥陰俞",
+    "zh-Hans": "厥阴俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 14,
+    "of": 67
+  },
+  "location": {
+    "text": "第七颈椎往下第四个骨突下方，脊柱旁开两横指。"
+  },
+  "for": [
+    "心悸",
+    "胸闷",
+    "咳嗽"
+  ],
+  "press": {
+    "text": "请家人用拇指轻按，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "下方是肺，只宜轻按，切勿用力。"
+  ],
+  "source": "《铜人腧穴针灸图经·卷四》",
+  "url": "https://acupoints.com/zh-cn/points/bl14",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "TH16",
+  "name": {
+    "en": "Tianyou",
+    "gloss": "Heavenly Window",
+    "zh-Hant": "天牖",
+    "zh-Hans": "天牖"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 16,
+    "of": 23
+  },
+  "location": {
+    "text": "On the side of the neck, behind and below the bone behind the ear, level with the jaw angle, at the back of the long neck muscle."
+  },
+  "for": [
+    "stiff neck",
+    "blocked nose",
+    "sore throat"
+  ],
+  "press": {
+    "text": "Feather-light fingertip touch, one side at a time, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Never press on a pulse or both sides at once; in pregnancy, ask first."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/th16",
+  "lastReviewed": "2026-08-25"
+}

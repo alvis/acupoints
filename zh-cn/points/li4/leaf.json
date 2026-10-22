@@ -1,0 +1,33 @@
+{
+  "id": "LI4",
+  "name": {
+    "en": "Hegu",
+    "gloss": "Joining Valley",
+    "zh-Hant": "合谷",
+    "zh-Hans": "合谷"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 4,
+    "of": 20
+  },
+  "location": {
+    "text": "手背，拇指与食指之间，两指并拢时隆起的肌肉高处。"
+  },
+  "for": [
+    "头痛",
+    "面痛",
+    "牙痛"
+  ],
+  "press": {
+    "text": "朝食指骨方向按一分钟，再换另一手。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按。"
+  ],
+  "source": "《灵枢·本输》",
+  "url": "https://acupoints.com/zh-cn/points/li4",
+  "lastReviewed": "2026-08-24"
+}

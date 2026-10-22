@@ -1,0 +1,31 @@
+{
+  "id": "LU6",
+  "name": {
+    "en": "Kongzui",
+    "gloss": "Utmost Opening",
+    "zh-Hant": "孔最",
+    "zh-Hans": "孔最"
+  },
+  "channel": {
+    "id": "LU",
+    "order": 6,
+    "of": 11
+  },
+  "location": {
+    "text": "On the inner forearm, thumb side, one thumb-width above the midpoint between the wrist and elbow creases."
+  },
+  "for": [
+    "cough",
+    "sore throat",
+    "an aching elbow and arm"
+  ],
+  "press": {
+    "text": "Firm thumb pressure, about a minute, then the other arm.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 5",
+  "url": "https://acupoints.com/en/points/lu6",
+  "lastReviewed": "2026-08-24"
+}

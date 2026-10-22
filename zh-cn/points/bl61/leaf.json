@@ -1,0 +1,30 @@
+{
+  "id": "BL61",
+  "name": {
+    "en": "Pucan",
+    "gloss": "The Servant’s Respect",
+    "zh-Hant": "僕參",
+    "zh-Hans": "仆参"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 61,
+    "of": 67
+  },
+  "location": {
+    "text": "昆仑穴直下，跟骨外侧，脚背与脚底皮肤交界处。"
+  },
+  "for": [
+    "足跟痛",
+    "脚踝肿痛",
+    "下肢无力"
+  ],
+  "press": {
+    "text": "以拇指按压，每脚约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/zh-cn/points/bl61",
+  "lastReviewed": "2026-08-24"
+}

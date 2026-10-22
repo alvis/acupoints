@@ -1,0 +1,31 @@
+{
+  "id": "TH9",
+  "name": {
+    "en": "Sidu",
+    "gloss": "Four Rivers",
+    "zh-Hant": "四瀆",
+    "zh-Hans": "四渎"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 9,
+    "of": 23
+  },
+  "location": {
+    "text": "前臂背側，肘尖下約七橫指，兩骨之間。"
+  },
+  "for": [
+    "牙痛",
+    "偏頭痛",
+    "手臂痠麻"
+  ],
+  "press": {
+    "text": "以指尖輕柔按壓，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/th9",
+  "lastReviewed": "2026-08-24"
+}

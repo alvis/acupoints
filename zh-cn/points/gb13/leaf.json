@@ -1,0 +1,32 @@
+{
+  "id": "GB13",
+  "name": {
+    "en": "Benshen",
+    "gloss": "Root of the Spirit",
+    "zh-Hant": "本神",
+    "zh-Hans": "本神"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 13,
+    "of": 44
+  },
+  "location": {
+    "text": "外眼角直上，前发际内半拇指宽处。"
+  },
+  "for": [
+    "头痛",
+    "头晕",
+    "失眠"
+  ],
+  "press": {
+    "text": "指腹轻按约一分钟，手指远离眼睛。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期请先征询医师意见。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gb13",
+  "lastReviewed": "2026-08-24"
+}

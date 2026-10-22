@@ -1,0 +1,30 @@
+{
+  "id": "TH4",
+  "name": {
+    "en": "Yangchi",
+    "gloss": "Yang Pool",
+    "zh-Hant": "陽池",
+    "zh-Hans": "阳池"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 4,
+    "of": 23
+  },
+  "location": {
+    "text": "腕背橫紋上，手指伸肌腱靠小指一側的凹陷。"
+  },
+  "for": [
+    "手腕痛",
+    "肩臂痛",
+    "耳鳴"
+  ],
+  "press": {
+    "text": "以指尖輕按，勿壓向關節，每側手腕約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/th4",
+  "lastReviewed": "2026-08-24"
+}

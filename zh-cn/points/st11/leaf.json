@@ -1,0 +1,32 @@
+{
+  "id": "ST11",
+  "name": {
+    "en": "Qishe",
+    "gloss": "Abode of Qi",
+    "zh-Hant": "氣舍",
+    "zh-Hans": "气舍"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 11,
+    "of": 45
+  },
+  "location": {
+    "text": "锁骨内端上缘，胸锁乳突肌两头之间的小凹陷。"
+  },
+  "for": [
+    "喉咙痛",
+    "打嗝",
+    "颈项僵痛"
+  ],
+  "press": {
+    "text": "轻触，一次一侧，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "避开脉搏，不可两侧同按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/st11",
+  "lastReviewed": "2026-08-24"
+}

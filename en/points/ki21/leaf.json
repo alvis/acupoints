@@ -1,0 +1,32 @@
+{
+  "id": "KI21",
+  "name": {
+    "en": "Youmen",
+    "gloss": "Gate of Seclusion",
+    "zh-Hant": "幽門",
+    "zh-Hans": "幽门"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 21,
+    "of": 27
+  },
+  "location": {
+    "text": "Three finger-widths below the base of the breastbone, half a thumb-width out from the midline."
+  },
+  "for": [
+    "belly ache",
+    "bloating",
+    "vomiting"
+  ],
+  "press": {
+    "text": "Lying down, a light fingertip touch, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not during fever or vomiting."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki21",
+  "lastReviewed": "2026-08-24"
+}

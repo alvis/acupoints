@@ -1,0 +1,32 @@
+{
+  "id": "KI16",
+  "name": {
+    "en": "Huangshu",
+    "gloss": "A Ferry from the Deep Interior",
+    "zh-Hant": "肓俞",
+    "zh-Hans": "肓俞"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 16,
+    "of": 27
+  },
+  "location": {
+    "text": "Level with the navel, half a thumb-width to either side of it."
+  },
+  "for": [
+    "belly ache",
+    "diarrhea",
+    "constipation"
+  ],
+  "press": {
+    "text": "Lying down, a light fingertip touch, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "In pregnancy, ask a practitioner first."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki16",
+  "lastReviewed": "2026-08-24"
+}

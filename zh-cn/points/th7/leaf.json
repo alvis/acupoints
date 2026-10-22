@@ -1,0 +1,33 @@
+{
+  "id": "TH7",
+  "name": {
+    "en": "Huizong",
+    "gloss": "Gathering of the Lineage",
+    "zh-Hant": "會宗",
+    "zh-Hans": "会宗"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 7,
+    "of": 23
+  },
+  "location": {
+    "text": "腕背横纹上四横指，再往小指侧一横指，紧贴尺骨边缘。"
+  },
+  "for": [
+    "耳鸣",
+    "耳聋",
+    "上肢疼痛"
+  ],
+  "press": {
+    "text": "以指尖轻按，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期请先咨询医师。"
+  ],
+  "source": "《铜人腧穴针灸图经·卷五》",
+  "url": "https://acupoints.com/zh-cn/points/th7",
+  "lastReviewed": "2026-08-25"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "LI7",
+  "name": {
+    "en": "Wenliu",
+    "gloss": "Warm Flow",
+    "zh-Hant": "溫溜",
+    "zh-Hans": "温溜"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 7,
+    "of": 20
+  },
+  "location": {
+    "text": "On the back of the forearm, thumb side, one thumb-width toward the wrist from the midpoint of wrist and elbow."
+  },
+  "for": [
+    "A rumbling",
+    "aching belly",
+    "headache",
+    "sore throat"
+  ],
+  "press": {
+    "text": "Firm thumb pressure, about a minute each arm.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/li7",
+  "lastReviewed": "2026-08-24"
+}

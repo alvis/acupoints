@@ -1,0 +1,31 @@
+{
+  "id": "ST6",
+  "name": {
+    "en": "Jiache",
+    "gloss": "Cheek Wheel",
+    "zh-Hant": "頰車",
+    "zh-Hans": "颊车"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 6,
+    "of": 45
+  },
+  "location": {
+    "text": "Clench the teeth: on the muscle that bulges one finger-width above and in front of the jaw angle."
+  },
+  "for": [
+    "toothache",
+    "a stiff jaw",
+    "a puffy cheek"
+  ],
+  "press": {
+    "text": "Gentle circles on the muscle, jaw relaxed, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st6",
+  "lastReviewed": "2026-08-24"
+}

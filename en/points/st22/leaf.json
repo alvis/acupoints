@@ -1,0 +1,33 @@
+{
+  "id": "ST22",
+  "name": {
+    "en": "Guanmen",
+    "gloss": "Pass Gate",
+    "zh-Hant": "關門",
+    "zh-Hans": "关门"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 22,
+    "of": 45
+  },
+  "location": {
+    "text": "On the belly, four finger-widths above the navel and three finger-widths out from the midline."
+  },
+  "for": [
+    "bloating",
+    "belly ache",
+    "loose stools"
+  ],
+  "press": {
+    "text": "Gentle flat-finger pressure, about a minute each side, not after a big meal.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Not on the belly in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st22",
+  "lastReviewed": "2026-08-24"
+}

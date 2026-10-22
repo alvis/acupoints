@@ -1,0 +1,33 @@
+{
+  "id": "KI1",
+  "name": {
+    "en": "Yongquan",
+    "gloss": "Gushing Spring",
+    "zh-Hant": "湧泉",
+    "zh-Hans": "涌泉"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 1,
+    "of": 27
+  },
+  "location": {
+    "text": "足底，脚趾蜷曲时出现的凹陷，约在趾根至脚跟连线的前三分之一处。"
+  },
+  "for": [
+    "头痛",
+    "头晕",
+    "足心发热"
+  ],
+  "press": {
+    "text": "以拇指指腹轻柔按压约一分钟，再换另一只脚。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "糖尿病、足部麻木或怀孕者，请先咨询医师。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/ki1",
+  "lastReviewed": "2026-08-24"
+}

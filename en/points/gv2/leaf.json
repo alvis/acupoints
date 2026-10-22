@@ -1,0 +1,30 @@
+{
+  "id": "GV2",
+  "name": {
+    "en": "Yaoshu",
+    "gloss": "Waist Way-Station",
+    "zh-Hant": "腰俞",
+    "zh-Hans": "腰俞"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 2,
+    "of": 28
+  },
+  "location": {
+    "text": "On the midline at the base of the back, in the hollow just above the tailbone, between two small bony knobs."
+  },
+  "for": [
+    "low-back and sacral ache",
+    "haemorrhoids",
+    "irregular periods"
+  ],
+  "press": {
+    "text": "Firm with a fingertip, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv2",
+  "lastReviewed": "2026-08-24"
+}

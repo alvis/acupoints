@@ -1,0 +1,29 @@
+{
+  "id": "LI15",
+  "name": {
+    "en": "Jianyu",
+    "gloss": "Shoulder Corner",
+    "zh-Hant": "肩髃",
+    "zh-Hans": "肩髃"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 15,
+    "of": 20
+  },
+  "location": {
+    "text": "Raise the arm out to the side: in the front hollow that opens below the bony tip of the shoulder."
+  },
+  "for": [
+    "shoulder pain",
+    "a stiff arm that is hard to lift"
+  ],
+  "press": {
+    "text": "Firm pressure into the hollow, about a minute each shoulder.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/li15",
+  "lastReviewed": "2026-08-24"
+}

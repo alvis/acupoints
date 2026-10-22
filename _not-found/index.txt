@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/2yhoklg4p0-mu.js"
+3:"/_next/static/chunks/260r48jv9gsub.js"
+4:"/_next/static/chunks/0dk4y4927mk0n.js"
+5:"/_next/static/chunks/0qr56_vkxph9-.js"
+6:"RouteLocaleChrome"
+7:I[14367,["$2","$3","$4","$5"],"$6"]
+8:I[4615,["$2","$3","$4","$5"],"NotFoundView"]
+a:I[7554,["$2","$3","$4","$5"],"default"]
+b:I[81365,["$2","$3","$4","$5"],"default"]
+e:I[30584,["$2","$3","$4","$5"],"OutletBoundary"]
+f:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[30584,["$2","$3","$4","$5"],"$11"]
+14:"MetadataBoundary"
+15:I[30584,["$2","$3","$4","$5"],"$14"]
+17:I[91742,[],"default",1]
+:HL["/_next/static/chunks/07ijgh--m8qte.css","style"]
+:HL["/_next/static/chunks/3m7x13hy8du19.css","style"]
+:HL["/_next/static/chunks/1cfxg5ohou93x.css","style"]
+c:X
+d:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[null,null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":false,"v":null}}]]
+9:[["children",{"s":"/_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$La",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qd"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/07ijgh--m8qte.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/3m7x13hy8du19.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/_next/static/chunks/1cfxg5ohou93x.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/2yhoklg4p0-mu.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/260r48jv9gsub.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/0dk4y4927mk0n.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/0qr56_vkxph9-.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"paper-grain","id":"top","children":["$","$L7",null,{"children":["$","$L8",null,{"leaves":[{"code":"LI4","hanzi":"合谷","hanziSimplified":"合谷","pinyin":"Hé Gǔ","location":"On the dorsum of the hand, radial to the midpoint of the second metacarpal bone.","pregnancyCaution":true},{"code":"PC6","hanzi":"內關","hanziSimplified":"内关","pinyin":"Nèi Guān","location":"On the palmar side of the forearm, 2 cun proximal to the wrist crease, between the tendons of palmaris longus and flexor carpi radialis.","pregnancyCaution":false},{"code":"ST36","hanzi":"足三里","hanziSimplified":"足三里","pinyin":"Zú Sān Lǐ","location":"On the anterior aspect of the lower leg, 3 cun below ST35, one finger-breadth lateral to the anterior crest of the tibia.","pregnancyCaution":false}]}]}]}]}]]}],"p":false,"v":null},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L12",null,{"children":"$L13"}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":"$L16"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$17",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"tTyGsjgsD6XIhEzaiHry5"}
+c:C
+13:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+18:I[64539,["$2","$3","$4","$5"],"IconMark"]
+10:null
+16:[["$","title","0",{"children":"This leaf is missing · Acupoints"}],["$","meta","1",{"name":"robots","content":"noindex"}],["$","link","2",{"rel":"icon","href":"/icon.svg?icon.259v-oco91-wx.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","3",{}]]

@@ -1,0 +1,33 @@
+{
+  "id": "SP18",
+  "name": {
+    "en": "Tianxi",
+    "gloss": "Heavenly Stream",
+    "zh-Hant": "天溪",
+    "zh-Hans": "天溪"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 18,
+    "of": 21
+  },
+  "location": {
+    "text": "胸側，與乳頭同高的肋間，乳頭外約三橫指。"
+  },
+  "for": [
+    "胸脅痛",
+    "咳嗽",
+    "乳汁不足"
+  ],
+  "press": {
+    "text": "指腹輕按肋間，每側一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "乳房有腫塊或紅熱時不按，請就醫檢查。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/sp18",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GB12",
+  "name": {
+    "en": "Wangu",
+    "gloss": "Completed Bone",
+    "zh-Hant": "完骨",
+    "zh-Hans": "完骨"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 12,
+    "of": 44
+  },
+  "location": {
+    "text": "耳垂后方骨突的后下方软凹中。"
+  },
+  "for": [
+    "头痛",
+    "颈项僵痛",
+    "牙痛"
+  ],
+  "press": {
+    "text": "指腹轻按，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期请先征询医师意见。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gb12",
+  "lastReviewed": "2026-08-24"
+}

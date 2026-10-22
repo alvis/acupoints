@@ -1,0 +1,33 @@
+{
+  "id": "ST12",
+  "name": {
+    "en": "Quepen",
+    "gloss": "Broken Basin",
+    "zh-Hant": "缺盆",
+    "zh-Hans": "缺盆"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 12,
+    "of": 45
+  },
+  "location": {
+    "text": "鎖骨上窩正中，約與乳頭成一直線。"
+  },
+  "for": [
+    "咳嗽",
+    "呼吸短促",
+    "喉嚨痛"
+  ],
+  "press": {
+    "text": "只宜輕觸，每側約一分鐘，不要往下壓。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "下方有肺尖與大血管，務必輕按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/st12",
+  "lastReviewed": "2026-08-24"
+}

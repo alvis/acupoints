@@ -1,0 +1,30 @@
+{
+  "id": "SP2",
+  "name": {
+    "en": "Dadu",
+    "gloss": "Great Capital",
+    "zh-Hant": "大都",
+    "zh-Hans": "大都"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 2,
+    "of": 21
+  },
+  "location": {
+    "text": "On the inner edge of the foot, just in front of the big-toe joint, where the top skin meets the paler sole."
+  },
+  "for": [
+    "bloating",
+    "stomach ache",
+    "cold hands and feet"
+  ],
+  "press": {
+    "text": "Thumb pad, small slow circles, one minute each foot; not hard on the joint.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/en/points/sp2",
+  "lastReviewed": "2026-08-24"
+}

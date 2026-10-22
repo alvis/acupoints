@@ -1,0 +1,31 @@
+{
+  "id": "PC5",
+  "name": {
+    "en": "Jianshi",
+    "gloss": "The Intermediary Envoy",
+    "zh-Hant": "間使",
+    "zh-Hans": "间使"
+  },
+  "channel": {
+    "id": "PC",
+    "order": 5,
+    "of": 9
+  },
+  "location": {
+    "text": "Four finger-widths above the wrist crease on the palm side, between the two tendons."
+  },
+  "for": [
+    "palpitations",
+    "stomach ache",
+    "sore throat"
+  ],
+  "press": {
+    "text": "Light fingertip pressure, about a minute each arm.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/pc5",
+  "lastReviewed": "2026-08-24"
+}

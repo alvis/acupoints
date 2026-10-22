@@ -1,0 +1,30 @@
+{
+  "id": "GV3",
+  "name": {
+    "en": "Yaoyangguan",
+    "gloss": "Yang Gate of the Waist",
+    "zh-Hant": "腰陽關",
+    "zh-Hans": "腰阳关"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 3,
+    "of": 28
+  },
+  "location": {
+    "text": "On the spine, below the fourth lumbar bump, level with the tops of the hip bones."
+  },
+  "for": [
+    "low-back ache",
+    "weak legs",
+    "irregular periods"
+  ],
+  "press": {
+    "text": "Firm with both thumbs or the knuckles, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, middle book",
+  "url": "https://acupoints.com/en/points/gv3",
+  "lastReviewed": "2026-08-24"
+}

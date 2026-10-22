@@ -1,0 +1,32 @@
+{
+  "id": "GB42",
+  "name": {
+    "en": "Diwuhui",
+    "gloss": "Earth Five Meeting",
+    "zh-Hant": "地五會",
+    "zh-Hans": "地五会"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 42,
+    "of": 44
+  },
+  "location": {
+    "text": "足背，第四趾根關節後方，第四、五蹠骨之間的溝中。"
+  },
+  "for": [
+    "頭痛",
+    "耳鳴",
+    "足背腫痛"
+  ],
+  "press": {
+    "text": "指腹輕按，勿深壓骨縫，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "足部麻木或血液循環不佳者，請先徵詢醫師意見。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gb42",
+  "lastReviewed": "2026-08-25"
+}

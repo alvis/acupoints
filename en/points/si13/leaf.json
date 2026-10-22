@@ -1,0 +1,29 @@
+{
+  "id": "SI13",
+  "name": {
+    "en": "Quyuan",
+    "gloss": "Curved Wall",
+    "zh-Hant": "曲垣",
+    "zh-Hans": "曲垣"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 13,
+    "of": 19
+  },
+  "location": {
+    "text": "At the inner end of the hollow above the shoulder-blade ridge, toward the spine."
+  },
+  "for": [
+    "aching shoulder blade and upper back"
+  ],
+  "press": {
+    "text": "Two finger pads, slow circles, one minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/si13",
+  "lastReviewed": "2026-08-24"
+}

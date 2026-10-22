@@ -1,0 +1,32 @@
+{
+  "id": "ST32",
+  "name": {
+    "en": "Futu",
+    "gloss": "Crouching Rabbit",
+    "zh-Hant": "伏兔",
+    "zh-Hans": "伏兔"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 32,
+    "of": 45
+  },
+  "location": {
+    "text": "On the bulge of the front thigh muscle, eight finger-widths above the outer top corner of the kneecap."
+  },
+  "for": [
+    "weak legs",
+    "low-back ache",
+    "cold",
+    "numb knees"
+  ],
+  "press": {
+    "text": "Firm thumb pressure, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st32",
+  "lastReviewed": "2026-08-24"
+}

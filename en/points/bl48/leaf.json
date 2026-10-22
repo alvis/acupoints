@@ -1,0 +1,30 @@
+{
+  "id": "BL48",
+  "name": {
+    "en": "Yanggang",
+    "gloss": "Yang’s Guiding Cord",
+    "zh-Hant": "陽綱",
+    "zh-Hans": "阳纲"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 48,
+    "of": 67
+  },
+  "location": {
+    "text": "Three bumps below the shoulder-blade tips (below the tenth bump from C7), four finger-widths from the spine."
+  },
+  "for": [
+    "A rumbling",
+    "aching belly",
+    "loose stools"
+  ],
+  "press": {
+    "text": "Ask a partner to press with a thumb, or lean on a soft ball against a wall, a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl48",
+  "lastReviewed": "2026-08-24"
+}

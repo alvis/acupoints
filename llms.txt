@@ -1,0 +1,464 @@
+# Acupoints
+
+> A free, modern reference for the 361 WHO-standardized acupoints — organized by meridian, body region, and everyday concern.
+
+Acupoints documents all 361 classical acupressure points in plain English: every point page carries the WHO-standard location, dataset-recorded indications and cautions, and sources; editorial pages add how-to-find steps, FAQs, and deeper guidance. The site is educational and is not medical advice.
+
+## Points
+
+- [LI4 Hegu](https://acupoints.com/en/points/li4/): LI4 (Hegu) is a hand acupoint on the Large Intestine meridian, classically used for headache, facial pain, and immune support; it is contraindicated in pregnancy.
+- [PC6 Neiguan](https://acupoints.com/en/points/pc6/): PC6 (Neiguan) is a forearm acupoint on the Pericardium meridian, classically used for nausea, motion sickness, anxiety, and palpitations.
+- [ST36 Zusanli](https://acupoints.com/en/points/st36/): ST36 (Zusanli) is a lower-leg acupoint on the Stomach meridian, classically considered a point of general vitality — used for digestion, fatigue, and immune support.
+- [GB20 Fengchi](https://acupoints.com/en/points/gb20/): GB20 (Fengchi) is a neck acupoint on the Gallbladder meridian, classically used for headache, neck tension, eye strain, and early cold symptoms.
+- [SP6 Sanyinjiao](https://acupoints.com/en/points/sp6/): SP6 (Sanyinjiao) is an inner-leg acupoint where three yin meridians meet, used for menstrual and digestive concerns; it is contraindicated in pregnancy.
+- [LV3 Taichong](https://acupoints.com/en/points/lv3/): LV3 (Taichong) is a foot acupoint on the Liver meridian, classically used for stress, irritability, headache, and menstrual discomfort.
+- [GV20 Baihui](https://acupoints.com/en/points/gv20/): GV20 (Baihui) is a crown-of-the-head acupoint on the Governing Vessel, classically used to lift mood, clear the mind, and anchor scattered attention.
+- [CV17 Danzhong](https://acupoints.com/en/points/cv17/): CV17 (Danzhong) is a chest acupoint on the Conception Vessel, classically used for tightness in the chest, breath, and grief.
+- [HT7 Shenmen](https://acupoints.com/en/points/ht7/): HT7 (Shenmen) is a wrist acupoint on the Heart meridian, classically used for anxiety, insomnia, and a racing mind.
+- [LU7 Lieque](https://acupoints.com/en/points/lu7/): LU7 (Lieque) is a forearm acupoint on the Lung meridian, classically used for head and neck complaints, coughs, and early colds.
+- [KI3 Taixi](https://acupoints.com/en/points/ki3/): KI3 (Taixi) is an inner-ankle acupoint on the Kidney meridian, classically used for fatigue, low back ache, tinnitus, and night sweats.
+- [BL40 Weizhong](https://acupoints.com/en/points/bl40/): BL40 (Weizhong) is a back-of-knee acupoint on the Bladder meridian, classically used for low back pain and stiffness.
+- [BL57 Chengshan](https://acupoints.com/en/points/bl57/): BL57 (Chengshan) is a calf acupoint on the Bladder meridian, classically used for calf cramps, heel pain, and lower back strain.
+- [SI3 Houxi](https://acupoints.com/en/points/si3/): SI3 (Houxi) is a hand acupoint on the Small Intestine meridian, classically used for neck stiffness, upper back tension, and headache.
+- [TH5 Waiguan](https://acupoints.com/en/points/th5/): TH5 (Waiguan) is a forearm acupoint on the San Jiao meridian, classically used for head and side-of-neck complaints, ear issues, and wrist pain.
+- [ST44 Neiting](https://acupoints.com/en/points/st44/): ST44 (Neiting) is a foot acupoint on the Stomach meridian, classically used for toothache, facial pain, and heat in the stomach.
+- [SP9 Yinlingquan](https://acupoints.com/en/points/sp9/): SP9 (Yinlingquan) is an inner-leg acupoint on the Spleen meridian, classically used for digestive heaviness, water retention, and knee discomfort.
+- [LI11 Quchi](https://acupoints.com/en/points/li11/): LI11 (Quchi) is an elbow acupoint on the Large Intestine meridian, classically used for heat, skin complaints, and arm pain.
+- [GV14 Dazhui](https://acupoints.com/en/points/gv14/): GV14 (Dazhui) is an upper-back acupoint on the Governing Vessel, classically used for neck stiffness, early colds, and heat.
+- [EX-HN5 Taiyang](https://acupoints.com/en/points/ex-hn5/): Taiyang (EX-HN5) is a temple acupoint outside the twelve regular meridians, classically used for headache, eye strain, and facial tension.
+- [LU1 Zhongfu](https://acupoints.com/en/points/lu1/): LU1 (Zhongfu) is an acupoint on the Lung meridian, classically used for cough, asthma, and chest fullness and pain.
+- [LU2 Yunmen](https://acupoints.com/en/points/lu2/): LU2 (Yunmen) is an acupoint on the Lung meridian, classically used for cough, asthma, and chest pain.
+- [LU3 Tianfu](https://acupoints.com/en/points/lu3/): LU3 (Tianfu) is an acupoint on the Lung meridian, classically used for cough, asthma, and nosebleed.
+- [LU4 Xiabai](https://acupoints.com/en/points/lu4/): LU4 (Xiabai) is an acupoint on the Lung meridian, classically used for cough, asthma, and dry retching.
+- [LU5 Chize](https://acupoints.com/en/points/lu5/): LU5 (Chize) is an acupoint on the Lung meridian, classically used for cough, asthma, and coughing blood.
+- [LU6 Kongzui](https://acupoints.com/en/points/lu6/): LU6 (Kongzui) is an acupoint on the Lung meridian, classically used for cough, asthma, and coughing blood.
+- [LU8 Jingqu](https://acupoints.com/en/points/lu8/): LU8 (Jingqu) is an acupoint on the Lung meridian, classically used for cough, asthma, and chest pain.
+- [LU9 Taiyuan](https://acupoints.com/en/points/lu9/): LU9 (Taiyuan) is an acupoint on the Lung meridian, classically used for cough, asthma, and absence of pulse.
+- [LU10 Yuji](https://acupoints.com/en/points/lu10/): LU10 (Yuji) is an acupoint on the Lung meridian, classically used for dry and sore throat, loss of voice, and cough.
+- [LU11 Shaoshang](https://acupoints.com/en/points/lu11/): LU11 (Shaoshang) is an acupoint on the Lung meridian, classically used for sore and swollen throat, nosebleed, and high fever.
+- [LI1 Shangyang](https://acupoints.com/en/points/li1/): LI1 (Shangyang) is an acupoint on the Large Intestine meridian, classically used for toothache, sore swollen throat, and febrile disease.
+- [LI2 Erjian](https://acupoints.com/en/points/li2/): LI2 (Erjian) is an acupoint on the Large Intestine meridian, classically used for toothache, nosebleed, and febrile disease.
+- [LI3 Sanjian](https://acupoints.com/en/points/li3/): LI3 (Sanjian) is an acupoint on the Large Intestine meridian, classically used for toothache, sore swollen throat, and abdominal distension.
+- [LI5 Yangxi](https://acupoints.com/en/points/li5/): LI5 (Yangxi) is an acupoint on the Large Intestine meridian, classically used for wrist pain, headache, and red swollen eyes.
+- [LI6 Pianli](https://acupoints.com/en/points/li6/): LI6 (Pianli) is an acupoint on the Large Intestine meridian, classically used for tinnitus, nosebleed, and conjunctivitis.
+- [LI7 Wenliu](https://acupoints.com/en/points/li7/): LI7 (Wenliu) is an acupoint on the Large Intestine meridian, classically used for acute borborygmus and abdominal pain, boils and sores, and headache.
+- [LI8 Xialian](https://acupoints.com/en/points/li8/): LI8 (Xialian) is an acupoint on the Large Intestine meridian, classically used for elbow and arm pain, headache, and dizziness.
+- [LI9 Shanglian](https://acupoints.com/en/points/li9/): LI9 (Shanglian) is an acupoint on the Large Intestine meridian, classically used for elbow and arm pain, hemiplegia, and numbness of the hand and arm.
+- [LI10 Shousanli](https://acupoints.com/en/points/li10/): LI10 (Shousanli) is an acupoint on the Large Intestine meridian, classically used for weakness of the arm, paralysis of the upper limb, and abdominal pain.
+- [LI12 Zhouliao](https://acupoints.com/en/points/li12/): LI12 (Zhouliao) is an acupoint on the Large Intestine meridian, classically used for pain, numbness, and spasm of the elbow and arm.
+- [LI13 Shouwuli](https://acupoints.com/en/points/li13/): LI13 (Shouwuli) is an acupoint on the Large Intestine meridian, classically used for spastic pain of the elbow and arm, and cervical scrofula.
+- [LI14 Binao](https://acupoints.com/en/points/li14/): LI14 (Binao) is an acupoint on the Large Intestine meridian, classically used for shoulder and arm pain with paralysis, spasm of the neck and nape, and cervical scrofula.
+- [LI15 Jianyu](https://acupoints.com/en/points/li15/): LI15 (Jianyu) is an acupoint on the Large Intestine meridian, classically used for contracture and pain of the shoulder and arm, paralysis of the upper limb, and urticaria.
+- [LI16 Jugu](https://acupoints.com/en/points/li16/): LI16 (Jugu) is an acupoint on the Large Intestine meridian, classically used for contracture and pain of the shoulder and arm, inability to raise the shoulder, and cervical scrofula.
+- [LI17 Tianding](https://acupoints.com/en/points/li17/): LI17 (Tianding) is an acupoint on the Large Intestine meridian, classically used for sudden loss of voice with obstructed qi, sore swollen throat, and cervical scrofula.
+- [LI18 Futu](https://acupoints.com/en/points/li18/): LI18 (Futu) is an acupoint on the Large Intestine meridian, classically used for sore swollen throat, sudden loss of voice, and goitre.
+- [LI19 Kouheliao](https://acupoints.com/en/points/li19/): LI19 (Kouheliao) is an acupoint on the Large Intestine meridian, classically used for nasal congestion, nasal discharge and bleeding, and deviation of the mouth.
+- [LI20 Yingxiang](https://acupoints.com/en/points/li20/): LI20 (Yingxiang) is an acupoint on the Large Intestine meridian, classically used for nasal congestion with loss of smell, nasal discharge and bleeding, and deviation of the mouth.
+- [ST1 Chengqi](https://acupoints.com/en/points/st1/): ST1 (Chengqi) is an acupoint on the Stomach meridian, classically used for twitching of the eyelids, tearing in wind, and blurred vision.
+- [ST2 Sibai](https://acupoints.com/en/points/st2/): ST2 (Sibai) is an acupoint on the Stomach meridian, classically used for itching and pain of red eyes, twitching of the eyelids, and eye cloudiness.
+- [ST3 Juliao](https://acupoints.com/en/points/st3/): ST3 (Juliao) is an acupoint on the Stomach meridian, classically used for deviation of the corner of the mouth, nosebleed, and toothache.
+- [ST4 Dicang](https://acupoints.com/en/points/st4/): ST4 (Dicang) is an acupoint on the Stomach meridian, classically used for deviation of the corner of the mouth, drooling, and trigeminal neuralgia.
+- [ST5 Daying](https://acupoints.com/en/points/st5/): ST5 (Daying) is an acupoint on the Stomach meridian, classically used for deviation of the corner of the mouth, swelling of the cheek, and toothache.
+- [ST6 Jiache](https://acupoints.com/en/points/st6/): ST6 (Jiache) is an acupoint on the Stomach meridian, classically used for toothache, restricted jaw movement, and swelling of the cheek.
+- [ST7 Xiaguan](https://acupoints.com/en/points/st7/): ST7 (Xiaguan) is an acupoint on the Stomach meridian, classically used for temporomandibular arthritis, trigeminal neuralgia, and toothache.
+- [ST8 Touwei](https://acupoints.com/en/points/st8/): ST8 (Touwei) is an acupoint on the Stomach meridian, classically used for headache, dizziness, and eye pain.
+- [ST9 Renying](https://acupoints.com/en/points/st9/): ST9 (Renying) is an acupoint on the Stomach meridian, classically used for goitre, sore swollen throat, and cervical scrofula.
+- [ST10 Shuitu](https://acupoints.com/en/points/st10/): ST10 (Shuitu) is an acupoint on the Stomach meridian, classically used for sore swollen throat, goitre, and cough.
+- [ST11 Qishe](https://acupoints.com/en/points/st11/): ST11 (Qishe) is an acupoint on the Stomach meridian, classically used for sore swollen throat, goitre, and cervical scrofula.
+- [ST12 Quepen](https://acupoints.com/en/points/st12/): ST12 (Quepen) is an acupoint on the Stomach meridian, classically used for cough, shortness of breath, and sore swollen throat.
+- [ST13 Qihu](https://acupoints.com/en/points/st13/): ST13 (Qihu) is an acupoint on the Stomach meridian, classically used for cough and asthma, hiccups, and fullness and pain of the chest and hypochondrium.
+- [ST14 Kufang](https://acupoints.com/en/points/st14/): ST14 (Kufang) is an acupoint on the Stomach meridian, classically used for cough and shortness of breath, spitting of pus and blood, and distending pain of the chest and hypochondrium.
+- [ST15 Wuyi](https://acupoints.com/en/points/st15/): ST15 (Wuyi) is an acupoint on the Stomach meridian, classically used for cough and shortness of breath, spitting of blood and pus, and distending pain of the chest and hypochondrium.
+- [ST16 Yingchuang](https://acupoints.com/en/points/st16/): ST16 (Yingchuang) is an acupoint on the Stomach meridian, classically used for cough, shortness of breath, and distending pain of the chest and hypochondrium.
+- [ST17 Ruzhong](https://acupoints.com/en/points/st17/): ST17 (Ruzhong) is an acupoint on the Stomach meridian.
+- [ST18 Rugen](https://acupoints.com/en/points/st18/): ST18 (Rugen) is an acupoint on the Stomach meridian, classically used for breast abscess and breast lumps, insufficient lactation, and cough.
+- [ST19 Burong](https://acupoints.com/en/points/st19/): ST19 (Burong) is an acupoint on the Stomach meridian, classically used for stomachache, vomiting, and poor appetite.
+- [ST20 Chengman](https://acupoints.com/en/points/st20/): ST20 (Chengman) is an acupoint on the Stomach meridian, classically used for stomachache, vomiting of blood, and poor appetite.
+- [ST21 Liangmen](https://acupoints.com/en/points/st21/): ST21 (Liangmen) is an acupoint on the Stomach meridian, classically used for stomachache, vomiting, and poor appetite.
+- [ST22 Guanmen](https://acupoints.com/en/points/st22/): ST22 (Guanmen) is an acupoint on the Stomach meridian, classically used for abdominal distension and pain, borborygmus, and diarrhea.
+- [ST23 Taiyi](https://acupoints.com/en/points/st23/): ST23 (Taiyi) is an acupoint on the Stomach meridian, classically used for gastric disorders, vexation, and mania.
+- [ST24 Huaroumen](https://acupoints.com/en/points/st24/): ST24 (Huaroumen) is an acupoint on the Stomach meridian, classically used for stomachache, vomiting, and mania.
+- [ST25 Tianshu](https://acupoints.com/en/points/st25/): ST25 (Tianshu) is an acupoint on the Stomach meridian, classically used for abdominal pain, abdominal distension, and constipation.
+- [ST26 Wailing](https://acupoints.com/en/points/st26/): ST26 (Wailing) is an acupoint on the Stomach meridian, classically used for abdominal pain, hernia, and dysmenorrhea.
+- [ST27 Daju](https://acupoints.com/en/points/st27/): ST27 (Daju) is an acupoint on the Stomach meridian, classically used for distending pain of the lower abdomen, hernia, and difficult urination.
+- [ST28 Shuidao](https://acupoints.com/en/points/st28/): ST28 (Shuidao) is an acupoint on the Stomach meridian, classically used for distending pain of the lower abdomen, difficult urination, and urinary retention.
+- [ST29 Guilai](https://acupoints.com/en/points/st29/): ST29 (Guilai) is an acupoint on the Stomach meridian, classically used for lower abdominal pain, hernia, and orchitis.
+- [ST30 Qichong](https://acupoints.com/en/points/st30/): ST30 (Qichong) is an acupoint on the Stomach meridian, classically used for borborygmus and abdominal pain, hernia, and irregular menstruation.
+- [ST31 Biguan](https://acupoints.com/en/points/st31/): ST31 (Biguan) is an acupoint on the Stomach meridian, classically used for atrophy and paralysis of the lower limb, lumbar pain, and cold knees.
+- [ST32 Futu](https://acupoints.com/en/points/st32/): ST32 (Futu) is an acupoint on the Stomach meridian, classically used for atrophy and paralysis of the lower limb, lumbar pain, and cold numb knees.
+- [ST33 Yinshi](https://acupoints.com/en/points/st33/): ST33 (Yinshi) is an acupoint on the Stomach meridian, classically used for atrophy and paralysis of the lower limb, restricted flexion and extension of the knee, and weak legs.
+- [ST34 Liangqiu](https://acupoints.com/en/points/st34/): ST34 (Liangqiu) is an acupoint on the Stomach meridian, classically used for acute stomachache, diarrhea, and swollen painful knees.
+- [ST35 Dubi](https://acupoints.com/en/points/st35/): ST35 (Dubi) is an acupoint on the Stomach meridian, classically used for knee pain, restricted flexion and extension, and numbness of the knee.
+- [ST37 Shangjuxu](https://acupoints.com/en/points/st37/): ST37 (Shangjuxu) is an acupoint on the Stomach meridian, classically used for borborygmus, abdominal pain, and diarrhea.
+- [ST38 Tiaokou](https://acupoints.com/en/points/st38/): ST38 (Tiaokou) is an acupoint on the Stomach meridian, classically used for atrophy and paralysis of the lower limb, cramps, and shoulder and arm pain.
+- [ST39 Xiajuxu](https://acupoints.com/en/points/st39/): ST39 (Xiajuxu) is an acupoint on the Stomach meridian, classically used for diarrhea, dysentery, and lower abdominal pain.
+- [ST40 Fenglong](https://acupoints.com/en/points/st40/): ST40 (Fenglong) is an acupoint on the Stomach meridian, classically used for headache, dizziness, and copious phlegm cough.
+- [ST41 Jiexi](https://acupoints.com/en/points/st41/): ST41 (Jiexi) is an acupoint on the Stomach meridian, classically used for atrophy and paralysis of the lower limbs, ankle joint disorders, and foot drop.
+- [ST42 Chongyang](https://acupoints.com/en/points/st42/): ST42 (Chongyang) is an acupoint on the Stomach meridian, classically used for weakness of the foot, sprain of the foot, and rheumatic arthritis.
+- [ST43 Xiangu](https://acupoints.com/en/points/st43/): ST43 (Xiangu) is an acupoint on the Stomach meridian, classically used for facial swelling and edema, red swollen eyes, and swelling and pain of the foot dorsum.
+- [ST45 Lidui](https://acupoints.com/en/points/st45/): ST45 (Lidui) is an acupoint on the Stomach meridian, classically used for nosebleed, toothache, and sore swollen throat.
+- [SP1 Yinbai](https://acupoints.com/en/points/sp1/): SP1 (Yinbai) is an acupoint on the Spleen meridian, classically used for excessive menstrual bleeding, uterine bleeding, and blood in stool or urine.
+- [SP2 Dadu](https://acupoints.com/en/points/sp2/): SP2 (Dadu) is an acupoint on the Spleen meridian, classically used for abdominal distension, stomachache, and vomiting.
+- [SP3 Taibai](https://acupoints.com/en/points/sp3/): SP3 (Taibai) is an acupoint on the Spleen meridian, classically used for borborygmus, abdominal distension, and diarrhea.
+- [SP4 Gongsun](https://acupoints.com/en/points/sp4/): SP4 (Gongsun) is an acupoint on the Spleen meridian, classically used for stomachache, vomiting, and abdominal pain.
+- [SP5 Shangqiu](https://acupoints.com/en/points/sp5/): SP5 (Shangqiu) is an acupoint on the Spleen meridian, classically used for abdominal distension, diarrhea, and constipation.
+- [SP7 Lougu](https://acupoints.com/en/points/sp7/): SP7 (Lougu) is an acupoint on the Spleen meridian, classically used for abdominal distension, borborygmus, and difficult urination.
+- [SP8 Diji](https://acupoints.com/en/points/sp8/): SP8 (Diji) is an acupoint on the Spleen meridian, classically used for dysmenorrhea, uterine bleeding, and irregular menstruation.
+- [SP10 Xuehai](https://acupoints.com/en/points/sp10/): SP10 (Xuehai) is an acupoint on the Spleen meridian, classically used for irregular menstruation, dysmenorrhea, and amenorrhea.
+- [SP11 Jimen](https://acupoints.com/en/points/sp11/): SP11 (Jimen) is an acupoint on the Spleen meridian, classically used for swelling and pain of the groin, difficult urination, and enuresis.
+- [SP12 Chongmen](https://acupoints.com/en/points/sp12/): SP12 (Chongmen) is an acupoint on the Spleen meridian, classically used for abdominal pain, hernia, and uterine bleeding.
+- [SP13 Fushe](https://acupoints.com/en/points/sp13/): SP13 (Fushe) is an acupoint on the Spleen meridian, classically used for hernia, abdominal pain, and abdominal masses.
+- [SP14 Fujie](https://acupoints.com/en/points/sp14/): SP14 (Fujie) is an acupoint on the Spleen meridian, classically used for abdominal pain, diarrhea, and hernia.
+- [SP15 Daheng](https://acupoints.com/en/points/sp15/): SP15 (Daheng) is an acupoint on the Spleen meridian, classically used for abdominal pain, diarrhea, and constipation.
+- [SP16 Fu’ai](https://acupoints.com/en/points/sp16/): SP16 (Fu’ai) is an acupoint on the Spleen meridian, classically used for abdominal pain, constipation, and indigestion.
+- [SP17 Shidou](https://acupoints.com/en/points/sp17/): SP17 (Shidou) is an acupoint on the Spleen meridian, classically used for distending pain of the chest and hypochondrium, belching, and regurgitation.
+- [SP18 Tianxi](https://acupoints.com/en/points/sp18/): SP18 (Tianxi) is an acupoint on the Spleen meridian, classically used for chest and hypochondriac pain, cough, and asthma.
+- [SP19 Xiongxiang](https://acupoints.com/en/points/sp19/): SP19 (Xiongxiang) is an acupoint on the Spleen meridian, classically used for distending pain of the chest and hypochondrium, intercostal neuralgia, and hiccups.
+- [SP20 Zhourong](https://acupoints.com/en/points/sp20/): SP20 (Zhourong) is an acupoint on the Spleen meridian, classically used for cough, rebellious qi, and fullness of the chest and hypochondrium.
+- [SP21 Dabao](https://acupoints.com/en/points/sp21/): SP21 (Dabao) is an acupoint on the Spleen meridian, classically used for asthma, chest and hypochondriac pain, and generalized aching.
+- [HT1 Jiquan](https://acupoints.com/en/points/ht1/): HT1 (Jiquan) is an acupoint on the Heart meridian, classically used for cardiac pain, palpitations, and shoulder and arm pain.
+- [HT2 Qingling](https://acupoints.com/en/points/ht2/): HT2 (Qingling) is an acupoint on the Heart meridian, classically used for headache, chills and shivering, and hypochondriac pain.
+- [HT3 Shaohai](https://acupoints.com/en/points/ht3/): HT3 (Shaohai) is an acupoint on the Heart meridian, classically used for cardiac pain, emotional distress, and spasmodic pain of the elbow and arm.
+- [HT4 Lingdao](https://acupoints.com/en/points/ht4/): HT4 (Lingdao) is an acupoint on the Heart meridian, classically used for cardiac pain, sudden loss of voice, and spasmodic pain of the elbow and arm.
+- [HT5 Tongli](https://acupoints.com/en/points/ht5/): HT5 (Tongli) is an acupoint on the Heart meridian, classically used for palpitations, stiff tongue with inability to speak, and sudden loss of voice.
+- [HT6 Yinxi](https://acupoints.com/en/points/ht6/): HT6 (Yinxi) is an acupoint on the Heart meridian, classically used for cardiac pain, palpitations with fright, and night sweats with tidal fever.
+- [HT8 Shaofu](https://acupoints.com/en/points/ht8/): HT8 (Shaofu) is an acupoint on the Heart meridian, classically used for palpitations, cardiac pain, and itching and pain of the external genitals.
+- [HT9 Shaochong](https://acupoints.com/en/points/ht9/): HT9 (Shaochong) is an acupoint on the Heart meridian, classically used for palpitations, cardiac pain, and mania and loss of consciousness.
+- [SI1 Shaoze](https://acupoints.com/en/points/si1/): SI1 (Shaoze) is an acupoint on the Small Intestine meridian, classically used for breast abscess, insufficient lactation, and loss of consciousness.
+- [SI2 Qiangu](https://acupoints.com/en/points/si2/): SI2 (Qiangu) is an acupoint on the Small Intestine meridian, classically used for febrile disease without sweating, headache, and red eyes.
+- [SI4 Wangu](https://acupoints.com/en/points/si4/): SI4 (Wangu) is an acupoint on the Small Intestine meridian, classically used for spasm of the fingers and wrist pain, stiffness and pain of the head and neck, and eye cloudiness.
+- [SI5 Yanggu](https://acupoints.com/en/points/si5/): SI5 (Yanggu) is an acupoint on the Small Intestine meridian, classically used for swelling of the neck and jaw, pain along the outer arm and wrist, and headache.
+- [SI6 Yanglao](https://acupoints.com/en/points/si6/): SI6 (Yanglao) is an acupoint on the Small Intestine meridian, classically used for blurred vision, aching pain of the shoulder, back, elbow, and arm, and lower back pain.
+- [SI7 Zhizheng](https://acupoints.com/en/points/si7/): SI7 (Zhizheng) is an acupoint on the Small Intestine meridian, classically used for headache, stiff neck, and aching pain of the elbow and arm.
+- [SI8 Xiaohai](https://acupoints.com/en/points/si8/): SI8 (Xiaohai) is an acupoint on the Small Intestine meridian, classically used for pain and numbness of the elbow and arm, epilepsy, and gum inflammation.
+- [SI9 Jianzhen](https://acupoints.com/en/points/si9/): SI9 (Jianzhen) is an acupoint on the Small Intestine meridian, classically used for shoulder and arm pain, paralysis of the upper limb, and cervical scrofula.
+- [SI10 Naoshu](https://acupoints.com/en/points/si10/): SI10 (Naoshu) is an acupoint on the Small Intestine meridian, classically used for shoulder and arm pain, inability to raise the shoulder, and cervical scrofula.
+- [SI11 Tianzong](https://acupoints.com/en/points/si11/): SI11 (Tianzong) is an acupoint on the Small Intestine meridian, classically used for pain of the scapula and shoulder-back region, shortness of breath, and mastitis.
+- [SI12 Bingfeng](https://acupoints.com/en/points/si12/): SI12 (Bingfeng) is an acupoint on the Small Intestine meridian, classically used for scapular pain, numbness and aching of the upper limb, and inability to raise the arm.
+- [SI13 Quyuan](https://acupoints.com/en/points/si13/): SI13 (Quyuan) is an acupoint on the Small Intestine meridian, classically used for pain of the scapula and upper back.
+- [SI14 Jianwaishu](https://acupoints.com/en/points/si14/): SI14 (Jianwaishu) is an acupoint on the Small Intestine meridian, classically used for shoulder and back pain, stiffness of the neck and nape, and weakness of the arm.
+- [SI15 Jianzhongshu](https://acupoints.com/en/points/si15/): SI15 (Jianzhongshu) is an acupoint on the Small Intestine meridian, classically used for cough, shortness of breath, and shoulder and back pain.
+- [SI16 Tianchuang](https://acupoints.com/en/points/si16/): SI16 (Tianchuang) is an acupoint on the Small Intestine meridian, classically used for tinnitus, deafness, and sore and swollen throat.
+- [SI17 Tianrong](https://acupoints.com/en/points/si17/): SI17 (Tianrong) is an acupoint on the Small Intestine meridian, classically used for tinnitus, deafness, and swollen sore throat.
+- [SI18 Quanliao](https://acupoints.com/en/points/si18/): SI18 (Quanliao) is an acupoint on the Small Intestine meridian, classically used for facial paralysis with deviation of the mouth and eye, twitching of the eyelids, and red swollen eyes.
+- [SI19 Tinggong](https://acupoints.com/en/points/si19/): SI19 (Tinggong) is an acupoint on the Small Intestine meridian, classically used for tinnitus, deafness, and discharge of pus from the ear.
+- [BL1 Jingming](https://acupoints.com/en/points/bl1/): BL1 (Jingming) is an acupoint on the Bladder meridian, classically used for red swollen painful eyes, dizziness, and blurred vision.
+- [BL2 Cuanzhu](https://acupoints.com/en/points/bl2/): BL2 (Cuanzhu) is an acupoint on the Bladder meridian, classically used for headache, supraorbital pain, and twitching or drooping of the eyelids.
+- [BL3 Meichong](https://acupoints.com/en/points/bl3/): BL3 (Meichong) is an acupoint on the Bladder meridian, classically used for headache, dizziness, and nasal congestion.
+- [BL4 Qucha](https://acupoints.com/en/points/bl4/): BL4 (Qucha) is an acupoint on the Bladder meridian, classically used for headache, dizziness, and nasal congestion.
+- [BL5 Wuchu](https://acupoints.com/en/points/bl5/): BL5 (Wuchu) is an acupoint on the Bladder meridian, classically used for headache, dizziness, and failing vision.
+- [BL6 Chengguang](https://acupoints.com/en/points/bl6/): BL6 (Chengguang) is an acupoint on the Bladder meridian, classically used for headache, dizziness, and epilepsy.
+- [BL7 Tongtian](https://acupoints.com/en/points/bl7/): BL7 (Tongtian) is an acupoint on the Bladder meridian, classically used for headache, dizziness, and nasal congestion.
+- [BL8 Luoque](https://acupoints.com/en/points/bl8/): BL8 (Luoque) is an acupoint on the Bladder meridian, classically used for dizziness, epilepsy, and mania.
+- [BL9 Yuzhen](https://acupoints.com/en/points/bl9/): BL9 (Yuzhen) is an acupoint on the Bladder meridian, classically used for head and neck pain, eye pain, and blurred vision.
+- [BL10 Tianzhu](https://acupoints.com/en/points/bl10/): BL10 (Tianzhu) is an acupoint on the Bladder meridian, classically used for occipital headache, stiff neck, and shoulder, back, and lower back pain.
+- [BL11 Dazhu](https://acupoints.com/en/points/bl11/): BL11 (Dazhu) is an acupoint on the Bladder meridian, classically used for cough, stiff neck, and shoulder and back pain.
+- [BL12 Fengmen](https://acupoints.com/en/points/bl12/): BL12 (Fengmen) is an acupoint on the Bladder meridian, classically used for common cold, cough, and fever.
+- [BL13 Feishu](https://acupoints.com/en/points/bl13/): BL13 (Feishu) is an acupoint on the Bladder meridian, classically used for cough, shortness of breath, and coughing blood.
+- [BL14 Jueyinshu](https://acupoints.com/en/points/bl14/): BL14 (Jueyinshu) is an acupoint on the Bladder meridian, classically used for cardiac pain, palpitations, and chest oppression.
+- [BL15 Xinshu](https://acupoints.com/en/points/bl15/): BL15 (Xinshu) is an acupoint on the Bladder meridian, classically used for cardiac pain, palpitations, and insomnia.
+- [BL16 Dushu](https://acupoints.com/en/points/bl16/): BL16 (Dushu) is an acupoint on the Bladder meridian, classically used for cardiac pain, chest oppression, and chills and fever.
+- [BL17 Geshu](https://acupoints.com/en/points/bl17/): BL17 (Geshu) is an acupoint on the Bladder meridian, classically used for vomiting, hiccups, and rebellious rising conditions such as belching and bleeding.
+- [BL18 Ganshu](https://acupoints.com/en/points/bl18/): BL18 (Ganshu) is an acupoint on the Bladder meridian, classically used for hypochondriac distending pain, jaundice, and red eyes.
+- [BL19 Danshu](https://acupoints.com/en/points/bl19/): BL19 (Danshu) is an acupoint on the Bladder meridian, classically used for jaundice, bitter taste in the mouth, and hypochondriac pain.
+- [BL20 Pishu](https://acupoints.com/en/points/bl20/): BL20 (Pishu) is an acupoint on the Bladder meridian, classically used for abdominal distension, diarrhea, and vomiting.
+- [BL21 Weishu](https://acupoints.com/en/points/bl21/): BL21 (Weishu) is an acupoint on the Bladder meridian, classically used for epigastric pain, vomiting, and abdominal distension.
+- [BL22 Sanjiaoshu](https://acupoints.com/en/points/bl22/): BL22 (Sanjiaoshu) is an acupoint on the Bladder meridian, classically used for borborygmus, abdominal distension, and diarrhea.
+- [BL23 Shenshu](https://acupoints.com/en/points/bl23/): BL23 (Shenshu) is an acupoint on the Bladder meridian, classically used for lower back pain, enuresis, and nocturnal emission.
+- [BL24 Qihaishu](https://acupoints.com/en/points/bl24/): BL24 (Qihaishu) is an acupoint on the Bladder meridian, classically used for abdominal distension with borborygmus, dysmenorrhea, and lower back pain.
+- [BL25 Dachangshu](https://acupoints.com/en/points/bl25/): BL25 (Dachangshu) is an acupoint on the Bladder meridian, classically used for abdominal distension, diarrhea, and constipation.
+- [BL26 Guanyuanshu](https://acupoints.com/en/points/bl26/): BL26 (Guanyuanshu) is an acupoint on the Bladder meridian, classically used for lumbosacral pain, abdominal distension, and diarrhea.
+- [BL27 Xiaochangshu](https://acupoints.com/en/points/bl27/): BL27 (Xiaochangshu) is an acupoint on the Bladder meridian, classically used for nocturnal emission, enuresis, and blood or pain on urination.
+- [BL28 Pangguangshu](https://acupoints.com/en/points/bl28/): BL28 (Pangguangshu) is an acupoint on the Bladder meridian, classically used for difficult urination, enuresis, and disordered bladder qi transformation.
+- [BL29 Zhonglushu](https://acupoints.com/en/points/bl29/): BL29 (Zhonglushu) is an acupoint on the Bladder meridian, classically used for diarrhea, hernia, and lumbosacral pain.
+- [BL30 Baihuanshu](https://acupoints.com/en/points/bl30/): BL30 (Baihuanshu) is an acupoint on the Bladder meridian, classically used for nocturnal emission, enuresis, and vaginal discharge.
+- [BL31 Shangliao](https://acupoints.com/en/points/bl31/): BL31 (Shangliao) is an acupoint on the Bladder meridian, classically used for irregular menstruation, vaginal discharge, and uterine prolapse.
+- [BL32 Ciliao](https://acupoints.com/en/points/bl32/): BL32 (Ciliao) is an acupoint on the Bladder meridian, classically used for nocturnal emission, orchitis, and irregular menstruation.
+- [BL33 Zhongliao](https://acupoints.com/en/points/bl33/): BL33 (Zhongliao) is an acupoint on the Bladder meridian, classically used for irregular menstruation, vaginal discharge, and difficult urination.
+- [BL34 Xialiao](https://acupoints.com/en/points/bl34/): BL34 (Xialiao) is an acupoint on the Bladder meridian, classically used for abdominal pain, constipation, and difficult urination.
+- [BL35 Huiyang](https://acupoints.com/en/points/bl35/): BL35 (Huiyang) is an acupoint on the Bladder meridian, classically used for haemorrhoids, diarrhea, and blood in stool.
+- [BL36 Chengfu](https://acupoints.com/en/points/bl36/): BL36 (Chengfu) is an acupoint on the Bladder meridian, classically used for pain of the lower back, sacrum, buttock, and thigh, haemorrhoids, and constipation.
+- [BL37 Yinmen](https://acupoints.com/en/points/bl37/): BL37 (Yinmen) is an acupoint on the Bladder meridian, classically used for lower back pain, atrophy and paralysis of the lower limbs, and weak legs.
+- [BL38 Fuxi](https://acupoints.com/en/points/bl38/): BL38 (Fuxi) is an acupoint on the Bladder meridian, classically used for pain and numbness of the thigh and popliteal fossa, constipation, and weak legs and knees.
+- [BL39 Weiyang](https://acupoints.com/en/points/bl39/): BL39 (Weiyang) is an acupoint on the Bladder meridian, classically used for abdominal fullness, difficult urination, and stiff pain of the spine and lower back.
+- [BL41 Fufen](https://acupoints.com/en/points/bl41/): BL41 (Fufen) is an acupoint on the Bladder meridian, classically used for stiff pain of the neck and nape, contracture of the shoulder and back, and numbness of the elbow and arm.
+- [BL42 Pohu](https://acupoints.com/en/points/bl42/): BL42 (Pohu) is an acupoint on the Bladder meridian, classically used for cough, shortness of breath, and consumptive lung disease.
+- [BL43 Gaohuang](https://acupoints.com/en/points/bl43/): BL43 (Gaohuang) is an acupoint on the Bladder meridian, classically used for consumptive lung disease, cough, and shortness of breath.
+- [BL44 Shentang](https://acupoints.com/en/points/bl44/): BL44 (Shentang) is an acupoint on the Bladder meridian, classically used for cardiac pain, chest oppression, and cough.
+- [BL45 Yixi](https://acupoints.com/en/points/bl45/): BL45 (Yixi) is an acupoint on the Bladder meridian, classically used for cough, shortness of breath, and shoulder and back pain.
+- [BL46 Geguan](https://acupoints.com/en/points/bl46/): BL46 (Geguan) is an acupoint on the Bladder meridian, classically used for chest oppression, belching, and vomiting.
+- [BL47 Hunmen](https://acupoints.com/en/points/bl47/): BL47 (Hunmen) is an acupoint on the Bladder meridian, classically used for chest and hypochondriac pain, back pain, and vomiting.
+- [BL48 Yanggang](https://acupoints.com/en/points/bl48/): BL48 (Yanggang) is an acupoint on the Bladder meridian, classically used for borborygmus and abdominal pain, diarrhea, and dysentery.
+- [BL49 Yishe](https://acupoints.com/en/points/bl49/): BL49 (Yishe) is an acupoint on the Bladder meridian, classically used for fullness of the hypochondrium with vomiting, abdominal distension, and borborygmus.
+- [BL50 Weicang](https://acupoints.com/en/points/bl50/): BL50 (Weicang) is an acupoint on the Bladder meridian, classically used for epigastric pain, abdominal distension, and infantile food stagnation.
+- [BL51 Huangmen](https://acupoints.com/en/points/bl51/): BL51 (Huangmen) is an acupoint on the Bladder meridian, classically used for abdominal pain, abdominal masses, and constipation.
+- [BL52 Zhishi](https://acupoints.com/en/points/bl52/): BL52 (Zhishi) is an acupoint on the Bladder meridian, classically used for nocturnal emission, impotence and kidney-deficiency disorders, and difficult urination.
+- [BL53 Baohuang](https://acupoints.com/en/points/bl53/): BL53 (Baohuang) is an acupoint on the Bladder meridian, classically used for retention of urine, stiff pain of the spine and lower back, and borborygmus.
+- [BL54 Zhibian](https://acupoints.com/en/points/bl54/): BL54 (Zhibian) is an acupoint on the Bladder meridian, classically used for lumbosacral pain, sciatica, and hip joint pain.
+- [BL55 Heyang](https://acupoints.com/en/points/bl55/): BL55 (Heyang) is an acupoint on the Bladder meridian, classically used for stiff pain of the spine and lower back, atrophy and paralysis of the lower limbs, and knee pain.
+- [BL56 Chengjin](https://acupoints.com/en/points/bl56/): BL56 (Chengjin) is an acupoint on the Bladder meridian, classically used for haemorrhoids, rectal prolapse, and constipation.
+- [BL58 Feiyang](https://acupoints.com/en/points/bl58/): BL58 (Feiyang) is an acupoint on the Bladder meridian, classically used for headache, dizziness, and pain of the lower back and legs.
+- [BL59 Fuyang](https://acupoints.com/en/points/bl59/): BL59 (Fuyang) is an acupoint on the Bladder meridian, classically used for headache, dizziness, and lumbosacral pain.
+- [BL60 Kunlun](https://acupoints.com/en/points/bl60/): BL60 (Kunlun) is an acupoint on the Bladder meridian, classically used for occipital headache, stiff neck, and lumbosacral pain.
+- [BL61 Pucan](https://acupoints.com/en/points/bl61/): BL61 (Pucan) is an acupoint on the Bladder meridian, classically used for atrophy and paralysis of the lower limbs, heel pain, and swelling and pain of the ankle.
+- [BL62 Shenmai](https://acupoints.com/en/points/bl62/): BL62 (Shenmai) is an acupoint on the Bladder meridian, classically used for headache, dizziness, and manic-depressive and epileptic disorders.
+- [BL63 Jinmen](https://acupoints.com/en/points/bl63/): BL63 (Jinmen) is an acupoint on the Bladder meridian, classically used for epilepsy, mania, and infantile convulsions.
+- [BL64 Jinggu](https://acupoints.com/en/points/bl64/): BL64 (Jinggu) is an acupoint on the Bladder meridian, classically used for headache, stiff neck, and lower back and leg pain.
+- [BL65 Shugu](https://acupoints.com/en/points/bl65/): BL65 (Shugu) is an acupoint on the Bladder meridian, classically used for headache, stiff neck, and dizziness.
+- [BL66 Zutonggu](https://acupoints.com/en/points/bl66/): BL66 (Zutonggu) is an acupoint on the Bladder meridian, classically used for headache, stiff neck, and nosebleed.
+- [BL67 Zhiyin](https://acupoints.com/en/points/bl67/): BL67 (Zhiyin) is an acupoint on the Bladder meridian, classically used for malposition of the fetus, prolonged labour, and headache.
+- [KI1 Yongquan](https://acupoints.com/en/points/ki1/): KI1 (Yongquan) is an acupoint on the Kidney meridian, classically used for loss of consciousness, heatstroke, and epilepsy.
+- [KI2 Rangu](https://acupoints.com/en/points/ki2/): KI2 (Rangu) is an acupoint on the Kidney meridian, classically used for irregular menstruation, vaginal discharge, and prolapse of the uterus.
+- [KI4 Dazhong](https://acupoints.com/en/points/ki4/): KI4 (Dazhong) is an acupoint on the Kidney meridian, classically used for retention of urine, enuresis, and irregular menstruation.
+- [KI5 Shuiquan](https://acupoints.com/en/points/ki5/): KI5 (Shuiquan) is an acupoint on the Kidney meridian, classically used for irregular menstruation, dysmenorrhea, and amenorrhea.
+- [KI6 Zhaohai](https://acupoints.com/en/points/ki6/): KI6 (Zhaohai) is an acupoint on the Kidney meridian, classically used for epilepsy, insomnia, and dry and sore throat.
+- [KI7 Fuliu](https://acupoints.com/en/points/ki7/): KI7 (Fuliu) is an acupoint on the Kidney meridian, classically used for edema, abdominal distension, and night sweats.
+- [KI8 Jiaoxin](https://acupoints.com/en/points/ki8/): KI8 (Jiaoxin) is an acupoint on the Kidney meridian, classically used for irregular menstruation, dysmenorrhea, and uterine bleeding.
+- [KI9 Zhubin](https://acupoints.com/en/points/ki9/): KI9 (Zhubin) is an acupoint on the Kidney meridian, classically used for mania and epilepsy, vomiting, and hernia.
+- [KI10 Yingu](https://acupoints.com/en/points/ki10/): KI10 (Yingu) is an acupoint on the Kidney meridian, classically used for impotence, hernia, and irregular menstruation.
+- [KI11 Henggu](https://acupoints.com/en/points/ki11/): KI11 (Henggu) is an acupoint on the Kidney meridian, classically used for distending pain of the lower abdomen, hernia, and difficult urination.
+- [KI12 Dahe](https://acupoints.com/en/points/ki12/): KI12 (Dahe) is an acupoint on the Kidney meridian, classically used for irregular menstruation, dysmenorrhea, and vaginal discharge.
+- [KI13 Qixue](https://acupoints.com/en/points/ki13/): KI13 (Qixue) is an acupoint on the Kidney meridian, classically used for irregular menstruation, vaginal discharge, and difficult urination.
+- [KI14 Siman](https://acupoints.com/en/points/ki14/): KI14 (Siman) is an acupoint on the Kidney meridian, classically used for abdominal pain, hernia, and constipation.
+- [KI15 Zhongzhu](https://acupoints.com/en/points/ki15/): KI15 (Zhongzhu) is an acupoint on the Kidney meridian, classically used for irregular menstruation, abdominal pain, and constipation.
+- [KI16 Huangshu](https://acupoints.com/en/points/ki16/): KI16 (Huangshu) is an acupoint on the Kidney meridian, classically used for abdominal pain, diarrhea, and constipation.
+- [KI17 Shangqu](https://acupoints.com/en/points/ki17/): KI17 (Shangqu) is an acupoint on the Kidney meridian, classically used for belching, regurgitation, and abdominal distension.
+- [KI18 Shiguan](https://acupoints.com/en/points/ki18/): KI18 (Shiguan) is an acupoint on the Kidney meridian, classically used for vomiting, abdominal pain, and constipation.
+- [KI19 Yindu](https://acupoints.com/en/points/ki19/): KI19 (Yindu) is an acupoint on the Kidney meridian, classically used for abdominal pain, diarrhea, and constipation.
+- [KI20 Futonggu](https://acupoints.com/en/points/ki20/): KI20 (Futonggu) is an acupoint on the Kidney meridian, classically used for abdominal distension, abdominal pain, and vomiting.
+- [KI21 Youmen](https://acupoints.com/en/points/ki21/): KI21 (Youmen) is an acupoint on the Kidney meridian, classically used for abdominal pain, abdominal distension, and vomiting.
+- [KI22 Bulang](https://acupoints.com/en/points/ki22/): KI22 (Bulang) is an acupoint on the Kidney meridian, classically used for chest pain, cough, and asthma.
+- [KI23 Shenfeng](https://acupoints.com/en/points/ki23/): KI23 (Shenfeng) is an acupoint on the Kidney meridian, classically used for cough, asthma, and fullness and pain of the chest and hypochondrium.
+- [KI24 Lingxu](https://acupoints.com/en/points/ki24/): KI24 (Lingxu) is an acupoint on the Kidney meridian, classically used for cough, asthma, and profuse phlegm.
+- [KI25 Shencang](https://acupoints.com/en/points/ki25/): KI25 (Shencang) is an acupoint on the Kidney meridian, classically used for cough, asthma, and chest pain.
+- [KI26 Yuzhong](https://acupoints.com/en/points/ki26/): KI26 (Yuzhong) is an acupoint on the Kidney meridian, classically used for cough, asthma, and fullness of the chest and hypochondrium.
+- [KI27 Shufu](https://acupoints.com/en/points/ki27/): KI27 (Shufu) is an acupoint on the Kidney meridian, classically used for cough, asthma, and chest pain.
+- [PC1 Tianchi](https://acupoints.com/en/points/pc1/): PC1 (Tianchi) is an acupoint on the Pericardium meridian, classically used for breast abscess, insufficient lactation, and cough.
+- [PC2 Tianquan](https://acupoints.com/en/points/pc2/): PC2 (Tianquan) is an acupoint on the Pericardium meridian, classically used for cough, distending pain of the chest and hypochondrium, and pain of the chest, back, and inner arm.
+- [PC3 Quze](https://acupoints.com/en/points/pc3/): PC3 (Quze) is an acupoint on the Pericardium meridian, classically used for cardiac pain, palpitations, and stomachache.
+- [PC4 Ximen](https://acupoints.com/en/points/pc4/): PC4 (Ximen) is an acupoint on the Pericardium meridian, classically used for cardiac pain, palpitations, and chest pain.
+- [PC5 Jianshi](https://acupoints.com/en/points/pc5/): PC5 (Jianshi) is an acupoint on the Pericardium meridian, classically used for cardiac pain, palpitations, and mania and epilepsy.
+- [PC7 Daling](https://acupoints.com/en/points/pc7/): PC7 (Daling) is an acupoint on the Pericardium meridian, classically used for cardiac pain, palpitations, and chest and hypochondriac pain.
+- [PC8 Laogong](https://acupoints.com/en/points/pc8/): PC8 (Laogong) is an acupoint on the Pericardium meridian, classically used for cardiac pain, palpitations, and mania and epilepsy.
+- [PC9 Zhongchong](https://acupoints.com/en/points/pc9/): PC9 (Zhongchong) is an acupoint on the Pericardium meridian, classically used for loss of consciousness, heatstroke, and fainting.
+- [TH1 Guanchong](https://acupoints.com/en/points/th1/): TH1 (Guanchong) is an acupoint on the San Jiao meridian, classically used for febrile disease, fainting, and headache.
+- [TH2 Yemen](https://acupoints.com/en/points/th2/): TH2 (Yemen) is an acupoint on the San Jiao meridian, classically used for headache, red eyes, and tinnitus.
+- [TH3 Zhongzhu](https://acupoints.com/en/points/th3/): TH3 (Zhongzhu) is an acupoint on the San Jiao meridian, classically used for headache, red eyes, and tinnitus.
+- [TH4 Yangchi](https://acupoints.com/en/points/th4/): TH4 (Yangchi) is an acupoint on the San Jiao meridian, classically used for wrist pain, shoulder and arm pain, and red swollen eyes.
+- [TH6 Zhigou](https://acupoints.com/en/points/th6/): TH6 (Zhigou) is an acupoint on the San Jiao meridian, classically used for sudden loss of voice, deafness, and tinnitus.
+- [TH7 Huizong](https://acupoints.com/en/points/th7/): TH7 (Huizong) is an acupoint on the San Jiao meridian, classically used for deafness, tinnitus, and pain of the upper limb skin and flesh.
+- [TH8 Sanyangluo](https://acupoints.com/en/points/th8/): TH8 (Sanyangluo) is an acupoint on the San Jiao meridian, classically used for sudden loss of speech, deafness, and toothache.
+- [TH9 Sidu](https://acupoints.com/en/points/th9/): TH9 (Sidu) is an acupoint on the San Jiao meridian, classically used for pain and numbness of the arm, sudden loss of voice, and deafness.
+- [TH10 Tianjing](https://acupoints.com/en/points/th10/): TH10 (Tianjing) is an acupoint on the San Jiao meridian, classically used for weakness of the arm, paralysis of the upper limb, and one-sided headache.
+- [TH11 Qinglengyuan](https://acupoints.com/en/points/th11/): TH11 (Qinglengyuan) is an acupoint on the San Jiao meridian, classically used for aching pain of the arm, paralysis of the upper limb, and headache.
+- [TH12 Xiaoluo](https://acupoints.com/en/points/th12/): TH12 (Xiaoluo) is an acupoint on the San Jiao meridian, classically used for pain and numbness of the shoulder and arm, headache, and toothache.
+- [TH13 Naohui](https://acupoints.com/en/points/th13/): TH13 (Naohui) is an acupoint on the San Jiao meridian, classically used for pain of the arm and scapula, cervical scrofula, and hernia.
+- [TH14 Jianliao](https://acupoints.com/en/points/th14/): TH14 (Jianliao) is an acupoint on the San Jiao meridian, classically used for arm pain, heavy shoulder with inability to raise the arm, and scapular pain.
+- [TH15 Tianliao](https://acupoints.com/en/points/th15/): TH15 (Tianliao) is an acupoint on the San Jiao meridian, classically used for shoulder and arm pain, stiffness of the neck and nape, and fullness and vexation in the chest.
+- [TH16 Tianyou](https://acupoints.com/en/points/th16/): TH16 (Tianyou) is an acupoint on the San Jiao meridian, classically used for sudden deafness, blurred vision, and head wind.
+- [TH17 Yifeng](https://acupoints.com/en/points/th17/): TH17 (Yifeng) is an acupoint on the San Jiao meridian, classically used for deviation of the mouth and eye, lockjaw, and swelling of the cheek.
+- [TH18 Chimai](https://acupoints.com/en/points/th18/): TH18 (Chimai) is an acupoint on the San Jiao meridian, classically used for headache, deafness, and tinnitus.
+- [TH19 Luxi](https://acupoints.com/en/points/th19/): TH19 (Luxi) is an acupoint on the San Jiao meridian, classically used for headache, deafness, and tinnitus.
+- [TH20 Jiaosun](https://acupoints.com/en/points/th20/): TH20 (Jiaosun) is an acupoint on the San Jiao meridian, classically used for mumps, optic neuritis, and toothache.
+- [TH21 Ermen](https://acupoints.com/en/points/th21/): TH21 (Ermen) is an acupoint on the San Jiao meridian, classically used for deafness, tinnitus, and purulent ear discharge.
+- [TH22 Erheliao](https://acupoints.com/en/points/th22/): TH22 (Erheliao) is an acupoint on the San Jiao meridian, classically used for headache, tinnitus, and lockjaw.
+- [TH23 Sizhukong](https://acupoints.com/en/points/th23/): TH23 (Sizhukong) is an acupoint on the San Jiao meridian, classically used for red swollen eyes, twitching of the eyelids, and headache.
+- [GB1 Tongziliao](https://acupoints.com/en/points/gb1/): GB1 (Tongziliao) is an acupoint on the Gallbladder meridian, classically used for eye pain, red eyes, and eye cloudiness.
+- [GB2 Tinghui](https://acupoints.com/en/points/gb2/): GB2 (Tinghui) is an acupoint on the Gallbladder meridian, classically used for tinnitus, deafness, and discharge of pus from the ear.
+- [GB3 Shangguan](https://acupoints.com/en/points/gb3/): GB3 (Shangguan) is an acupoint on the Gallbladder meridian, classically used for tinnitus, deafness, and discharge from the ear.
+- [GB4 Hanyan](https://acupoints.com/en/points/gb4/): GB4 (Hanyan) is an acupoint on the Gallbladder meridian, classically used for one-sided headache, dizziness, and tinnitus.
+- [GB5 Xuanlu](https://acupoints.com/en/points/gb5/): GB5 (Xuanlu) is an acupoint on the Gallbladder meridian, classically used for migraine, dizziness, and toothache.
+- [GB6 Xuanli](https://acupoints.com/en/points/gb6/): GB6 (Xuanli) is an acupoint on the Gallbladder meridian, classically used for one-sided headache, red swollen eyes, and pain at the outer canthus.
+- [GB7 Qubin](https://acupoints.com/en/points/gb7/): GB7 (Qubin) is an acupoint on the Gallbladder meridian, classically used for one-sided headache, swelling of the jaw and cheek, and red swollen eyes.
+- [GB8 Shuaigu](https://acupoints.com/en/points/gb8/): GB8 (Shuaigu) is an acupoint on the Gallbladder meridian, classically used for one-sided headache, dizziness, and tinnitus.
+- [GB9 Tianchong](https://acupoints.com/en/points/gb9/): GB9 (Tianchong) is an acupoint on the Gallbladder meridian, classically used for headache, epilepsy, and wind convulsions.
+- [GB10 Fubai](https://acupoints.com/en/points/gb10/): GB10 (Fubai) is an acupoint on the Gallbladder meridian, classically used for headache, tinnitus, and deafness.
+- [GB11 Touqiaoyin](https://acupoints.com/en/points/gb11/): GB11 (Touqiaoyin) is an acupoint on the Gallbladder meridian, classically used for headache, dizziness, and eye pain.
+- [GB12 Wangu](https://acupoints.com/en/points/gb12/): GB12 (Wangu) is an acupoint on the Gallbladder meridian, classically used for headache, swelling of the cheek, and sore throat.
+- [GB13 Benshen](https://acupoints.com/en/points/gb13/): GB13 (Benshen) is an acupoint on the Gallbladder meridian, classically used for headache, dizziness, and epilepsy.
+- [GB14 Yangbai](https://acupoints.com/en/points/gb14/): GB14 (Yangbai) is an acupoint on the Gallbladder meridian, classically used for red swollen painful eyes, drooping eyelids, and deviation of the mouth and eye.
+- [GB15 Toulinqi](https://acupoints.com/en/points/gb15/): GB15 (Toulinqi) is an acupoint on the Gallbladder meridian, classically used for headache, eye pain, and eye cloudiness.
+- [GB16 Muchuang](https://acupoints.com/en/points/gb16/): GB16 (Muchuang) is an acupoint on the Gallbladder meridian, classically used for headache, dizziness, and red swollen painful eyes.
+- [GB17 Zhengying](https://acupoints.com/en/points/gb17/): GB17 (Zhengying) is an acupoint on the Gallbladder meridian, classically used for headache, dizziness, and eye pain.
+- [GB18 Chengling](https://acupoints.com/en/points/gb18/): GB18 (Chengling) is an acupoint on the Gallbladder meridian, classically used for head and eye pain, dizziness, and sinusitis.
+- [GB19 Naokong](https://acupoints.com/en/points/gb19/): GB19 (Naokong) is an acupoint on the Gallbladder meridian, classically used for head wind, dizziness, and stiff painful neck.
+- [GB21 Jianjing](https://acupoints.com/en/points/gb21/): GB21 (Jianjing) is an acupoint on the Gallbladder meridian, classically used for painful obstruction of the shoulder and back, paralysis of the upper limb, and stiff painful neck.
+- [GB22 Yuanye](https://acupoints.com/en/points/gb22/): GB22 (Yuanye) is an acupoint on the Gallbladder meridian, classically used for fullness of the chest, hypochondriac pain, and axillary swelling.
+- [GB23 Zhejin](https://acupoints.com/en/points/gb23/): GB23 (Zhejin) is an acupoint on the Gallbladder meridian, classically used for fullness of the chest and hypochondriac pain, panting breath, and vomiting.
+- [GB24 Riyue](https://acupoints.com/en/points/gb24/): GB24 (Riyue) is an acupoint on the Gallbladder meridian, classically used for vomiting, acid regurgitation, and hiccups.
+- [GB25 Jingmen](https://acupoints.com/en/points/gb25/): GB25 (Jingmen) is an acupoint on the Gallbladder meridian, classically used for difficult urination, edema, and lumbar and hypochondriac pain.
+- [GB26 Daimai](https://acupoints.com/en/points/gb26/): GB26 (Daimai) is an acupoint on the Gallbladder meridian, classically used for irregular menstruation, vaginal discharge, and amenorrhea.
+- [GB27 Wushu](https://acupoints.com/en/points/gb27/): GB27 (Wushu) is an acupoint on the Gallbladder meridian, classically used for vaginal discharge, irregular menstruation, and uterine prolapse.
+- [GB28 Weidao](https://acupoints.com/en/points/gb28/): GB28 (Weidao) is an acupoint on the Gallbladder meridian, classically used for irregular menstruation, vaginal discharge, and uterine prolapse.
+- [GB29 Juliao](https://acupoints.com/en/points/gb29/): GB29 (Juliao) is an acupoint on the Gallbladder meridian, classically used for pain of the lower back and hip, atrophy and paralysis of the lower limbs, and hip joint pain.
+- [GB30 Huantiao](https://acupoints.com/en/points/gb30/): GB30 (Huantiao) is an acupoint on the Gallbladder meridian, classically used for pain of the lower back and hip, atrophy, paralysis, and numbness of the lower limbs, and sciatica.
+- [GB31 Fengshi](https://acupoints.com/en/points/gb31/): GB31 (Fengshi) is an acupoint on the Gallbladder meridian, classically used for atrophy, paralysis, and numbness of the lower limbs, generalized itching, and beriberi.
+- [GB32 Zhongdu](https://acupoints.com/en/points/gb32/): GB32 (Zhongdu) is an acupoint on the Gallbladder meridian, classically used for atrophy and paralysis of the lower limbs, sciatica, and knee arthritis.
+- [GB33 Xiyangguan](https://acupoints.com/en/points/gb33/): GB33 (Xiyangguan) is an acupoint on the Gallbladder meridian, classically used for swelling and pain of the knee, spasm of the popliteal tendons, and numbness of the lower leg.
+- [GB34 Yanglingquan](https://acupoints.com/en/points/gb34/): GB34 (Yanglingquan) is an acupoint on the Gallbladder meridian, classically used for jaundice, bitter taste in the mouth, and hiccups.
+- [GB35 Yangjiao](https://acupoints.com/en/points/gb35/): GB35 (Yangjiao) is an acupoint on the Gallbladder meridian, classically used for atrophy and paralysis of the lower limbs, distending chest and hypochondriac pain, and mania.
+- [GB36 Waiqiu](https://acupoints.com/en/points/gb36/): GB36 (Waiqiu) is an acupoint on the Gallbladder meridian, classically used for atrophy and paralysis of the lower limbs, distending chest and hypochondriac pain, and mania.
+- [GB37 Guangming](https://acupoints.com/en/points/gb37/): GB37 (Guangming) is an acupoint on the Gallbladder meridian, classically used for eye pain, night blindness, and blurred vision.
+- [GB38 Yangfu](https://acupoints.com/en/points/gb38/): GB38 (Yangfu) is an acupoint on the Gallbladder meridian, classically used for one-sided headache, pain at the outer canthus, and axillary and chest-hypochondrium pain.
+- [GB39 Xuanzhong](https://acupoints.com/en/points/gb39/): GB39 (Xuanzhong) is an acupoint on the Gallbladder meridian, classically used for hemiplegia, stiff painful neck, and hypochondriac pain.
+- [GB40 Qiuxu](https://acupoints.com/en/points/gb40/): GB40 (Qiuxu) is an acupoint on the Gallbladder meridian, classically used for distending chest and hypochondriac pain, paralysis of the lower limbs, and beriberi.
+- [GB41 Zulinqi](https://acupoints.com/en/points/gb41/): GB41 (Zulinqi) is an acupoint on the Gallbladder meridian, classically used for one-sided headache, dizziness, and eye pain.
+- [GB42 Diwuhui](https://acupoints.com/en/points/gb42/): GB42 (Diwuhui) is an acupoint on the Gallbladder meridian, classically used for headache, red swollen eyes, and tinnitus.
+- [GB43 Xiaxi](https://acupoints.com/en/points/gb43/): GB43 (Xiaxi) is an acupoint on the Gallbladder meridian, classically used for headache, eye pain, and tinnitus.
+- [GB44 Zuqiaoyin](https://acupoints.com/en/points/gb44/): GB44 (Zuqiaoyin) is an acupoint on the Gallbladder meridian, classically used for headache, red swollen eyes, and tinnitus.
+- [LV1 Dadun](https://acupoints.com/en/points/lv1/): LV1 (Dadun) is an acupoint on the Liver meridian, classically used for hernia, uterine bleeding, and prolapse of the uterus.
+- [LV2 Xingjian](https://acupoints.com/en/points/lv2/): LV2 (Xingjian) is an acupoint on the Liver meridian, classically used for headache, dizziness, and red and painful eyes.
+- [LV4 Zhongfeng](https://acupoints.com/en/points/lv4/): LV4 (Zhongfeng) is an acupoint on the Liver meridian, classically used for hernia, abdominal pain, and nocturnal emission.
+- [LV5 Ligou](https://acupoints.com/en/points/lv5/): LV5 (Ligou) is an acupoint on the Liver meridian, classically used for irregular menstruation, vaginal discharge, and prolapse of the uterus.
+- [LV6 Zhongdu](https://acupoints.com/en/points/lv6/): LV6 (Zhongdu) is an acupoint on the Liver meridian, classically used for hernia, lower abdominal pain, and uterine bleeding.
+- [LV7 Xiguan](https://acupoints.com/en/points/lv7/): LV7 (Xiguan) is an acupoint on the Liver meridian, classically used for swelling and pain of the knee, weakness of the lower limb, and sore throat.
+- [LV8 Ququan](https://acupoints.com/en/points/lv8/): LV8 (Ququan) is an acupoint on the Liver meridian, classically used for difficult urination, stranguria, and impotence.
+- [LV9 Yinbao](https://acupoints.com/en/points/lv9/): LV9 (Yinbao) is an acupoint on the Liver meridian, classically used for pain of the lower abdomen radiating to the lumbosacral region, difficult urination, and enuresis.
+- [LV10 Zuwuli](https://acupoints.com/en/points/lv10/): LV10 (Zuwuli) is an acupoint on the Liver meridian, classically used for distending pain of the lower abdomen, difficult urination, and swelling and pain of the testes.
+- [LV11 Yinlian](https://acupoints.com/en/points/lv11/): LV11 (Yinlian) is an acupoint on the Liver meridian, classically used for irregular menstruation, vaginal discharge, and lower abdominal pain.
+- [LV12 Jimai](https://acupoints.com/en/points/lv12/): LV12 (Jimai) is an acupoint on the Liver meridian, classically used for hernia, lower abdominal pain, and penile pain.
+- [LV13 Zhangmen](https://acupoints.com/en/points/lv13/): LV13 (Zhangmen) is an acupoint on the Liver meridian, classically used for hypochondriac pain, jaundice, and abdominal distension.
+- [LV14 Qimen](https://acupoints.com/en/points/lv14/): LV14 (Qimen) is an acupoint on the Liver meridian, classically used for breast abscess, distending pain of the chest and hypochondrium, and abdominal distension.
+- [GV1 Changqiang](https://acupoints.com/en/points/gv1/): GV1 (Changqiang) is an acupoint on the Du meridian, classically used for haemorrhoids, rectal prolapse, and constipation.
+- [GV2 Yaoshu](https://acupoints.com/en/points/gv2/): GV2 (Yaoshu) is an acupoint on the Du meridian, classically used for pain of the lower back and sacrum, atrophy and paralysis of the lower limbs, and rectal prolapse.
+- [GV3 Yaoyangguan](https://acupoints.com/en/points/gv3/): GV3 (Yaoyangguan) is an acupoint on the Du meridian, classically used for lumbosacral pain, atrophy and paralysis of the lower limbs, and irregular menstruation.
+- [GV4 Mingmen](https://acupoints.com/en/points/gv4/): GV4 (Mingmen) is an acupoint on the Du meridian, classically used for nocturnal emission, impotence, and premature ejaculation.
+- [GV5 Xuanshu](https://acupoints.com/en/points/gv5/): GV5 (Xuanshu) is an acupoint on the Du meridian, classically used for stiffness and pain of the lower back, diarrhea, and abdominal pain.
+- [GV6 Jizhong](https://acupoints.com/en/points/gv6/): GV6 (Jizhong) is an acupoint on the Du meridian, classically used for abdominal fullness, jaundice, and rectal prolapse.
+- [GV7 Zhongshu](https://acupoints.com/en/points/gv7/): GV7 (Zhongshu) is an acupoint on the Du meridian, classically used for jaundice, vomiting, and abdominal fullness.
+- [GV8 Jinsuo](https://acupoints.com/en/points/gv8/): GV8 (Jinsuo) is an acupoint on the Du meridian, classically used for spinal stiffness, stomachache, and epilepsy.
+- [GV9 Zhiyang](https://acupoints.com/en/points/gv9/): GV9 (Zhiyang) is an acupoint on the Du meridian, classically used for distending chest and hypochondriac pain, jaundice, and stiff painful back.
+- [GV10 Lingtai](https://acupoints.com/en/points/gv10/): GV10 (Lingtai) is an acupoint on the Du meridian, classically used for cough, shortness of breath, and stiff painful spine.
+- [GV11 Shendao](https://acupoints.com/en/points/gv11/): GV11 (Shendao) is an acupoint on the Du meridian, classically used for palpitations, cardiac pain, and insomnia.
+- [GV12 Shenzhu](https://acupoints.com/en/points/gv12/): GV12 (Shenzhu) is an acupoint on the Du meridian, classically used for cough, wheezing breath, and mania and epilepsy.
+- [GV13 Taodao](https://acupoints.com/en/points/gv13/): GV13 (Taodao) is an acupoint on the Du meridian, classically used for febrile disease, malaria, and headache.
+- [GV15 Yamen](https://acupoints.com/en/points/gv15/): GV15 (Yamen) is an acupoint on the Du meridian, classically used for stiff tongue with inability to speak, sudden loss of voice, and headache.
+- [GV16 Fengfu](https://acupoints.com/en/points/gv16/): GV16 (Fengfu) is an acupoint on the Du meridian, classically used for headache, stiff neck, and dizziness.
+- [GV17 Naohu](https://acupoints.com/en/points/gv17/): GV17 (Naohu) is an acupoint on the Du meridian, classically used for headache, stiff neck, and dizziness.
+- [GV18 Qiangjian](https://acupoints.com/en/points/gv18/): GV18 (Qiangjian) is an acupoint on the Du meridian, classically used for headache, stiff neck, and dizziness.
+- [GV19 Houding](https://acupoints.com/en/points/gv19/): GV19 (Houding) is an acupoint on the Du meridian, classically used for headache, stiff neck, and dizziness.
+- [GV21 Qianding](https://acupoints.com/en/points/gv21/): GV21 (Qianding) is an acupoint on the Du meridian, classically used for headache, dizziness, and infantile convulsions.
+- [GV22 Xinhui](https://acupoints.com/en/points/gv22/): GV22 (Xinhui) is an acupoint on the Du meridian, classically used for headache, dizziness, and sinusitis.
+- [GV23 Shangxing](https://acupoints.com/en/points/gv23/): GV23 (Shangxing) is an acupoint on the Du meridian, classically used for headache, dizziness, and sinusitis.
+- [GV24 Shenting](https://acupoints.com/en/points/gv24/): GV24 (Shenting) is an acupoint on the Du meridian, classically used for headache, dizziness, and insomnia.
+- [GV25 Suliao](https://acupoints.com/en/points/gv25/): GV25 (Suliao) is an acupoint on the Du meridian, classically used for collapse and fainting, newborn asphyxia, and nasal congestion.
+- [GV26 Shuigou](https://acupoints.com/en/points/gv26/): GV26 (Shuigou) is an acupoint on the Du meridian, classically used for fainting, heat stroke, and stroke.
+- [GV27 Duiduan](https://acupoints.com/en/points/gv27/): GV27 (Duiduan) is an acupoint on the Du meridian, classically used for mania, fainting, and swollen painful gums.
+- [GV28 Yinjiao](https://acupoints.com/en/points/gv28/): GV28 (Yinjiao) is an acupoint on the Du meridian, classically used for swollen painful gums, deviation of the mouth, and bad breath.
+- [CV1 Huiyin](https://acupoints.com/en/points/cv1/): CV1 (Huiyin) is an acupoint on the Ren meridian, classically used for difficult urination, enuresis, and nocturnal emission.
+- [CV2 Qugu](https://acupoints.com/en/points/cv2/): CV2 (Qugu) is an acupoint on the Ren meridian, classically used for urinary retention, endometritis, and pelvic inflammation.
+- [CV3 Zhongji](https://acupoints.com/en/points/cv3/): CV3 (Zhongji) is an acupoint on the Ren meridian, classically used for dysmenorrhea, menstrual disorders, and endometritis.
+- [CV4 Guanyuan](https://acupoints.com/en/points/cv4/): CV4 (Guanyuan) is an acupoint on the Ren meridian, classically used for nocturnal emission, impotence, and premature ejaculation.
+- [CV5 Shimen](https://acupoints.com/en/points/cv5/): CV5 (Shimen) is an acupoint on the Ren meridian, classically used for difficult urination, hernia, and amenorrhea.
+- [CV6 Qihai](https://acupoints.com/en/points/cv6/): CV6 (Qihai) is an acupoint on the Ren meridian, classically used for abdominal pain, diarrhea, and constipation.
+- [CV7 Yinjiao](https://acupoints.com/en/points/cv7/): CV7 (Yinjiao) is an acupoint on the Ren meridian, classically used for abdominal pain, diarrhea, and edema.
+- [CV8 Shenque](https://acupoints.com/en/points/cv8/): CV8 (Shenque) is an acupoint on the Ren meridian, classically used for abdominal pain, diarrhea, and dysentery.
+- [CV9 Shuifen](https://acupoints.com/en/points/cv9/): CV9 (Shuifen) is an acupoint on the Ren meridian, classically used for diarrhea, abdominal pain, and regurgitation.
+- [CV10 Xiawan](https://acupoints.com/en/points/cv10/): CV10 (Xiawan) is an acupoint on the Ren meridian, classically used for abdominal pain, abdominal distension, and indigestion.
+- [CV11 Jianli](https://acupoints.com/en/points/cv11/): CV11 (Jianli) is an acupoint on the Ren meridian, classically used for stomachache, abdominal pain and distension, and hiccups.
+- [CV12 Zhongwan](https://acupoints.com/en/points/cv12/): CV12 (Zhongwan) is an acupoint on the Ren meridian, classically used for stomachache, abdominal distension, and hiccups.
+- [CV13 Shangwan](https://acupoints.com/en/points/cv13/): CV13 (Shangwan) is an acupoint on the Ren meridian, classically used for stomachache, vomiting, and abdominal distension.
+- [CV14 Juque](https://acupoints.com/en/points/cv14/): CV14 (Juque) is an acupoint on the Ren meridian, classically used for chest pain, cardiac pain, and palpitations.
+- [CV15 Jiuwei](https://acupoints.com/en/points/cv15/): CV15 (Jiuwei) is an acupoint on the Ren meridian, classically used for chest oppression, palpitations, and vexation.
+- [CV16 Zhongting](https://acupoints.com/en/points/cv16/): CV16 (Zhongting) is an acupoint on the Ren meridian, classically used for fullness of the chest and hypochondrium, cardiac pain, and difficulty swallowing.
+- [CV18 Yutang](https://acupoints.com/en/points/cv18/): CV18 (Yutang) is an acupoint on the Ren meridian, classically used for chest pain and oppression, cough, and shortness of breath.
+- [CV19 Zigong](https://acupoints.com/en/points/cv19/): CV19 (Zigong) is an acupoint on the Ren meridian, classically used for chest oppression and pain, shortness of breath, and cough with rebellious qi.
+- [CV20 Huagai](https://acupoints.com/en/points/cv20/): CV20 (Huagai) is an acupoint on the Ren meridian, classically used for bronchial asthma, bronchitis, and laryngitis.
+- [CV21 Xuanji](https://acupoints.com/en/points/cv21/): CV21 (Xuanji) is an acupoint on the Ren meridian, classically used for cough, shortness of breath, and chest pain.
+- [CV22 Tiantu](https://acupoints.com/en/points/cv22/): CV22 (Tiantu) is an acupoint on the Ren meridian, classically used for bronchial asthma, bronchitis, and pharyngitis.
+- [CV23 Lianquan](https://acupoints.com/en/points/cv23/): CV23 (Lianquan) is an acupoint on the Ren meridian, classically used for stomatitis, glossitis, and mouth and tongue sores.
+- [CV24 Chengjiang](https://acupoints.com/en/points/cv24/): CV24 (Chengjiang) is an acupoint on the Ren meridian, classically used for deviation of the mouth, swollen painful gums, and drooling.
+
+## Meridians
+
+- [Lung](https://acupoints.com/en/meridians/lung/): The Lung meridian runs from the chest down the inner arm to the thumb and governs respiration and the body’s defensive qi.
+- [Large Intestine](https://acupoints.com/en/meridians/large-intestine/): The Large Intestine meridian runs from the index finger up the arm to the face and is classically used for headache, facial pain, and immunity.
+- [Stomach](https://acupoints.com/en/meridians/stomach/): The Stomach meridian runs down the front of the body from face to second toe and is classically used for digestion, energy, and appetite.
+- [Spleen](https://acupoints.com/en/meridians/spleen/): The Spleen meridian ascends from the big toe up the inner leg to the chest, governing digestion, blood, and women’s health.
+- [Heart](https://acupoints.com/en/meridians/heart/): The Heart meridian runs from the armpit down the inner arm to the little finger and houses the shen, or spirit.
+- [Small Intestine](https://acupoints.com/en/meridians/small-intestine/): The Small Intestine meridian travels from the little finger up the arm to the face and is used for neck, shoulder, and ear conditions.
+- [Bladder](https://acupoints.com/en/meridians/bladder/): The Bladder meridian runs from the inner eye over the head and down the back to the little toe and is the longest meridian in the body.
+- [Kidney](https://acupoints.com/en/meridians/kidney/): The Kidney meridian ascends from the sole of the foot up the inner leg to the chest, rooting the body’s foundational qi.
+- [Pericardium](https://acupoints.com/en/meridians/pericardium/): The Pericardium meridian runs from the chest down the inner arm to the middle finger and is a primary circuit for nausea and anxiety.
+- [San Jiao](https://acupoints.com/en/meridians/san-jiao/): The San Jiao (Triple Burner) meridian runs from the ring finger up the outer arm to the temple and coordinates the three body cavities.
+- [Gallbladder](https://acupoints.com/en/meridians/gallbladder/): The Gallbladder meridian zigzags down the side of the head and body to the fourth toe and is classically used for tension and decision-making.
+- [Liver](https://acupoints.com/en/meridians/liver/): The Liver meridian rises from the big toe up the inner leg to the ribs and is used to soothe irritability, stagnation, and women’s cycles.
+- [Du (Governing Vessel)](https://acupoints.com/en/meridians/du/): The Du or Governing Vessel runs up the midline of the back and head, uniting all yang meridians.
+- [Ren (Conception Vessel)](https://acupoints.com/en/meridians/ren/): The Ren or Conception Vessel runs up the midline of the front of the body, uniting all yin meridians.
+
+## Conditions
+
+- [Tension headache](https://acupoints.com/en/conditions/tension-headache/): Tension headache is a dull, band-like pain across the forehead or base of the skull; classical acupressure points include LI4, GB20, and LV3.
+- [Anxiety](https://acupoints.com/en/conditions/anxiety/): For mild anxiety, classical acupressure reaches for points like HT7, PC6, and Yintang — typically alongside slow breathing.
+- [Travel nausea](https://acupoints.com/en/conditions/travel-nausea/): PC6 (Neiguan) on the inner forearm is the classical acupoint for travel and morning nausea and the point behind motion-sickness wristbands.
+- [Insomnia](https://acupoints.com/en/conditions/insomnia/): For sleep, classical acupressure pairs a calming point at the wrist, HT7, with a grounding point on the sole, KI1.
+- [Period pain](https://acupoints.com/en/conditions/period-pain/): For period pain, TCM most often draws on SP6, LV3, and local abdominal points — though some (like SP6) are avoided during pregnancy.
+- [Back pain](https://acupoints.com/en/conditions/back-pain/): Classical acupressure for lower back pain often combines BL23, BL40, and GB30, chosen by where the pain is located.
+- [Neck and shoulder strain from desk work](https://acupoints.com/en/conditions/desk-neck-shoulder/): Neck and shoulder strain from desk work eases first with breaks every hour or two, forearm support and neck exercise; classical acupressure adds GB20, GB21 and LI11 as an optional comfort pause, on limited evidence.
+- [Nausea after surgery or chemotherapy](https://acupoints.com/en/conditions/nausea-after-treatment/): For nausea after surgery or chemotherapy, classical acupressure reaches first for PC6 (Neiguan) on the inner wrist, with LI4 and ST36 as companions — always as an add-on to prescribed anti-sickness medicine, never a replacement.
+- [Bloating](https://acupoints.com/en/conditions/bloating/): For a bloated, distended belly, Chinese nursing care pairs clockwise belly massage with CV12, ST25 and CV6 on the abdomen and ST36 and PC6 on the leg and wrist; skip CV6 in pregnancy.
+- [Constipation](https://acupoints.com/en/conditions/constipation/): For ordinary constipation, habits come first; classical acupressure adds a clockwise belly massage and the points ST25, TH6, ST36, and ST37.
+- [Knee arthritis pain](https://acupoints.com/en/conditions/knee-arthritis/): For knee osteoarthritis pain, exercise and weight management come first; classical acupressure adds six points ringing the knee: SP10, ST34, ST35, SP9, GB34 and ST36.
+- [After a stroke](https://acupoints.com/en/conditions/after-stroke-limbs/): After a stroke, a national Chinese nursing protocol names GB21, LI11, TH5 and LI4 on the arm and GB34, BL40 and GB39 on the leg; a carer presses them lightly on the weak side, alongside rehabilitation, never on spastic muscle or a swollen limb.
+- [Fatigue](https://acupoints.com/en/conditions/fatigue/): For everyday tiredness of the depleted kind, Chinese medicine reaches for ST36 (Zusanli), SP6, CV6 and CV4 below the navel, and LI4; research on hand-pressed points comes mainly from fatigue after cancer treatment and in haemodialysis.
+- [Labour pain](https://acupoints.com/en/conditions/labour-pain/): Sanyinjiao (SP6) and hegu (LI4), pressed by a birth partner through contractions, only once labour has started at 37 weeks or later and only with the midwife's or obstetric team's agreement; never to start labour or before term.
+
+## Body regions
+
+- [Head](https://acupoints.com/en/regions/head/): The head covers the scalp, face, and crown of the skull, where yang meridians converge and classical points for headache, eye strain, and clarity of mind are most concentrated.
+- [Neck](https://acupoints.com/en/regions/neck/): The neck spans the region between the base of the skull and the shoulders, housing points classically used for neck stiffness, throat complaints, and the transition between head and body.
+- [Shoulder](https://acupoints.com/en/regions/shoulder/): The shoulder spans the upper trapezius, the joint itself, and the tissue that connects neck to arm; its points are used for shoulder pain, restricted movement, and upper-body tension.
+- [Chest](https://acupoints.com/en/regions/chest/): The chest covers the anterior thorax from the collarbones to the lower sternum, where Conception-Vessel and organ-front points relate to breath, heart, and emotional expression.
+- [Back](https://acupoints.com/en/regions/back/): The back runs from the base of the neck to the sacrum and carries the Governing Vessel along the midline and the Bladder meridian down the paraspinal muscles, with points used for spinal tension, organ support, and overall vitality.
+- [Arm](https://acupoints.com/en/regions/arm/): The arm runs from the shoulder joint to the wrist and carries six of the twelve regular meridians along its inner and outer surfaces; its points are used for head, chest, and digestive complaints as well as local arm issues.
+- [Hand](https://acupoints.com/en/regions/hand/): The hand covers the wrist, palm, and fingers and is the distal terminus of the six arm meridians, hosting many accessible command points used for head, face, and systemic complaints.
+- [Leg](https://acupoints.com/en/regions/leg/): The leg spans the hip to the ankle and carries six of the twelve regular meridians, with points along the shin, calf, and thigh used for digestion, back pain, and women’s health.
+- [Foot](https://acupoints.com/en/regions/foot/): The foot is the distal terminus of the six leg meridians and hosts many yuan-source and well-points used for grounding, head and face complaints, and organ balance.
+- [Ear](https://acupoints.com/en/regions/ear/): The ear is a microsystem in its own right, with points used for hearing, balance, and a broad range of auricular-therapy protocols; several regular meridians also skirt its margins.
+
+## Basics
+
+- [What is qi?](https://acupoints.com/en/basics/what-is-qi/): Qi (氣) in Traditional Chinese Medicine refers to the body’s capacity for coordinated movement and change — not a mystical energy, but a practical descriptor for function.
+- [Yin and yang](https://acupoints.com/en/basics/yin-and-yang/): Yin and yang in TCM are descriptive lenses — not moral opposites — for tracking paired dynamics like cold/warm, quiet/active, interior/exterior.
+- [The five elements](https://acupoints.com/en/basics/five-elements/): The five elements — wood, fire, earth, metal, water — are a classical relational model linking organs, emotions, and seasons.
+
+## Glossary
+
+- [De qi](https://acupoints.com/en/glossary/de-qi/): De qi (得氣) is the dull, heavy, or radiating sensation that signals a classical acupoint has been correctly located.
+- [Yuan-source point](https://acupoints.com/en/glossary/yuan-source/): A yuan-source point is a classical “origin” point on each primary meridian, used to reach the organ it governs.
+- [Cun](https://acupoints.com/en/glossary/cun/): Cun (寸) is a body-proportional unit of measurement used to locate acupoints, roughly the width of the patient’s own thumb at the knuckle.
+
+## Journal
+
+- [Cycle Comfort: A Period-Pain Routine at Home](https://acupoints.com/en/journal/cycle-comfort-routine/): When period pain arrives, most of us want two things at once: something kind to do with an evening, and honesty about what that evening can and cannot change. This guide offers a quiet at-home routine — warmth, slowed breathing, and two well-recorded classical points, Sanyinjiao (SP6) and Taichong (LV3) — together with the boundaries that keep home practice honest.
+- [The Desk Worker’s Back: A Five-Minute Routine](https://acupoints.com/en/journal/desk-back-routine/): Eight hours in a chair asks plenty of a back and returns little. This piece answers the question most desk workers ask first — whether five minutes can help — then walks through a short routine built on two classical stations, Shenshu (BL23) at the small of the back and Weizhong (BL40) behind the knee, with desk habits, honest expectations, and clearly drawn stop lines alongside.
+- [Getting Started with Acupressure](https://acupoints.com/en/journal/getting-started-with-acupressure/): Acupressure is the quiet art of pressing classical points with your fingers instead of needles. This guide covers what the practice is, where it comes from, how to find and press points gently, a three-point starter routine, and the safety lines every beginner should know.
+- [Measuring With Your Own Hands: The Cun System](https://acupoints.com/en/journal/measuring-with-cun/): Classical locations read like riddles: two cun above the wrist, three below the knee. What is a cun, and where do you buy a ruler marked in them? You already own one. This guide explains the body-proportional system behind point location — finger measures, landmark tables, and the habit of measuring with your own hands.
+- [Motion Sickness on the Road: A Traveller's Routine](https://acupoints.com/en/journal/motion-sickness-on-the-road/): Motion sickness has a famous address on the classical map: neiguan (PC6), on the inner forearm between two tendons. This post gives an honest answer to whether wrist pressure helps, a step-by-step routine to follow on a coach or a ferry, zusanli (ST36) as a companion point, and the safety lines worth keeping.
+- [Pressure, Not Needles: What Self-Acupressure Is and Isn’t](https://acupoints.com/en/journal/pressure-not-needles/): Finger pressure asks almost nothing of you — no needles, no kit, no appointments — yet the line between home self-care and professional treatment is where beginners most often lose their footing. This guide sets out plainly what self-acupressure is, what it is not, and where the boundaries sit.
+- [Steadier Days: Pressure Points for Anxious Spells](https://acupoints.com/en/journal/steadier-anxious-days/): Anxious spells visit everyone: the evening that will not quieten, the morning that starts already wound tight. This guide gathers a steady routine around two wrist points — shenmen (HT7) and neiguan (PC6), old companions of household tradition when the mind would not settle — covering how to find them, how to press them kindly, and where honest limits lie.
+- [A Tension-Headache Toolkit for Ordinary Days](https://acupoints.com/en/journal/tension-headache-toolkit/): Tight bands across the forehead, a dull squeeze at the temples, heaviness pooling at the base of the skull — ordinary head tension knows how to claim an afternoon. This toolkit collects the four points traditional practice reached for most often, a five-minute routine for ordinary days, and the honest limits of finger-pressure self-care.
+- [What De Qi Feels Like — and When to Stop](https://acupoints.com/en/journal/what-de-qi-feels-like/): Press the right spot and something curious happens: a deep, spreading heaviness quite unlike ordinary soreness. Tradition calls that feeling de qi. This guide explains what it is, how to invite it gently, what to make of a quiet day, and the clear moments that mean stop.
+- [A Wind-Down Ritual for Sleepless Evenings](https://acupoints.com/en/journal/wind-down-for-sleep/): Some nights the lamp goes off and the mind stays at its desk. This guide offers a quiet ritual for such evenings — two classical points found by touch, a wrist gate and a sole spring, worked gently for about ten minutes, framed as tradition rather than treatment, and bounded by clear lines about when sleeplessness belongs with a clinician.
+
+## Site
+
+- [All points](https://acupoints.com/en/points/)
+- [All meridians](https://acupoints.com/en/meridians/)
+- [Conditions](https://acupoints.com/en/conditions/)
+- [Body regions](https://acupoints.com/en/regions/)
+- [TCM basics](https://acupoints.com/en/basics/)
+- [Glossary](https://acupoints.com/en/glossary/)
+- [FAQ](https://acupoints.com/en/faq/)
+- [About](https://acupoints.com/en/about/)
+- [Changelog](https://acupoints.com/en/changelog/)
+- [RSS feed](https://acupoints.com/en/feed.xml)
+- [Medical disclaimer](https://acupoints.com/en/disclaimer/)
+- [Privacy](https://acupoints.com/en/privacy/)
+- [Affiliate disclosure](https://acupoints.com/en/affiliate-disclosure/)
+
+## Locales
+
+- [English](https://acupoints.com/en/llms.txt)
+- [繁體中文](https://acupoints.com/zh-hant/llms.txt)
+- [简体中文](https://acupoints.com/zh-cn/llms.txt)

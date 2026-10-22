@@ -1,0 +1,31 @@
+{
+  "id": "BL36",
+  "name": {
+    "en": "Chengfu",
+    "gloss": "Holding Support",
+    "zh-Hant": "承扶",
+    "zh-Hans": "承扶"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 36,
+    "of": 67
+  },
+  "location": {
+    "text": "At the centre of the crease under the buttock."
+  },
+  "for": [
+    "low back",
+    "buttock and thigh ache",
+    "haemorrhoids"
+  ],
+  "press": {
+    "text": "Press firmly with the fingers, or sit on a firm ball, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl36",
+  "lastReviewed": "2026-08-24"
+}

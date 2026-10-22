@@ -1,0 +1,28 @@
+{
+  "id": "TH15",
+  "name": {
+    "en": "Tianliao",
+    "gloss": "A Heavenly Hollow",
+    "zh-Hant": "天髎",
+    "zh-Hans": "天髎"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 15,
+    "of": 23
+  },
+  "location": {
+    "text": "上背部，肩胛骨內上角處。"
+  },
+  "for": [
+    "肩臂痠痛",
+    "頸項強痛"
+  ],
+  "press": {
+    "text": "以指尖輕按表面，勿用手肘或指節，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/zh-hant/points/th15",
+  "lastReviewed": "2026-08-24"
+}

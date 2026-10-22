@@ -1,0 +1,31 @@
+{
+  "id": "SP4",
+  "name": {
+    "en": "Gongsun",
+    "gloss": "Duke’s Grandson",
+    "zh-Hant": "公孫",
+    "zh-Hans": "公孙"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 4,
+    "of": 21
+  },
+  "location": {
+    "text": "On the inner arch, about a thumb-width behind Taibai (SP3), in the dip below the base of the long foot bone."
+  },
+  "for": [
+    "stomach ache",
+    "vomiting",
+    "poor sleep"
+  ],
+  "press": {
+    "text": "Thumb pad, slow circles, one minute each foot.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/sp4",
+  "lastReviewed": "2026-08-24"
+}

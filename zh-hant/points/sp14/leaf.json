@@ -1,0 +1,33 @@
+{
+  "id": "SP14",
+  "name": {
+    "en": "Fujie",
+    "gloss": "Abdominal Knot",
+    "zh-Hant": "腹結",
+    "zh-Hans": "腹结"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 14,
+    "of": 21
+  },
+  "location": {
+    "text": "腹部，乳頭直下，肚臍水平下約兩橫指。"
+  },
+  "for": [
+    "腹痛",
+    "腹瀉",
+    "便秘"
+  ],
+  "press": {
+    "text": "指腹輕柔打圈，每側一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按腹部。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/sp14",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "HT3",
+  "name": {
+    "en": "Shaohai",
+    "gloss": "Young Sea",
+    "zh-Hant": "少海",
+    "zh-Hans": "少海"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 3,
+    "of": 9
+  },
+  "location": {
+    "text": "Elbow bent: halfway between the inner end of the elbow crease and the bony knob on the inner elbow."
+  },
+  "for": [
+    "elbow and arm pain",
+    "numb or shaky hands",
+    "a troubled mind"
+  ],
+  "press": {
+    "text": "Two finger pads, slow circles, one minute; ease off if it tingles down the arm.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ht3",
+  "lastReviewed": "2026-08-24"
+}

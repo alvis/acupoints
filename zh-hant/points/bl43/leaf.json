@@ -1,0 +1,33 @@
+{
+  "id": "BL43",
+  "name": {
+    "en": "Gaohuang",
+    "gloss": "The Deepest Interior",
+    "zh-Hant": "膏肓",
+    "zh-Hans": "膏肓"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 43,
+    "of": 67
+  },
+  "location": {
+    "text": "第七頸椎往下第四個骨突下方，旁開四橫指；雙臂交抱，使肩胛張開。"
+  },
+  "for": [
+    "久咳",
+    "虛弱疲倦",
+    "盜汗"
+  ],
+  "press": {
+    "text": "請家人用拇指輕按，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "下方是肺，只宜輕按，切勿用力。"
+  ],
+  "source": "《銅人腧穴針灸圖經·卷四》",
+  "url": "https://acupoints.com/zh-hant/points/bl43",
+  "lastReviewed": "2026-08-24"
+}

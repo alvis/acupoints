@@ -1,0 +1,32 @@
+{
+  "id": "ST24",
+  "name": {
+    "en": "Huaroumen",
+    "gloss": "Slippery Flesh Gate",
+    "zh-Hant": "滑肉門",
+    "zh-Hans": "滑肉门"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 24,
+    "of": 45
+  },
+  "location": {
+    "text": "腹部，臍上一拇指寬，前正中線旁開三橫指。"
+  },
+  "for": [
+    "胃痛",
+    "嘔吐"
+  ],
+  "press": {
+    "text": "手指平放輕按，每側約一分鐘，飽餐後不按。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按腹部。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/st24",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "CV1",
+  "name": {
+    "en": "Huiyin",
+    "gloss": "Meeting of Yin",
+    "zh-Hant": "會陰",
+    "zh-Hans": "会阴"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 1,
+    "of": 24
+  },
+  "location": {
+    "text": "會陰部，肛門與外生殖器之間的中點。"
+  },
+  "for": [
+    "小便不利",
+    "痔瘡",
+    "陰部搔癢"
+  ],
+  "press": {
+    "text": "不宜自行按壓：此處為私密部位，宜交由受過訓練的醫者處理。"
+  },
+  "cautions": [
+    "私密部位，請勿自行按壓。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/cv1",
+  "lastReviewed": "2026-08-24"
+}

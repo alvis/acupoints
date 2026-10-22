@@ -1,0 +1,31 @@
+{
+  "id": "BL66",
+  "name": {
+    "en": "Zutonggu",
+    "gloss": "Foot Penetrating Valley",
+    "zh-Hant": "足通谷",
+    "zh-Hans": "足通谷"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 66,
+    "of": 67
+  },
+  "location": {
+    "text": "On the outer edge of the foot, just in front of the knuckle at the base of the little toe, where top and sole skin meet."
+  },
+  "for": [
+    "headache",
+    "stiff neck",
+    "nosebleeds"
+  ],
+  "press": {
+    "text": "Thumb pressure, about a minute each foot.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl66",
+  "lastReviewed": "2026-08-24"
+}

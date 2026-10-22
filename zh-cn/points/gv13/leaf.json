@@ -1,0 +1,30 @@
+{
+  "id": "GV13",
+  "name": {
+    "en": "Taodao",
+    "gloss": "Potter's Way",
+    "zh-Hant": "陶道",
+    "zh-Hans": "陶道"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 13,
+    "of": 28
+  },
+  "location": {
+    "text": "背部后正中线，第一胸椎棘突下；由颈根最高骨突往下数一个棘突。"
+  },
+  "for": [
+    "发热",
+    "头痛",
+    "颈项僵硬"
+  ],
+  "press": {
+    "text": "手指越过肩头，以指尖稍用力按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gv13",
+  "lastReviewed": "2026-08-24"
+}

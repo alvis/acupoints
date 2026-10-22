@@ -1,0 +1,31 @@
+{
+  "id": "GB32",
+  "name": {
+    "en": "Zhongdu",
+    "gloss": "Central Watercourse",
+    "zh-Hant": "中瀆",
+    "zh-Hans": "中渎"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 32,
+    "of": 44
+  },
+  "location": {
+    "text": "大腿外侧，风市下三横指，前后肌肉之间的沟中。"
+  },
+  "for": [
+    "腿麻",
+    "膝痛",
+    "小腿抽筋"
+  ],
+  "press": {
+    "text": "指腹稳稳按压，每条腿约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gb32",
+  "lastReviewed": "2026-08-24"
+}

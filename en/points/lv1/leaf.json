@@ -1,0 +1,31 @@
+{
+  "id": "LV1",
+  "name": {
+    "en": "Dadun",
+    "gloss": "Great Thickness",
+    "zh-Hant": "大敦",
+    "zh-Hans": "大敦"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 1,
+    "of": 14
+  },
+  "location": {
+    "text": "On the big toe, at the corner of the nail on the side facing the second toe, just beside the nail."
+  },
+  "for": [
+    "bed-wetting",
+    "difficult urination",
+    "constipation"
+  ],
+  "press": {
+    "text": "Light fingertip pressure beside the nail, about a minute each foot.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/lv1",
+  "lastReviewed": "2026-08-24"
+}

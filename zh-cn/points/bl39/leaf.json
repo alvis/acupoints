@@ -1,0 +1,33 @@
+{
+  "id": "BL39",
+  "name": {
+    "en": "Weiyang",
+    "gloss": "The Bent Yang",
+    "zh-Hant": "委陽",
+    "zh-Hans": "委阳"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 39,
+    "of": 67
+  },
+  "location": {
+    "text": "膝后横纹外端，外侧筋腱的内缘。"
+  },
+  "for": [
+    "腰脊僵痛",
+    "腿脚拘挛",
+    "小便不利"
+  ],
+  "press": {
+    "text": "坐下屈膝，以指腹按，每条腿约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "筋腱旁有神经经过，宜轻按，有麻感即放轻。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl39",
+  "lastReviewed": "2026-08-24"
+}

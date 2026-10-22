@@ -1,0 +1,31 @@
+{
+  "id": "LV5",
+  "name": {
+    "en": "Ligou",
+    "gloss": "Ladle and Groove",
+    "zh-Hant": "蠡溝",
+    "zh-Hans": "蠡沟"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 5,
+    "of": 14
+  },
+  "location": {
+    "text": "Five thumb-widths above the inner anklebone, in the middle of the flat inner face of the shin bone."
+  },
+  "for": [
+    "irregular periods",
+    "genital itching",
+    "aching shins"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure on the flat of the bone, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/lv5",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "KI2",
+  "name": {
+    "en": "Rangu",
+    "gloss": "Blazing Valley",
+    "zh-Hant": "然谷",
+    "zh-Hans": "然谷"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 2,
+    "of": 27
+  },
+  "location": {
+    "text": "On the inner edge of the foot, below the bony knob in front of the ankle, where the top skin meets the sole."
+  },
+  "for": [
+    "sore throat",
+    "irregular periods",
+    "sore",
+    "swollen feet"
+  ],
+  "press": {
+    "text": "Gentle finger pressure, about a minute, then the other foot.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki2",
+  "lastReviewed": "2026-08-24"
+}

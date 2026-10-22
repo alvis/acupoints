@@ -1,0 +1,30 @@
+{
+  "id": "CV19",
+  "name": {
+    "en": "Zigong",
+    "gloss": "Purple Palace",
+    "zh-Hant": "紫宮",
+    "zh-Hans": "紫宫"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 19,
+    "of": 24
+  },
+  "location": {
+    "text": "胸骨正中線，平第二肋間。"
+  },
+  "for": [
+    "胸悶",
+    "咳嗽",
+    "呼吸短促"
+  ],
+  "press": {
+    "text": "在胸骨上輕按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/cv19",
+  "lastReviewed": "2026-08-24"
+}

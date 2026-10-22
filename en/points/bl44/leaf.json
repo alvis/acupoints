@@ -1,0 +1,33 @@
+{
+  "id": "BL44",
+  "name": {
+    "en": "Shentang",
+    "gloss": "Hall of the Spirit",
+    "zh-Hant": "神堂",
+    "zh-Hans": "神堂"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 44,
+    "of": 67
+  },
+  "location": {
+    "text": "Below the fifth bump under the neck bone (C7), four finger-widths to each side of the spine."
+  },
+  "for": [
+    "A tight chest",
+    "cough",
+    "poor sleep"
+  ],
+  "press": {
+    "text": "Ask a partner to press gently with a thumb, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "The lungs lie beneath: gentle pressure only, never hard or sharp."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl44",
+  "lastReviewed": "2026-08-24"
+}

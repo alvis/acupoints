@@ -1,0 +1,32 @@
+{
+  "id": "BL22",
+  "name": {
+    "en": "Sanjiaoshu",
+    "gloss": "Triple-Burner Transport",
+    "zh-Hant": "三焦俞",
+    "zh-Hans": "三焦俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 22,
+    "of": 67
+  },
+  "location": {
+    "text": "腰部，比肚脐水平高一个骨突（第一腰椎下），脊柱旁开两横指。"
+  },
+  "for": [
+    "腹胀",
+    "肠鸣",
+    "腰背僵痛"
+  ],
+  "press": {
+    "text": "双手叉腰，以拇指稍用力按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "下方是肾，只宜轻按，切勿用力。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl22",
+  "lastReviewed": "2026-08-24"
+}

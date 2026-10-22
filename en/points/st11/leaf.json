@@ -1,0 +1,32 @@
+{
+  "id": "ST11",
+  "name": {
+    "en": "Qishe",
+    "gloss": "Abode of Qi",
+    "zh-Hant": "氣舍",
+    "zh-Hans": "气舍"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 11,
+    "of": 45
+  },
+  "location": {
+    "text": "Just above the inner end of the collarbone, in the small dip between the two heads of the long neck muscle."
+  },
+  "for": [
+    "sore throat",
+    "hiccups",
+    "a stiff neck"
+  ],
+  "press": {
+    "text": "Light touch, one side at a time, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Keep off any pulse; never press both sides at once."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st11",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "GB27",
+  "name": {
+    "en": "Wushu",
+    "gloss": "Five Pivots",
+    "zh-Hant": "五樞",
+    "zh-Hans": "五枢"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 27,
+    "of": 44
+  },
+  "location": {
+    "text": "Just in front of the bony front tip of the hip, level with a spot four finger-widths below the navel."
+  },
+  "for": [
+    "low belly pain",
+    "lower back pain",
+    "constipation"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gb27",
+  "lastReviewed": "2026-08-24"
+}

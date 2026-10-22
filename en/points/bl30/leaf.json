@@ -1,0 +1,29 @@
+{
+  "id": "BL30",
+  "name": {
+    "en": "Baihuanshu",
+    "gloss": "White Ring Transport",
+    "zh-Hant": "白環俞",
+    "zh-Hans": "白环俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 30,
+    "of": 67
+  },
+  "location": {
+    "text": "Low on the sacrum, level with its fourth hollow, two finger-widths from the centre ridge."
+  },
+  "for": [
+    "low back and sacral ache",
+    "irregular periods"
+  ],
+  "press": {
+    "text": "Reach behind and press with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl30",
+  "lastReviewed": "2026-08-24"
+}

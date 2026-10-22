@@ -1,0 +1,33 @@
+{
+  "id": "BL45",
+  "name": {
+    "en": "Yixi",
+    "gloss": "A Sigh",
+    "zh-Hant": "譩譆",
+    "zh-Hans": "譩譆"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 45,
+    "of": 67
+  },
+  "location": {
+    "text": "Below the sixth bump under the neck bone (C7), four finger-widths from the spine, by the shoulder blade."
+  },
+  "for": [
+    "cough",
+    "shortness of breath",
+    "shoulder and back ache"
+  ],
+  "press": {
+    "text": "Ask a partner to press gently with a thumb, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "The lungs lie beneath: gentle pressure only, never hard or sharp."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl45",
+  "lastReviewed": "2026-08-24"
+}

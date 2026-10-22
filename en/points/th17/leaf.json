@@ -1,0 +1,31 @@
+{
+  "id": "TH17",
+  "name": {
+    "en": "Yifeng",
+    "gloss": "The Wind Screen",
+    "zh-Hant": "翳風",
+    "zh-Hans": "翳风"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 17,
+    "of": 23
+  },
+  "location": {
+    "text": "Behind the earlobe, in the hollow between the bone behind the ear and the jaw angle; clearer with the mouth open."
+  },
+  "for": [
+    "ringing ears",
+    "toothache",
+    "a swollen cheek"
+  ],
+  "press": {
+    "text": "Feather-light fingertip touch, no nails, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/th17",
+  "lastReviewed": "2026-08-24"
+}

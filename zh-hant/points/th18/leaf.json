@@ -1,0 +1,30 @@
+{
+  "id": "TH18",
+  "name": {
+    "en": "Chimai",
+    "gloss": "The Vessel of Spasms",
+    "zh-Hant": "瘈脈",
+    "zh-Hans": "瘈脉"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 18,
+    "of": 23
+  },
+  "location": {
+    "text": "耳後乳突上，沿耳廓後緣從耳垂後凹陷往上約三分之一處。"
+  },
+  "for": [
+    "頭痛",
+    "耳鳴"
+  ],
+  "press": {
+    "text": "以指尖輕觸，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《銅人腧穴針灸圖經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/th18",
+  "lastReviewed": "2026-08-24"
+}

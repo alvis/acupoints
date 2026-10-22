@@ -1,0 +1,32 @@
+{
+  "id": "SI8",
+  "name": {
+    "en": "Xiaohai",
+    "gloss": "Small Sea",
+    "zh-Hant": "小海",
+    "zh-Hans": "小海"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 8,
+    "of": 19
+  },
+  "location": {
+    "text": "Elbow slightly bent: in the groove between the point of the elbow and the bony knob on its inner side."
+  },
+  "for": [
+    "elbow and arm pain",
+    "numbness down the arm"
+  ],
+  "press": {
+    "text": "Light finger pad, one minute each arm; ease off if it tingles toward the little finger.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "The funny-bone nerve lies in this groove: gentle pressure only, never hard."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/si8",
+  "lastReviewed": "2026-08-24"
+}

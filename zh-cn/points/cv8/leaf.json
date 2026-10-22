@@ -1,0 +1,31 @@
+{
+  "id": "CV8",
+  "name": {
+    "en": "Shenque",
+    "gloss": "Spirit Gate Tower",
+    "zh-Hant": "神闕",
+    "zh-Hans": "神阙"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 8,
+    "of": 24
+  },
+  "location": {
+    "text": "肚脐正中。"
+  },
+  "for": [
+    "腹痛",
+    "腹泻"
+  ],
+  "press": {
+    "text": "不要按入肚脐；可改以温暖的掌心覆盖其上。",
+    "pressable": false
+  },
+  "cautions": [
+    "切勿按入肚脐：此处皮肤薄，肠道紧贴其下。"
+  ],
+  "source": "《铜人腧穴针灸图经·卷四》",
+  "url": "https://acupoints.com/zh-cn/points/cv8",
+  "lastReviewed": "2026-08-25"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GV20",
+  "name": {
+    "en": "Baihui",
+    "gloss": "Hundred Meetings",
+    "zh-Hant": "百會",
+    "zh-Hans": "百会"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 20,
+    "of": 28
+  },
+  "location": {
+    "text": "头顶正中，两耳尖连线越过头顶与正中线相交处。"
+  },
+  "for": [
+    "头痛头晕",
+    "失眠",
+    "健忘"
+  ],
+  "press": {
+    "text": "以指尖轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gv20",
+  "lastReviewed": "2026-08-24"
+}

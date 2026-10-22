@@ -1,0 +1,31 @@
+{
+  "id": "BL63",
+  "name": {
+    "en": "Jinmen",
+    "gloss": "Golden Gate",
+    "zh-Hant": "金門",
+    "zh-Hans": "金门"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 63,
+    "of": 67
+  },
+  "location": {
+    "text": "足外側，外踝前下方的小凹陷，在足外緣中段骨突之後。"
+  },
+  "for": [
+    "頭痛",
+    "腰痛",
+    "外踝痛"
+  ],
+  "press": {
+    "text": "以拇指按壓，每腳約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl63",
+  "lastReviewed": "2026-08-24"
+}

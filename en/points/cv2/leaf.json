@@ -1,0 +1,32 @@
+{
+  "id": "CV2",
+  "name": {
+    "en": "Qugu",
+    "gloss": "Curved Bone",
+    "zh-Hant": "曲骨",
+    "zh-Hans": "曲骨"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 2,
+    "of": 24
+  },
+  "location": {
+    "text": "On the midline of the lower belly, on the upper edge of the pubic bone."
+  },
+  "for": [
+    "difficult urination",
+    "period pain",
+    "irregular periods"
+  ],
+  "press": {
+    "text": "Gentle with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv2",
+  "lastReviewed": "2026-08-24"
+}

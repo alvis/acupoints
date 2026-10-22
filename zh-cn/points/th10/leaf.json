@@ -1,0 +1,30 @@
+{
+  "id": "TH10",
+  "name": {
+    "en": "Tianjing",
+    "gloss": "Heavenly Well",
+    "zh-Hant": "天井",
+    "zh-Hans": "天井"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 10,
+    "of": 23
+  },
+  "location": {
+    "text": "屈肘，肘尖上一拇指宽的凹陷处。"
+  },
+  "for": [
+    "偏头痛",
+    "手臂无力酸痛"
+  ],
+  "press": {
+    "text": "以指尖轻按，勿压向关节，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/th10",
+  "lastReviewed": "2026-08-25"
+}

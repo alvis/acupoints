@@ -1,0 +1,31 @@
+{
+  "id": "LI6",
+  "name": {
+    "en": "Pianli",
+    "gloss": "Slanting Passage",
+    "zh-Hant": "偏歷",
+    "zh-Hans": "偏历"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 6,
+    "of": 20
+  },
+  "location": {
+    "text": "On the back of the forearm, thumb side, four finger-widths above the wrist hollow of LI5."
+  },
+  "for": [
+    "ringing ears",
+    "nosebleed",
+    "an aching arm"
+  ],
+  "press": {
+    "text": "Firm thumb pressure, about a minute each arm.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/li6",
+  "lastReviewed": "2026-08-24"
+}

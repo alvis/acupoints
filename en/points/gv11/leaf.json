@@ -1,0 +1,30 @@
+{
+  "id": "GV11",
+  "name": {
+    "en": "Shendao",
+    "gloss": "Spirit Way",
+    "zh-Hant": "神道",
+    "zh-Hans": "神道"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 11,
+    "of": 28
+  },
+  "location": {
+    "text": "On the spine, below the fifth thoracic bump: two bumps above the level of the shoulder-blade tips."
+  },
+  "for": [
+    "palpitations",
+    "poor sleep",
+    "a poor memory"
+  ],
+  "press": {
+    "text": "Ask a helper to press firmly with a thumb, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv11",
+  "lastReviewed": "2026-08-24"
+}

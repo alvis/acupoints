@@ -1,0 +1,33 @@
+{
+  "id": "SP15",
+  "name": {
+    "en": "Daheng",
+    "gloss": "Great Horizontal",
+    "zh-Hant": "大橫",
+    "zh-Hans": "大横"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 15,
+    "of": 21
+  },
+  "location": {
+    "text": "Level with the navel, straight down from the nipple."
+  },
+  "for": [
+    "constipation",
+    "loose stools",
+    "a rumbling belly"
+  ],
+  "press": {
+    "text": "Gentle finger pads, slow circles, one minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Not on the belly in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/sp15",
+  "lastReviewed": "2026-08-24"
+}

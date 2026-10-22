@@ -1,0 +1,31 @@
+{
+  "id": "BL1",
+  "name": {
+    "en": "Jingming",
+    "gloss": "Brightness of the Eye",
+    "zh-Hant": "睛明",
+    "zh-Hans": "睛明"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 1,
+    "of": 67
+  },
+  "location": {
+    "text": "眼內角稍上方的小凹陷，緊貼鼻梁旁。"
+  },
+  "for": [
+    "眼紅腫痛",
+    "流淚",
+    "視物模糊"
+  ],
+  "press": {
+    "text": "洗淨手，以指腹極輕地朝鼻骨按，幾次呼吸即可。"
+  },
+  "cautions": [
+    "切勿按壓眼球；眼睛發炎或術後不按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl1",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "SI4",
+  "name": {
+    "en": "Wangu",
+    "gloss": "Wrist Bone",
+    "zh-Hant": "腕骨",
+    "zh-Hans": "腕骨"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 4,
+    "of": 19
+  },
+  "location": {
+    "text": "手掌外侧缘，小指掌骨底与腕骨之间的凹陷。"
+  },
+  "for": [
+    "腕痛",
+    "手指拘挛",
+    "颈项强痛"
+  ],
+  "press": {
+    "text": "拇指与食指指腹夹住，慢慢打圈，每手一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/si4",
+  "lastReviewed": "2026-08-24"
+}

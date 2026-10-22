@@ -1,0 +1,29 @@
+{
+  "id": "BL29",
+  "name": {
+    "en": "Zhonglushu",
+    "gloss": "Central Spine Transport",
+    "zh-Hant": "中膂俞",
+    "zh-Hans": "中膂俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 29,
+    "of": 67
+  },
+  "location": {
+    "text": "On the sacrum, level with its third hollow, two finger-widths from the centre ridge."
+  },
+  "for": [
+    "low back and sacral ache",
+    "loose stools"
+  ],
+  "press": {
+    "text": "Reach behind and press with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl29",
+  "lastReviewed": "2026-08-25"
+}

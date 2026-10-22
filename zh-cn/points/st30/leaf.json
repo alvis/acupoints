@@ -1,0 +1,30 @@
+{
+  "id": "ST30",
+  "name": {
+    "en": "Qichong",
+    "gloss": "Qi Surge",
+    "zh-Hant": "氣衝",
+    "zh-Hans": "气冲"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 30,
+    "of": 45
+  },
+  "location": {
+    "text": "腹股沟上方，与耻骨上缘同高，前正中线旁开三横指。"
+  },
+  "for": [
+    "腹痛肠鸣",
+    "月经不调"
+  ],
+  "press": {
+    "text": "轻触；指下若有脉搏跳动，就往外移开。"
+  },
+  "cautions": [
+    "附近有大血管；孕期不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/st30",
+  "lastReviewed": "2026-08-24"
+}

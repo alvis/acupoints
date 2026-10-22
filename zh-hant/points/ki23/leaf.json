@@ -1,0 +1,33 @@
+{
+  "id": "KI23",
+  "name": {
+    "en": "Shenfeng",
+    "gloss": "Spirit’s Seal",
+    "zh-Hant": "神封",
+    "zh-Hans": "神封"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 23,
+    "of": 27
+  },
+  "location": {
+    "text": "與乳頭同高的肋間，胸骨正中與乳頭連線的中點。"
+  },
+  "for": [
+    "咳嗽",
+    "胸脅脹滿",
+    "食慾不振"
+  ],
+  "press": {
+    "text": "以指尖輕觸皮膚表面，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "只可輕觸，切勿往肋間深按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/ki23",
+  "lastReviewed": "2026-08-24"
+}

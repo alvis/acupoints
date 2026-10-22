@@ -1,0 +1,32 @@
+{
+  "id": "BL33",
+  "name": {
+    "en": "Zhongliao",
+    "gloss": "The Middle Bone-Hole",
+    "zh-Hant": "中髎",
+    "zh-Hans": "中髎"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 33,
+    "of": 67
+  },
+  "location": {
+    "text": "In the third small hollow on the sacrum, a little below and inside BL32."
+  },
+  "for": [
+    "irregular periods",
+    "constipation",
+    "low back ache"
+  ],
+  "press": {
+    "text": "Reach behind and press with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not in pregnancy, or if you could be pregnant."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl33",
+  "lastReviewed": "2026-08-25"
+}

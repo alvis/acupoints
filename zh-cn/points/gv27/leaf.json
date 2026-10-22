@@ -1,0 +1,29 @@
+{
+  "id": "GV27",
+  "name": {
+    "en": "Duiduan",
+    "gloss": "Tip of the Mouth",
+    "zh-Hant": "兌端",
+    "zh-Hans": "兑端"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 27,
+    "of": 28
+  },
+  "location": {
+    "text": "上唇正中，人中沟下端与红唇交界处。"
+  },
+  "for": [
+    "牙龈肿痛",
+    "鼻塞"
+  ],
+  "press": {
+    "text": "以指尖轻触按揉，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gv27",
+  "lastReviewed": "2026-08-24"
+}

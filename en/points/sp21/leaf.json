@@ -1,0 +1,31 @@
+{
+  "id": "SP21",
+  "name": {
+    "en": "Dabao",
+    "gloss": "Great Wrap",
+    "zh-Hant": "大包",
+    "zh-Hans": "大包"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 21,
+    "of": 21
+  },
+  "location": {
+    "text": "On the side of the ribs, straight down from the middle of the armpit, in the sixth rib gap."
+  },
+  "for": [
+    "aching all over",
+    "chest and side pain",
+    "weak limbs"
+  ],
+  "press": {
+    "text": "Gentle finger pads in the rib gap, one minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/sp21",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "KI14",
+  "name": {
+    "en": "Siman",
+    "gloss": "Four Fullness",
+    "zh-Hant": "四滿",
+    "zh-Hans": "四满"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 14,
+    "of": 27
+  },
+  "location": {
+    "text": "肚脐下三横指，前正中线旁开半拇指宽。"
+  },
+  "for": [
+    "腹痛",
+    "便秘",
+    "月经不调"
+  ],
+  "press": {
+    "text": "平躺，以指尖轻触约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/ki14",
+  "lastReviewed": "2026-08-24"
+}

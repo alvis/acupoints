@@ -1,0 +1,31 @@
+{
+  "id": "SI7",
+  "name": {
+    "en": "Zhizheng",
+    "gloss": "Branch to the Main Line",
+    "zh-Hant": "支正",
+    "zh-Hans": "支正"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 7,
+    "of": 19
+  },
+  "location": {
+    "text": "On the little-finger edge of the forearm, a little below the midpoint between wrist and elbow."
+  },
+  "for": [
+    "headache",
+    "stiff neck",
+    "aching elbow and arm"
+  ],
+  "press": {
+    "text": "Two finger pads, slow circles, one minute each arm.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 5",
+  "url": "https://acupoints.com/en/points/si7",
+  "lastReviewed": "2026-08-24"
+}

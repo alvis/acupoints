@@ -1,0 +1,32 @@
+{
+  "id": "SI8",
+  "name": {
+    "en": "Xiaohai",
+    "gloss": "Small Sea",
+    "zh-Hant": "小海",
+    "zh-Hans": "小海"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 8,
+    "of": 19
+  },
+  "location": {
+    "text": "微屈肘，肘尖与肘内侧骨突之间的凹沟。"
+  },
+  "for": [
+    "肘臂疼痛",
+    "手臂麻木"
+  ],
+  "press": {
+    "text": "指腹轻按，每臂一分钟；麻感窜向小指即放轻。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "此沟内是尺神经（麻筋），只宜轻按，切勿用力。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/si8",
+  "lastReviewed": "2026-08-24"
+}

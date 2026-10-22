@@ -1,0 +1,32 @@
+{
+  "id": "ST1",
+  "name": {
+    "en": "Chengqi",
+    "gloss": "Container of Tears",
+    "zh-Hant": "承泣",
+    "zh-Hans": "承泣"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 1,
+    "of": 45
+  },
+  "location": {
+    "text": "Straight below the pupil, on the soft spot between the eyeball and the bony rim of the eye socket."
+  },
+  "for": [
+    "twitching eyelids",
+    "watery eyes",
+    "blurred sight"
+  ],
+  "press": {
+    "text": "Do not press: the point lies right against the eyeball.",
+    "pressable": false
+  },
+  "cautions": [
+    "Pressure here bears on the eye itself; leave this one to a practitioner."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st1",
+  "lastReviewed": "2026-08-24"
+}

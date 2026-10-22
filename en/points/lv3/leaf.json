@@ -1,0 +1,33 @@
+{
+  "id": "LV3",
+  "name": {
+    "en": "Taichong",
+    "gloss": "Grand Surge",
+    "zh-Hant": "太衝",
+    "zh-Hans": "太冲"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 3,
+    "of": 14
+  },
+  "location": {
+    "text": "On top of the foot: slide back from the web of the big toe until the two toe bones meet; it is the hollow just before."
+  },
+  "for": [
+    "headache",
+    "dizziness",
+    "painful periods"
+  ],
+  "press": {
+    "text": "Steady fingertip pressure, about a minute each foot.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "In pregnancy, ask a practitioner first."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/lv3",
+  "lastReviewed": "2026-08-24"
+}

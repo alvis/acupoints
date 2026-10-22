@@ -1,0 +1,32 @@
+{
+  "id": "KI15",
+  "name": {
+    "en": "Zhongzhu",
+    "gloss": "Central Infusion",
+    "zh-Hant": "中注",
+    "zh-Hans": "中注"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 15,
+    "of": 27
+  },
+  "location": {
+    "text": "One thumb-width below the navel, half a thumb-width out from the midline."
+  },
+  "for": [
+    "belly ache",
+    "constipation or diarrhea",
+    "irregular periods"
+  ],
+  "press": {
+    "text": "Lying down, a light fingertip touch, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "In pregnancy, ask a practitioner first."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki15",
+  "lastReviewed": "2026-08-24"
+}

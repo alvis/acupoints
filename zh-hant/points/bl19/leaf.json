@@ -1,0 +1,29 @@
+{
+  "id": "BL19",
+  "name": {
+    "en": "Danshu",
+    "gloss": "The Gallbladder’s Transport",
+    "zh-Hant": "膽俞",
+    "zh-Hans": "胆俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 19,
+    "of": 67
+  },
+  "location": {
+    "text": "肩胛骨下角水平再往下三個骨突（第十胸椎下），脊柱旁開兩橫指。"
+  },
+  "for": [
+    "口苦",
+    "脅肋疼痛"
+  ],
+  "press": {
+    "text": "請家人以拇指按，或背靠牆壓一顆軟球，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl19",
+  "lastReviewed": "2026-08-24"
+}

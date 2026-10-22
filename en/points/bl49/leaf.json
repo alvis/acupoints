@@ -1,0 +1,30 @@
+{
+  "id": "BL49",
+  "name": {
+    "en": "Yishe",
+    "gloss": "House of Thought",
+    "zh-Hant": "意舍",
+    "zh-Hans": "意舍"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 49,
+    "of": 67
+  },
+  "location": {
+    "text": "Below the eleventh bump counted down from the neck bone (C7), four finger-widths from the spine."
+  },
+  "for": [
+    "bloating",
+    "a rumbling belly",
+    "loose stools"
+  ],
+  "press": {
+    "text": "Ask a partner to press with a thumb, or lean on a soft ball against a wall, a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl49",
+  "lastReviewed": "2026-08-24"
+}

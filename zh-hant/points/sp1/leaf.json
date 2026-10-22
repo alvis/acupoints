@@ -1,0 +1,33 @@
+{
+  "id": "SP1",
+  "name": {
+    "en": "Yinbai",
+    "gloss": "Hidden White",
+    "zh-Hant": "隱白",
+    "zh-Hans": "隐白"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 1,
+    "of": 21
+  },
+  "location": {
+    "text": "大腳趾內側，趾甲角旁。"
+  },
+  "for": [
+    "月經量多",
+    "腹脹",
+    "多夢"
+  ],
+  "press": {
+    "text": "以指腹輕而穩地按，每隻腳一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "趾甲旁破皮或嵌甲時不按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/sp1",
+  "lastReviewed": "2026-08-24"
+}

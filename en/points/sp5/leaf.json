@@ -1,0 +1,32 @@
+{
+  "id": "SP5",
+  "name": {
+    "en": "Shangqiu",
+    "gloss": "Mound of Shang",
+    "zh-Hant": "商丘",
+    "zh-Hans": "商丘"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 5,
+    "of": 21
+  },
+  "location": {
+    "text": "In the hollow just in front of and below the inner ankle bone."
+  },
+  "for": [
+    "bloating",
+    "loose stools or constipation",
+    "ankle pain"
+  ],
+  "press": {
+    "text": "Thumb or two finger pads, slow circles, one minute each ankle.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not on a freshly sprained or swollen ankle."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/sp5",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GB20",
+  "name": {
+    "en": "Fengchi",
+    "gloss": "Wind Pool",
+    "zh-Hant": "風池",
+    "zh-Hans": "风池"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 20,
+    "of": 44
+  },
+  "location": {
+    "text": "後頸，枕骨下方，兩側頸部大肌肉之間的凹陷中。"
+  },
+  "for": [
+    "頭痛",
+    "頭暈",
+    "頸項僵痛"
+  ],
+  "press": {
+    "text": "輕輕往頸部方向按，勿往顱骨下方上推；約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《銅人腧穴針灸圖經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gb20",
+  "lastReviewed": "2026-08-24"
+}

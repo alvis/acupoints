@@ -1,0 +1,30 @@
+{
+  "id": "GV12",
+  "name": {
+    "en": "Shenzhu",
+    "gloss": "Body Pillar",
+    "zh-Hant": "身柱",
+    "zh-Hans": "身柱"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 12,
+    "of": 28
+  },
+  "location": {
+    "text": "背部后正中线，第三胸椎棘突下，约与两侧肩胛冈内端平齐。"
+  },
+  "for": [
+    "咳嗽",
+    "气喘",
+    "背部僵痛"
+  ],
+  "press": {
+    "text": "请旁人以拇指稍用力按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gv12",
+  "lastReviewed": "2026-08-24"
+}

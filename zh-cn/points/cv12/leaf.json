@@ -1,0 +1,30 @@
+{
+  "id": "CV12",
+  "name": {
+    "en": "Zhongwan",
+    "gloss": "Middle Stomach Cavity",
+    "zh-Hant": "中脘",
+    "zh-Hans": "中脘"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 12,
+    "of": 24
+  },
+  "location": {
+    "text": "上腹正中线，肚脐与胸骨下端连线的中点。"
+  },
+  "for": [
+    "胃痛",
+    "腹胀",
+    "吞酸"
+  ],
+  "press": {
+    "text": "以指腹轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/cv12",
+  "lastReviewed": "2026-08-24"
+}

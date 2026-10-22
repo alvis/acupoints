@@ -1,0 +1,33 @@
+{
+  "id": "ST19",
+  "name": {
+    "en": "Burong",
+    "gloss": "Not Containing",
+    "zh-Hant": "不容",
+    "zh-Hans": "不容"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 19,
+    "of": 45
+  },
+  "location": {
+    "text": "上腹部，脐上八横指，前正中线旁开三横指。"
+  },
+  "for": [
+    "胃痛",
+    "呕吐",
+    "食欲不振"
+  ],
+  "press": {
+    "text": "手指平放轻按，每侧约一分钟，饱餐后不按。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按腹部。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/st19",
+  "lastReviewed": "2026-08-24"
+}

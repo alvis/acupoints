@@ -1,0 +1,30 @@
+{
+  "id": "CV12",
+  "name": {
+    "en": "Zhongwan",
+    "gloss": "Middle Stomach Cavity",
+    "zh-Hant": "中脘",
+    "zh-Hans": "中脘"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 12,
+    "of": 24
+  },
+  "location": {
+    "text": "On the midline of the upper belly, halfway between the navel and the lower tip of the breastbone."
+  },
+  "for": [
+    "stomach ache",
+    "bloating",
+    "acid reflux"
+  ],
+  "press": {
+    "text": "Gentle with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv12",
+  "lastReviewed": "2026-08-24"
+}

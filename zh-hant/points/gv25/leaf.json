@@ -1,0 +1,30 @@
+{
+  "id": "GV25",
+  "name": {
+    "en": "Suliao",
+    "gloss": "Plain Hollow",
+    "zh-Hant": "素髎",
+    "zh-Hans": "素髎"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 25,
+    "of": 28
+  },
+  "location": {
+    "text": "鼻尖正中。"
+  },
+  "for": [
+    "鼻塞",
+    "鼻竇不適",
+    "鼻頭發紅"
+  ],
+  "press": {
+    "text": "以指尖輕觸按揉，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gv25",
+  "lastReviewed": "2026-08-24"
+}

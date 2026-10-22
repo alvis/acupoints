@@ -1,0 +1,32 @@
+{
+  "id": "LV14",
+  "name": {
+    "en": "Qimen",
+    "gloss": "Cycle Gate",
+    "zh-Hant": "期門",
+    "zh-Hans": "期门"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 14,
+    "of": 14
+  },
+  "location": {
+    "text": "Straight below the nipple, in the second rib gap down from it."
+  },
+  "for": [
+    "tight chest and ribs",
+    "a bloated belly",
+    "hiccups"
+  ],
+  "press": {
+    "text": "Light touch with the finger pads in the rib groove, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Light touch only; never press hard into the rib space."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/lv14",
+  "lastReviewed": "2026-08-24"
+}

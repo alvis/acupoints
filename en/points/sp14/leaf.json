@@ -1,0 +1,33 @@
+{
+  "id": "SP14",
+  "name": {
+    "en": "Fujie",
+    "gloss": "Abdominal Knot",
+    "zh-Hant": "腹結",
+    "zh-Hans": "腹结"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 14,
+    "of": 21
+  },
+  "location": {
+    "text": "On the belly, straight down from the nipple, about two finger-widths below the level of the navel."
+  },
+  "for": [
+    "belly pain",
+    "loose stools",
+    "constipation"
+  ],
+  "press": {
+    "text": "Gentle finger pads, slow circles, one minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Not on the belly in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/sp14",
+  "lastReviewed": "2026-08-24"
+}

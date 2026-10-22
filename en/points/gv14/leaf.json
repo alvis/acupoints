@@ -1,0 +1,30 @@
+{
+  "id": "GV14",
+  "name": {
+    "en": "Dazhui",
+    "gloss": "Great Vertebra",
+    "zh-Hant": "大椎",
+    "zh-Hans": "大椎"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 14,
+    "of": 28
+  },
+  "location": {
+    "text": "Below the big bump at the base of the neck: the bone that moves when you turn your head."
+  },
+  "for": [
+    "colds and fever",
+    "a stiff neck",
+    "shoulder and back ache"
+  ],
+  "press": {
+    "text": "Firm with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv14",
+  "lastReviewed": "2026-08-24"
+}

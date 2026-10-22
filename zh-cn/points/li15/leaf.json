@@ -1,0 +1,29 @@
+{
+  "id": "LI15",
+  "name": {
+    "en": "Jianyu",
+    "gloss": "Shoulder Corner",
+    "zh-Hant": "肩髃",
+    "zh-Hans": "肩髃"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 15,
+    "of": 20
+  },
+  "location": {
+    "text": "手臂向侧平举时，肩峰前下方出现的凹陷处。"
+  },
+  "for": [
+    "肩痛",
+    "手臂僵硬难举"
+  ],
+  "press": {
+    "text": "稍用力按入凹陷，每侧约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/li15",
+  "lastReviewed": "2026-08-24"
+}

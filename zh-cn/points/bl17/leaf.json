@@ -1,0 +1,33 @@
+{
+  "id": "BL17",
+  "name": {
+    "en": "Geshu",
+    "gloss": "The Diaphragm’s Transport",
+    "zh-Hant": "膈俞",
+    "zh-Hans": "膈俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 17,
+    "of": 67
+  },
+  "location": {
+    "text": "与两侧肩胛骨下角同高（第七颈椎往下第七个骨突下方），脊柱旁开两横指。"
+  },
+  "for": [
+    "打嗝",
+    "嗳气",
+    "皮肤搔痒"
+  ],
+  "press": {
+    "text": "请家人用拇指轻按，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "下方是肺，只宜轻按，切勿用力。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl17",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ST39",
+  "name": {
+    "en": "Xiajuxu",
+    "gloss": "Lower Great Hollow",
+    "zh-Hant": "下巨虛",
+    "zh-Hans": "下巨虚"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 39,
+    "of": 45
+  },
+  "location": {
+    "text": "条口穴下一拇指宽，胫骨外侧一横指。"
+  },
+  "for": [
+    "腹泻",
+    "小腹痛"
+  ],
+  "press": {
+    "text": "拇指稍用力按，每条腿约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/st39",
+  "lastReviewed": "2026-08-24"
+}

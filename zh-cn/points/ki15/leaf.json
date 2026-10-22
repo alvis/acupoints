@@ -1,0 +1,32 @@
+{
+  "id": "KI15",
+  "name": {
+    "en": "Zhongzhu",
+    "gloss": "Central Infusion",
+    "zh-Hant": "中注",
+    "zh-Hans": "中注"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 15,
+    "of": 27
+  },
+  "location": {
+    "text": "肚脐下一拇指宽，前正中线旁开半拇指宽。"
+  },
+  "for": [
+    "腹痛",
+    "便秘或腹泻",
+    "月经不调"
+  ],
+  "press": {
+    "text": "平躺，以指尖轻触约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期请先咨询医师。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/ki15",
+  "lastReviewed": "2026-08-24"
+}

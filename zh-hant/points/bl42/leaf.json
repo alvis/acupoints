@@ -1,0 +1,33 @@
+{
+  "id": "BL42",
+  "name": {
+    "en": "Pohu",
+    "gloss": "Door of the Corporeal Soul",
+    "zh-Hant": "魄戶",
+    "zh-Hans": "魄户"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 42,
+    "of": 67
+  },
+  "location": {
+    "text": "第七頸椎往下第三個骨突下方，脊柱旁開四橫指。"
+  },
+  "for": [
+    "咳嗽",
+    "氣短",
+    "頸項強痛"
+  ],
+  "press": {
+    "text": "請家人用拇指輕按，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "下方是肺，只宜輕按，切勿用力。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl42",
+  "lastReviewed": "2026-08-24"
+}

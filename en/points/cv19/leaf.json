@@ -1,0 +1,30 @@
+{
+  "id": "CV19",
+  "name": {
+    "en": "Zigong",
+    "gloss": "Purple Palace",
+    "zh-Hant": "紫宮",
+    "zh-Hans": "紫宫"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 19,
+    "of": 24
+  },
+  "location": {
+    "text": "On the breastbone, level with the second rib space."
+  },
+  "for": [
+    "chest tightness",
+    "cough",
+    "shortness of breath"
+  ],
+  "press": {
+    "text": "Gentle, on the breastbone, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv19",
+  "lastReviewed": "2026-08-24"
+}

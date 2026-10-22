@@ -1,0 +1,31 @@
+{
+  "id": "ST34",
+  "name": {
+    "en": "Liangqiu",
+    "gloss": "Ridge and Hill",
+    "zh-Hant": "梁丘",
+    "zh-Hans": "梁丘"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 34,
+    "of": 45
+  },
+  "location": {
+    "text": "Knee bent: three finger-widths above the outer top corner of the kneecap."
+  },
+  "for": [
+    "sudden stomach ache",
+    "loose stools",
+    "sore knees"
+  ],
+  "press": {
+    "text": "Firm thumb pressure, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st34",
+  "lastReviewed": "2026-08-24"
+}

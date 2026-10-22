@@ -1,0 +1,30 @@
+{
+  "id": "KI9",
+  "name": {
+    "en": "Zhubin",
+    "gloss": "Building Firm, Welcoming a Guest",
+    "zh-Hant": "築賓",
+    "zh-Hans": "筑宾"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 9,
+    "of": 27
+  },
+  "location": {
+    "text": "On the inner calf, about seven finger-widths above the hollow behind the ankle, where the calf muscle tapers."
+  },
+  "for": [
+    "inner calf pain",
+    "vomiting"
+  ],
+  "press": {
+    "text": "Light fingertip pressure, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, lower book",
+  "url": "https://acupoints.com/en/points/ki9",
+  "lastReviewed": "2026-08-24"
+}

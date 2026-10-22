@@ -1,0 +1,31 @@
+{
+  "id": "TH5",
+  "name": {
+    "en": "Waiguan",
+    "gloss": "Outer Pass",
+    "zh-Hant": "外關",
+    "zh-Hans": "外关"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 5,
+    "of": 23
+  },
+  "location": {
+    "text": "Three finger-widths above the back wrist crease, between the two forearm bones."
+  },
+  "for": [
+    "headache",
+    "ringing ears",
+    "aching arm"
+  ],
+  "press": {
+    "text": "Light fingertip pressure, about a minute each arm.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/th5",
+  "lastReviewed": "2026-08-24"
+}

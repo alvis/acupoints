@@ -1,0 +1,32 @@
+{
+  "id": "PC9",
+  "name": {
+    "en": "Zhongchong",
+    "gloss": "Central Rush",
+    "zh-Hant": "中衝",
+    "zh-Hans": "中冲"
+  },
+  "channel": {
+    "id": "PC",
+    "order": 9,
+    "of": 9
+  },
+  "location": {
+    "text": "中指指尖的正中央。"
+  },
+  "for": [
+    "暑熱頭昏",
+    "舌強腫痛"
+  ],
+  "press": {
+    "text": "以指尖輕柔按壓，勿用尖物，每手約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "昏厥或中暑須先急救；糖尿病或循環不良者不按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/pc9",
+  "lastReviewed": "2026-08-24"
+}

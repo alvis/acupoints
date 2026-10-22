@@ -1,0 +1,30 @@
+{
+  "id": "TH18",
+  "name": {
+    "en": "Chimai",
+    "gloss": "The Vessel of Spasms",
+    "zh-Hant": "瘈脈",
+    "zh-Hans": "瘈脉"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 18,
+    "of": 23
+  },
+  "location": {
+    "text": "耳后乳突上，沿耳廓后缘从耳垂后凹陷往上约三分之一处。"
+  },
+  "for": [
+    "头痛",
+    "耳鸣"
+  ],
+  "press": {
+    "text": "以指尖轻触，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《铜人腧穴针灸图经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/th18",
+  "lastReviewed": "2026-08-24"
+}

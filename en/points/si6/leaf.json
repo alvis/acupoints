@@ -1,0 +1,30 @@
+{
+  "id": "SI6",
+  "name": {
+    "en": "Yanglao",
+    "gloss": "Nourishing the Aged",
+    "zh-Hant": "養老",
+    "zh-Hans": "养老"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 6,
+    "of": 19
+  },
+  "location": {
+    "text": "Turn the palm toward your chest: in the gap that opens beside the bony knob on the back of the wrist, little-finger side."
+  },
+  "for": [
+    "blurred vision",
+    "aching shoulder and arm",
+    "low back pain"
+  ],
+  "press": {
+    "text": "One finger pad, slow circles, one minute each wrist.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/si6",
+  "lastReviewed": "2026-08-24"
+}

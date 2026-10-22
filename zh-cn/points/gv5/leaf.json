@@ -1,0 +1,30 @@
+{
+  "id": "GV5",
+  "name": {
+    "en": "Xuanshu",
+    "gloss": "Suspended Pivot",
+    "zh-Hant": "懸樞",
+    "zh-Hans": "悬枢"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 5,
+    "of": 28
+  },
+  "location": {
+    "text": "腰部后正中线，第一腰椎棘突下，命门上方一个棘突处。"
+  },
+  "for": [
+    "腰背僵痛",
+    "腹泻",
+    "腹胀肠鸣"
+  ],
+  "press": {
+    "text": "双手拇指稍用力按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gv5",
+  "lastReviewed": "2026-08-24"
+}

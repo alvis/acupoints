@@ -1,0 +1,33 @@
+{
+  "id": "GB26",
+  "name": {
+    "en": "Daimai",
+    "gloss": "The Belt Channel",
+    "zh-Hant": "帶脈",
+    "zh-Hans": "带脉"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 26,
+    "of": 44
+  },
+  "location": {
+    "text": "腰侧，与肚脐同高，倒数第二根肋骨游离端的正下方。"
+  },
+  "for": [
+    "月经不调",
+    "小腹痛",
+    "腰胁痛"
+  ],
+  "press": {
+    "text": "指腹轻按，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期或经血量多时，请先征询医师意见。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gb26",
+  "lastReviewed": "2026-08-24"
+}

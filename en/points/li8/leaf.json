@@ -1,0 +1,31 @@
+{
+  "id": "LI8",
+  "name": {
+    "en": "Xialian",
+    "gloss": "Lower Edge",
+    "zh-Hant": "下廉",
+    "zh-Hans": "下廉"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 8,
+    "of": 20
+  },
+  "location": {
+    "text": "On the back of the forearm, thumb side, a third of the way from the outer end of the elbow crease to the wrist."
+  },
+  "for": [
+    "an aching elbow and arm",
+    "headache",
+    "a bloated belly"
+  ],
+  "press": {
+    "text": "Firm thumb pressure, about a minute each arm.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/li8",
+  "lastReviewed": "2026-08-24"
+}

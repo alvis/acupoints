@@ -1,0 +1,30 @@
+{
+  "id": "LU11",
+  "name": {
+    "en": "Shaoshang",
+    "gloss": "Lesser Shang",
+    "zh-Hant": "少商",
+    "zh-Hans": "少商"
+  },
+  "channel": {
+    "id": "LU",
+    "order": 11,
+    "of": 11
+  },
+  "location": {
+    "text": "On the thumb, just off the corner of the nail on the side away from the index finger."
+  },
+  "for": [
+    "sore throat",
+    "nosebleed",
+    "fever"
+  ],
+  "press": {
+    "text": "Press with a fingernail edge, on and off, for about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/lu11",
+  "lastReviewed": "2026-08-24"
+}

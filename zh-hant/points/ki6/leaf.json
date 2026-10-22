@@ -1,0 +1,33 @@
+{
+  "id": "KI6",
+  "name": {
+    "en": "Zhaohai",
+    "gloss": "Shining Sea",
+    "zh-Hant": "照海",
+    "zh-Hans": "照海"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 6,
+    "of": 27
+  },
+  "location": {
+    "text": "內踝尖正下方的凹陷處。"
+  },
+  "for": [
+    "失眠",
+    "咽乾咽痛",
+    "痛經"
+  ],
+  "press": {
+    "text": "以指腹輕柔按壓，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期請先諮詢醫師。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/ki6",
+  "lastReviewed": "2026-08-24"
+}

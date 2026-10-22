@@ -1,0 +1,31 @@
+{
+  "id": "LI20",
+  "name": {
+    "en": "Yingxiang",
+    "gloss": "Welcome Fragrance",
+    "zh-Hant": "迎香",
+    "zh-Hans": "迎香"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 20,
+    "of": 20
+  },
+  "location": {
+    "text": "Beside the nose, in the smile line, level with the middle of the outer edge of the nostril."
+  },
+  "for": [
+    "A blocked nose",
+    "loss of smell",
+    "a runny nose"
+  ],
+  "press": {
+    "text": "Light fingertip pressure, both sides together, about a minute.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 3",
+  "url": "https://acupoints.com/en/points/li20",
+  "lastReviewed": "2026-08-24"
+}

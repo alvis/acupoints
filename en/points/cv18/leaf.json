@@ -1,0 +1,30 @@
+{
+  "id": "CV18",
+  "name": {
+    "en": "Yutang",
+    "gloss": "Jade Hall",
+    "zh-Hant": "玉堂",
+    "zh-Hans": "玉堂"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 18,
+    "of": 24
+  },
+  "location": {
+    "text": "On the breastbone, level with the third rib space."
+  },
+  "for": [
+    "chest tightness",
+    "cough",
+    "sore throat"
+  ],
+  "press": {
+    "text": "Gentle, on the breastbone, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv18",
+  "lastReviewed": "2026-08-24"
+}

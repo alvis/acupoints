@@ -1,0 +1,33 @@
+{
+  "id": "SP18",
+  "name": {
+    "en": "Tianxi",
+    "gloss": "Heavenly Stream",
+    "zh-Hant": "天溪",
+    "zh-Hans": "天溪"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 18,
+    "of": 21
+  },
+  "location": {
+    "text": "胸侧，与乳头同高的肋间，乳头外约三横指。"
+  },
+  "for": [
+    "胸胁痛",
+    "咳嗽",
+    "乳汁不足"
+  ],
+  "press": {
+    "text": "指腹轻按肋间，每侧一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "乳房有肿块或红热时不按，请就医检查。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/sp18",
+  "lastReviewed": "2026-08-24"
+}

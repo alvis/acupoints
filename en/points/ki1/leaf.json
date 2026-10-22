@@ -1,0 +1,33 @@
+{
+  "id": "KI1",
+  "name": {
+    "en": "Yongquan",
+    "gloss": "Gushing Spring",
+    "zh-Hant": "湧泉",
+    "zh-Hans": "涌泉"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 1,
+    "of": 27
+  },
+  "location": {
+    "text": "On the sole, in the dip that forms when the toes curl, about a third of the way from the toe base to the heel."
+  },
+  "for": [
+    "headache",
+    "dizziness",
+    "hot soles"
+  ],
+  "press": {
+    "text": "Gentle thumb pressure, about a minute, then the other foot.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "With diabetes, numb feet or pregnancy, ask a practitioner first."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki1",
+  "lastReviewed": "2026-08-24"
+}

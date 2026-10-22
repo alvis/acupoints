@@ -1,0 +1,32 @@
+{
+  "id": "HT2",
+  "name": {
+    "en": "Qingling",
+    "gloss": "Azure Spirit",
+    "zh-Hant": "青靈",
+    "zh-Hans": "青灵"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 2,
+    "of": 9
+  },
+  "location": {
+    "text": "上臂内侧，肘横纹上四横指，二头肌内侧的凹沟中。"
+  },
+  "for": [
+    "肩臂痛",
+    "头痛"
+  ],
+  "press": {
+    "text": "两指指腹慢慢打圈，每臂一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "此沟内有肱动脉，宜轻按，勿压在脉动上。"
+  ],
+  "source": "《铜人腧穴针灸图经·卷五》",
+  "url": "https://acupoints.com/zh-cn/points/ht2",
+  "lastReviewed": "2026-08-24"
+}

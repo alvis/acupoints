@@ -1,0 +1,30 @@
+{
+  "id": "BL61",
+  "name": {
+    "en": "Pucan",
+    "gloss": "The Servant’s Respect",
+    "zh-Hant": "僕參",
+    "zh-Hans": "仆参"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 61,
+    "of": 67
+  },
+  "location": {
+    "text": "崑崙穴直下，跟骨外側，腳背與腳底皮膚交界處。"
+  },
+  "for": [
+    "足跟痛",
+    "腳踝腫痛",
+    "下肢無力"
+  ],
+  "press": {
+    "text": "以拇指按壓，每腳約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/zh-hant/points/bl61",
+  "lastReviewed": "2026-08-24"
+}

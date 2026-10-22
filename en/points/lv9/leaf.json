@@ -1,0 +1,32 @@
+{
+  "id": "LV9",
+  "name": {
+    "en": "Yinbao",
+    "gloss": "The Wrapping of Yin",
+    "zh-Hant": "陰包",
+    "zh-Hans": "阴包"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 9,
+    "of": 14
+  },
+  "location": {
+    "text": "On the inner thigh, four thumb-widths above the bony knob of the inner knee, in the seam between two muscles."
+  },
+  "for": [
+    "low belly pain reaching the lower back",
+    "irregular periods"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Not over varicose veins, bruises or broken skin."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/lv9",
+  "lastReviewed": "2026-08-24"
+}

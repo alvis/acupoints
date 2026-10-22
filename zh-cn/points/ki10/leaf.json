@@ -1,0 +1,29 @@
+{
+  "id": "KI10",
+  "name": {
+    "en": "Yingu",
+    "gloss": "Yin Valley",
+    "zh-Hant": "陰谷",
+    "zh-Hans": "阴谷"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 10,
+    "of": 27
+  },
+  "location": {
+    "text": "屈膝，膝后横纹内侧端，两条肌腱之间。"
+  },
+  "for": [
+    "膝股内侧疼痛",
+    "小便不利"
+  ],
+  "press": {
+    "text": "以指腹轻按，勿深掘，每侧膝约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/ki10",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GB40",
+  "name": {
+    "en": "Qiuxu",
+    "gloss": "Mound and Open Ground",
+    "zh-Hant": "丘墟",
+    "zh-Hans": "丘墟"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 40,
+    "of": 44
+  },
+  "location": {
+    "text": "外踝前下方的凹陷中，伸趾肌腱的外側。"
+  },
+  "for": [
+    "外踝腫痛",
+    "胸脅脹痛"
+  ],
+  "press": {
+    "text": "指腹輕按，每腳約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "剛扭傷或腳踝腫脹時不按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gb40",
+  "lastReviewed": "2026-08-24"
+}

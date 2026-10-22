@@ -1,0 +1,32 @@
+{
+  "id": "LV14",
+  "name": {
+    "en": "Qimen",
+    "gloss": "Cycle Gate",
+    "zh-Hant": "期門",
+    "zh-Hans": "期门"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 14,
+    "of": 14
+  },
+  "location": {
+    "text": "乳頭直下，往下數第二個肋間。"
+  },
+  "for": [
+    "胸脅脹痛",
+    "腹脹",
+    "打嗝"
+  ],
+  "press": {
+    "text": "指腹輕觸肋間，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "只可輕觸，切勿往肋間用力深按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/lv14",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "TH8",
+  "name": {
+    "en": "Sanyangluo",
+    "gloss": "Three Yang Connection",
+    "zh-Hant": "三陽絡",
+    "zh-Hans": "三阳络"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 8,
+    "of": 23
+  },
+  "location": {
+    "text": "腕背横纹上约五横指，前臂两骨之间。"
+  },
+  "for": [
+    "牙痛",
+    "上肢酸痛",
+    "感冒"
+  ],
+  "press": {
+    "text": "轻触皮肤，勿压入骨缝，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "服用抗凝血药者，请先咨询医师。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/th8",
+  "lastReviewed": "2026-08-24"
+}

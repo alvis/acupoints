@@ -1,0 +1,33 @@
+{
+  "id": "SP6",
+  "name": {
+    "en": "Sanyinjiao",
+    "gloss": "Three Yin Intersection",
+    "zh-Hant": "三陰交",
+    "zh-Hans": "三阴交"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 6,
+    "of": 21
+  },
+  "location": {
+    "text": "Four finger-widths above the inner ankle bone, just behind the edge of the shinbone."
+  },
+  "for": [
+    "period pain",
+    "irregular periods",
+    "poor sleep"
+  ],
+  "press": {
+    "text": "Thumb pad, slow circles, one minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Never in pregnancy; if you may be pregnant, ask a practitioner first."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/sp6",
+  "lastReviewed": "2026-08-24"
+}

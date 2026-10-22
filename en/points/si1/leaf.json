@@ -1,0 +1,33 @@
+{
+  "id": "SI1",
+  "name": {
+    "en": "Shaoze",
+    "gloss": "Lesser Marsh",
+    "zh-Hant": "少澤",
+    "zh-Hans": "少泽"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 1,
+    "of": 19
+  },
+  "location": {
+    "text": "On the little finger, beside the corner of the nail on the outer side, away from the ring finger."
+  },
+  "for": [
+    "low milk supply",
+    "headache",
+    "sore throat"
+  ],
+  "press": {
+    "text": "Steady, gentle fingertip-pad pressure, one minute each hand.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Skip over hangnails or broken skin by the nail."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/si1",
+  "lastReviewed": "2026-08-24"
+}

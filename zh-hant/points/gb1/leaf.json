@@ -1,0 +1,33 @@
+{
+  "id": "GB1",
+  "name": {
+    "en": "Tongziliao",
+    "gloss": "Pupil Hollow",
+    "zh-Hant": "瞳子髎",
+    "zh-Hans": "瞳子髎"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 1,
+    "of": 44
+  },
+  "location": {
+    "text": "外眼角外側，眼眶外緣骨邊的小凹陷中。"
+  },
+  "for": [
+    "眼睛痠痛",
+    "發紅",
+    "疲勞",
+    "頭痛"
+  ],
+  "press": {
+    "text": "指腹輕觸骨緣，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "切勿按到眼球；眼睛發炎或感染時不按。"
+  ],
+  "source": "《銅人腧穴針灸圖經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gb1",
+  "lastReviewed": "2026-08-24"
+}

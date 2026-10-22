@@ -1,0 +1,31 @@
+{
+  "id": "LV5",
+  "name": {
+    "en": "Ligou",
+    "gloss": "Ladle and Groove",
+    "zh-Hant": "蠡溝",
+    "zh-Hans": "蠡沟"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 5,
+    "of": 14
+  },
+  "location": {
+    "text": "内踝尖上五拇指宽，胫骨内侧平面的中央。"
+  },
+  "for": [
+    "月经不调",
+    "阴部瘙痒",
+    "胫骨酸痛"
+  ],
+  "press": {
+    "text": "指腹轻按骨面，每条腿约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/lv5",
+  "lastReviewed": "2026-08-24"
+}

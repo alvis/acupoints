@@ -1,0 +1,33 @@
+{
+  "id": "SP15",
+  "name": {
+    "en": "Daheng",
+    "gloss": "Great Horizontal",
+    "zh-Hant": "大橫",
+    "zh-Hans": "大横"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 15,
+    "of": 21
+  },
+  "location": {
+    "text": "與肚臍同高，乳頭正下方。"
+  },
+  "for": [
+    "便秘",
+    "腹瀉",
+    "腸鳴"
+  ],
+  "press": {
+    "text": "指腹輕柔打圈，每側一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按腹部。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/sp15",
+  "lastReviewed": "2026-08-24"
+}

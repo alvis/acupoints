@@ -1,0 +1,32 @@
+{
+  "id": "CV5",
+  "name": {
+    "en": "Shimen",
+    "gloss": "Stone Gate",
+    "zh-Hant": "石門",
+    "zh-Hans": "石门"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 5,
+    "of": 24
+  },
+  "location": {
+    "text": "On the midline of the lower belly, two thumb-widths below the navel."
+  },
+  "for": [
+    "belly pain",
+    "loose stools",
+    "difficult urination"
+  ],
+  "press": {
+    "text": "Gentle with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv5",
+  "lastReviewed": "2026-08-24"
+}

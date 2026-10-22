@@ -1,0 +1,33 @@
+{
+  "id": "BL67",
+  "name": {
+    "en": "Zhiyin",
+    "gloss": "Reaching Yin",
+    "zh-Hant": "至陰",
+    "zh-Hans": "至阴"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 67,
+    "of": 67
+  },
+  "location": {
+    "text": "足小趾外侧，趾甲角旁。"
+  },
+  "for": [
+    "头痛",
+    "眼痛",
+    "鼻塞"
+  ],
+  "press": {
+    "text": "以拇指与食指捏按趾甲角旁，每脚约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按，除非由合格医师指导。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl67",
+  "lastReviewed": "2026-08-24"
+}

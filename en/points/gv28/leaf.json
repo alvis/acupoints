@@ -1,0 +1,30 @@
+{
+  "id": "GV28",
+  "name": {
+    "en": "Yinjiao",
+    "gloss": "Gum Junction",
+    "zh-Hant": "齦交",
+    "zh-Hans": "龈交"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 28,
+    "of": 28
+  },
+  "location": {
+    "text": "Inside the mouth, where the small fold under the upper lip joins the gum."
+  },
+  "for": [
+    "sore",
+    "swollen gums",
+    "bad breath"
+  ],
+  "press": {
+    "text": "Light touch with a clean fingertip, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv28",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "LI4",
+  "name": {
+    "en": "Hegu",
+    "gloss": "Joining Valley",
+    "zh-Hant": "合谷",
+    "zh-Hans": "合谷"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 4,
+    "of": 20
+  },
+  "location": {
+    "text": "On the back of the hand, on the mound between thumb and index finger when the thumb presses in."
+  },
+  "for": [
+    "headache",
+    "pain of the face and teeth"
+  ],
+  "press": {
+    "text": "Toward the index-finger bone, one minute, then the other hand.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Not in pregnancy."
+  ],
+  "source": "Lingshu, chapter 2",
+  "url": "https://acupoints.com/en/points/li4",
+  "lastReviewed": "2026-08-24"
+}

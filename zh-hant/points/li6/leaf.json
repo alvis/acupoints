@@ -1,0 +1,31 @@
+{
+  "id": "LI6",
+  "name": {
+    "en": "Pianli",
+    "gloss": "Slanting Passage",
+    "zh-Hant": "偏歷",
+    "zh-Hans": "偏历"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 6,
+    "of": 20
+  },
+  "location": {
+    "text": "前臂背面靠拇指一側，陽溪穴上四橫指處。"
+  },
+  "for": [
+    "耳鳴",
+    "流鼻血",
+    "手臂痠痛"
+  ],
+  "press": {
+    "text": "拇指稍用力按，每臂約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/li6",
+  "lastReviewed": "2026-08-24"
+}

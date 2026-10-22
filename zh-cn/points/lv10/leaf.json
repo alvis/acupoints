@@ -1,0 +1,33 @@
+{
+  "id": "LV10",
+  "name": {
+    "en": "Zuwuli",
+    "gloss": "Five Li on the Leg",
+    "zh-Hant": "足五里",
+    "zh-Hans": "足五里"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 10,
+    "of": 14
+  },
+  "location": {
+    "text": "大腿内侧根部，腹股沟下四横指，夹腿时浮起的肌腱旁。"
+  },
+  "for": [
+    "小腹胀痛",
+    "小便不利",
+    "疲倦嗜睡"
+  ],
+  "press": {
+    "text": "指腹轻按，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "有淋巴结肿大、肿块或静脉曲张处不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/lv10",
+  "lastReviewed": "2026-08-24"
+}

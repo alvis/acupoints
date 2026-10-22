@@ -1,0 +1,30 @@
+{
+  "id": "BL47",
+  "name": {
+    "en": "Hunmen",
+    "gloss": "Gate of the Ethereal Soul",
+    "zh-Hant": "魂門",
+    "zh-Hans": "魂门"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 47,
+    "of": 67
+  },
+  "location": {
+    "text": "肩胛骨下角水平再往下两个骨突（第九胸椎下），脊柱旁开四横指。"
+  },
+  "for": [
+    "胸胁痛",
+    "背痛",
+    "食欲不振"
+  ],
+  "press": {
+    "text": "请家人以拇指按，或背靠墙压一颗软球，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl47",
+  "lastReviewed": "2026-08-25"
+}

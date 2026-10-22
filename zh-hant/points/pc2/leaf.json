@@ -1,0 +1,31 @@
+{
+  "id": "PC2",
+  "name": {
+    "en": "Tianquan",
+    "gloss": "Celestial Spring",
+    "zh-Hant": "天泉",
+    "zh-Hans": "天泉"
+  },
+  "channel": {
+    "id": "PC",
+    "order": 2,
+    "of": 9
+  },
+  "location": {
+    "text": "上臂內側，腋前紋頭下三橫指，肱二頭肌兩頭之間。"
+  },
+  "for": [
+    "咳嗽",
+    "胸痛",
+    "上臂內側痛"
+  ],
+  "press": {
+    "text": "肌肉放鬆，以指尖輕按，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/pc2",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GB1",
+  "name": {
+    "en": "Tongziliao",
+    "gloss": "Pupil Hollow",
+    "zh-Hant": "瞳子髎",
+    "zh-Hans": "瞳子髎"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 1,
+    "of": 44
+  },
+  "location": {
+    "text": "Just outside the outer corner of the eye, in the small hollow on the bony rim of the eye socket."
+  },
+  "for": [
+    "sore",
+    "red or tired eyes",
+    "headache"
+  ],
+  "press": {
+    "text": "Light touch with a fingertip pad on the bone, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Never on the eyeball; skip it while an eye is infected or inflamed."
+  ],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 3",
+  "url": "https://acupoints.com/en/points/gb1",
+  "lastReviewed": "2026-08-24"
+}

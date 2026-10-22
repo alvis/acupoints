@@ -1,0 +1,30 @@
+{
+  "id": "GV19",
+  "name": {
+    "en": "Houding",
+    "gloss": "Behind the Crown",
+    "zh-Hant": "後頂",
+    "zh-Hans": "后顶"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 19,
+    "of": 28
+  },
+  "location": {
+    "text": "头顶正中线，百会往后两横指。"
+  },
+  "for": [
+    "头痛",
+    "颈项僵硬",
+    "失眠"
+  ],
+  "press": {
+    "text": "轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gv19",
+  "lastReviewed": "2026-08-24"
+}

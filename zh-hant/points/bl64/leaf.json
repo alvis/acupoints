@@ -1,0 +1,31 @@
+{
+  "id": "BL64",
+  "name": {
+    "en": "Jinggu",
+    "gloss": "Capital Bone",
+    "zh-Hant": "京骨",
+    "zh-Hans": "京骨"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 64,
+    "of": 67
+  },
+  "location": {
+    "text": "足外緣中段骨突（第五蹠骨粗隆）前下方，腳背與腳底皮膚交界處。"
+  },
+  "for": [
+    "頭痛",
+    "頸僵",
+    "腰腿痛"
+  ],
+  "press": {
+    "text": "以拇指按壓，每腳約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl64",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "LI17",
+  "name": {
+    "en": "Tianding",
+    "gloss": "Heaven's Cauldron",
+    "zh-Hant": "天鼎",
+    "zh-Hans": "天鼎"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 17,
+    "of": 20
+  },
+  "location": {
+    "text": "On the side of the neck, at the back edge of the long neck muscle, halfway between Adam's-apple level and the collarbone."
+  },
+  "for": [
+    "A hoarse voice",
+    "sore throat"
+  ],
+  "press": {
+    "text": "Light touch, one side at a time, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Never press on a pulse, or on both sides of the neck together."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/li17",
+  "lastReviewed": "2026-08-24"
+}

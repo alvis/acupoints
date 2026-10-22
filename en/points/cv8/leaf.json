@@ -1,0 +1,31 @@
+{
+  "id": "CV8",
+  "name": {
+    "en": "Shenque",
+    "gloss": "Spirit Gate Tower",
+    "zh-Hant": "神闕",
+    "zh-Hans": "神阙"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 8,
+    "of": 24
+  },
+  "location": {
+    "text": "In the centre of the navel."
+  },
+  "for": [
+    "belly pain",
+    "loose stools"
+  ],
+  "press": {
+    "text": "Do not press into the navel; rest a warm palm over it instead.",
+    "pressable": false
+  },
+  "cautions": [
+    "Never press into the navel: the skin is thin and the bowel lies just beneath."
+  ],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 4",
+  "url": "https://acupoints.com/en/points/cv8",
+  "lastReviewed": "2026-08-25"
+}

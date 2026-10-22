@@ -1,0 +1,29 @@
+{
+  "id": "HT6",
+  "name": {
+    "en": "Yinxi",
+    "gloss": "Yin Cleft",
+    "zh-Hant": "陰郄",
+    "zh-Hans": "阴郄"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 6,
+    "of": 9
+  },
+  "location": {
+    "text": "On the inner forearm, half a thumb-width above the wrist crease, beside the tendon in line with the little finger."
+  },
+  "for": [
+    "palpitations with a start",
+    "night sweats"
+  ],
+  "press": {
+    "text": "Two finger pads, slow circles, one minute each wrist.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 5",
+  "url": "https://acupoints.com/en/points/ht6",
+  "lastReviewed": "2026-08-24"
+}

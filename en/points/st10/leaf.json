@@ -1,0 +1,32 @@
+{
+  "id": "ST10",
+  "name": {
+    "en": "Shuitu",
+    "gloss": "Water Rushing",
+    "zh-Hant": "水突",
+    "zh-Hans": "水突"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 10,
+    "of": 45
+  },
+  "location": {
+    "text": "On the neck, at the front edge of the long neck muscle, halfway between ST9 and the inner end of the collarbone."
+  },
+  "for": [
+    "sore throat",
+    "cough",
+    "shortness of breath"
+  ],
+  "press": {
+    "text": "Light touch, one side at a time, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Keep off the pulse and the windpipe; never both sides at once."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st10",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "BL26",
+  "name": {
+    "en": "Guanyuanshu",
+    "gloss": "Transport of the Origin Pass",
+    "zh-Hant": "關元俞",
+    "zh-Hans": "关元俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 26,
+    "of": 67
+  },
+  "location": {
+    "text": "髂骨最高點連線往下一個骨突（第五腰椎下），脊柱旁開兩橫指。"
+  },
+  "for": [
+    "腰骶痛",
+    "腹脹",
+    "尿頻"
+  ],
+  "press": {
+    "text": "雙手叉腰，以拇指稍用力按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/zh-hant/points/bl26",
+  "lastReviewed": "2026-08-24"
+}

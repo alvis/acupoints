@@ -1,0 +1,33 @@
+{
+  "id": "TH22",
+  "name": {
+    "en": "Erheliao",
+    "gloss": "Ear Harmony Crevice",
+    "zh-Hant": "耳和髎",
+    "zh-Hans": "耳和髎"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 22,
+    "of": 23
+  },
+  "location": {
+    "text": "In front of the top of the ear, at the back edge of the temple hairline, just behind the pulse you feel there."
+  },
+  "for": [
+    "headache",
+    "ringing ears",
+    "a swollen cheek"
+  ],
+  "press": {
+    "text": "A light fingertip touch, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Never press firmly on the pulse at the temple."
+  ],
+  "source": "Tongren Shuxue Zhenjiu Tujing, middle book",
+  "url": "https://acupoints.com/en/points/th22",
+  "lastReviewed": "2026-08-25"
+}

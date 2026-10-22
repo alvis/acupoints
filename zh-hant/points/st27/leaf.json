@@ -1,0 +1,33 @@
+{
+  "id": "ST27",
+  "name": {
+    "en": "Daju",
+    "gloss": "Great Giant",
+    "zh-Hant": "大巨",
+    "zh-Hans": "大巨"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 27,
+    "of": 45
+  },
+  "location": {
+    "text": "下腹部，臍下三橫指，前正中線旁開三橫指。"
+  },
+  "for": [
+    "小腹脹痛",
+    "小便不利",
+    "失眠"
+  ],
+  "press": {
+    "text": "手指平放輕按，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按腹部。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/st27",
+  "lastReviewed": "2026-08-24"
+}

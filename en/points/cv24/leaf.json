@@ -1,0 +1,30 @@
+{
+  "id": "CV24",
+  "name": {
+    "en": "Chengjiang",
+    "gloss": "Receiving the Fluids",
+    "zh-Hant": "承漿",
+    "zh-Hans": "承浆"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 24,
+    "of": 24
+  },
+  "location": {
+    "text": "On the chin, in the hollow at the centre of the crease below the lower lip."
+  },
+  "for": [
+    "swollen gums",
+    "drooling",
+    "mouth sores"
+  ],
+  "press": {
+    "text": "Gentle with a fingertip, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv24",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "SP1",
+  "name": {
+    "en": "Yinbai",
+    "gloss": "Hidden White",
+    "zh-Hant": "隱白",
+    "zh-Hans": "隐白"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 1,
+    "of": 21
+  },
+  "location": {
+    "text": "On the big toe, beside the corner of the nail on the inner side."
+  },
+  "for": [
+    "heavy periods",
+    "a full belly",
+    "restless dreaming"
+  ],
+  "press": {
+    "text": "Light, steady fingertip-pad pressure, one minute each foot.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Skip over broken skin or an ingrown nail."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/sp1",
+  "lastReviewed": "2026-08-24"
+}

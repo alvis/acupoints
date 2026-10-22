@@ -1,0 +1,32 @@
+{
+  "id": "ST42",
+  "name": {
+    "en": "Chongyang",
+    "gloss": "Surging Yang",
+    "zh-Hant": "衝陽",
+    "zh-Hans": "冲阳"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 42,
+    "of": 45
+  },
+  "location": {
+    "text": "足背最高處，兩條肌腱之間摸得到脈搏處。"
+  },
+  "for": [
+    "足部無力或扭傷",
+    "胃痛"
+  ],
+  "press": {
+    "text": "在脈搏旁輕按，每腳約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "此穴在足背脈搏上，只宜輕按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/st42",
+  "lastReviewed": "2026-08-24"
+}

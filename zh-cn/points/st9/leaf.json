@@ -1,0 +1,32 @@
+{
+  "id": "ST9",
+  "name": {
+    "en": "Renying",
+    "gloss": "Man's Welcome",
+    "zh-Hant": "人迎",
+    "zh-Hans": "人迎"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 9,
+    "of": 45
+  },
+  "location": {
+    "text": "颈部，与喉结同高，胸锁乳突肌前缘，颈动脉搏动处。"
+  },
+  "for": [
+    "喉咙痛",
+    "颈部肿大",
+    "胸闷"
+  ],
+  "press": {
+    "text": "不要按压：此穴正在颈动脉上。",
+    "pressable": false
+  },
+  "cautions": [
+    "位于颈动脉上，切勿按压颈部脉搏。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/st9",
+  "lastReviewed": "2026-08-24"
+}

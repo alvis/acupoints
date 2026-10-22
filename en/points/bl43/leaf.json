@@ -1,0 +1,33 @@
+{
+  "id": "BL43",
+  "name": {
+    "en": "Gaohuang",
+    "gloss": "The Deepest Interior",
+    "zh-Hant": "膏肓",
+    "zh-Hans": "膏肓"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 43,
+    "of": 67
+  },
+  "location": {
+    "text": "Below the fourth bump under the neck bone (C7), four finger-widths from the spine; fold the arms to open the shoulder blades."
+  },
+  "for": [
+    "A lingering cough",
+    "deep tiredness",
+    "night sweats"
+  ],
+  "press": {
+    "text": "Ask a partner to press gently with a thumb, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "The lungs lie beneath: gentle pressure only, never hard or sharp."
+  ],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 4",
+  "url": "https://acupoints.com/en/points/bl43",
+  "lastReviewed": "2026-08-24"
+}

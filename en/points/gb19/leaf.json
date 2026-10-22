@@ -1,0 +1,32 @@
+{
+  "id": "GB19",
+  "name": {
+    "en": "Naokong",
+    "gloss": "Brain Hollow",
+    "zh-Hant": "腦空",
+    "zh-Hans": "脑空"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 19,
+    "of": 44
+  },
+  "location": {
+    "text": "At the back of the head, beside the bump on the skull, straight above the hollow of GB20."
+  },
+  "for": [
+    "headache",
+    "dizziness",
+    "a stiff",
+    "sore neck"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure on the scalp, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 3",
+  "url": "https://acupoints.com/en/points/gb19",
+  "lastReviewed": "2026-08-25"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "CV16",
+  "name": {
+    "en": "Zhongting",
+    "gloss": "Central Courtyard",
+    "zh-Hant": "中庭",
+    "zh-Hans": "中庭"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 16,
+    "of": 24
+  },
+  "location": {
+    "text": "On the midline at the lower end of the breastbone, where the ribs meet, level with the fifth rib space."
+  },
+  "for": [
+    "fullness of the chest and ribs",
+    "trouble swallowing",
+    "vomiting"
+  ],
+  "press": {
+    "text": "Gentle, on the breastbone, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv16",
+  "lastReviewed": "2026-08-24"
+}

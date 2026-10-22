@@ -1,0 +1,30 @@
+{
+  "id": "CV10",
+  "name": {
+    "en": "Xiawan",
+    "gloss": "Lower Stomach Cavity",
+    "zh-Hant": "下脘",
+    "zh-Hans": "下脘"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 10,
+    "of": 24
+  },
+  "location": {
+    "text": "On the midline of the belly, two thumb-widths above the navel."
+  },
+  "for": [
+    "bloating",
+    "indigestion",
+    "hiccups"
+  ],
+  "press": {
+    "text": "Gentle with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv10",
+  "lastReviewed": "2026-08-24"
+}

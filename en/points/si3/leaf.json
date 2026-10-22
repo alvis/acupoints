@@ -1,0 +1,31 @@
+{
+  "id": "SI3",
+  "name": {
+    "en": "Houxi",
+    "gloss": "Behind the Stream",
+    "zh-Hant": "後谿",
+    "zh-Hans": "后溪"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 3,
+    "of": 19
+  },
+  "location": {
+    "text": "With a loose fist, on the outer edge of the hand, at the end of the palm crease just behind the little finger’s knuckle."
+  },
+  "for": [
+    "stiff",
+    "aching neck and head",
+    "low back pain"
+  ],
+  "press": {
+    "text": "Thumb pad, slow circles, one minute each hand.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/si3",
+  "lastReviewed": "2026-08-24"
+}

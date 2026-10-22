@@ -1,0 +1,29 @@
+{
+  "id": "BL27",
+  "name": {
+    "en": "Xiaochangshu",
+    "gloss": "Small Intestine Transport",
+    "zh-Hant": "小腸俞",
+    "zh-Hans": "小肠俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 27,
+    "of": 67
+  },
+  "location": {
+    "text": "骶骨上，與第一骶後孔同高，骶骨正中嵴旁開兩橫指。"
+  },
+  "for": [
+    "腰骶痛",
+    "腹瀉"
+  ],
+  "press": {
+    "text": "雙手反到背後，以指腹按揉，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl27",
+  "lastReviewed": "2026-08-24"
+}

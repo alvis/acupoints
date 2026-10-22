@@ -1,0 +1,33 @@
+{
+  "id": "BL55",
+  "name": {
+    "en": "Heyang",
+    "gloss": "Union of Yang",
+    "zh-Hant": "合陽",
+    "zh-Hans": "合阳"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 55,
+    "of": 67
+  },
+  "location": {
+    "text": "On the back of the calf, about three finger-widths below the centre of the knee crease."
+  },
+  "for": [
+    "low back ache",
+    "knee pain",
+    "weak legs"
+  ],
+  "press": {
+    "text": "Firm thumb pressure, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Skip a calf that is suddenly swollen, hot or sore, and see a doctor."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl55",
+  "lastReviewed": "2026-08-24"
+}

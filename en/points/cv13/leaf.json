@@ -1,0 +1,30 @@
+{
+  "id": "CV13",
+  "name": {
+    "en": "Shangwan",
+    "gloss": "Upper Stomach Cavity",
+    "zh-Hant": "上脘",
+    "zh-Hans": "上脘"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 13,
+    "of": 24
+  },
+  "location": {
+    "text": "On the midline of the upper belly, one thumb-width above Zhongwan, the point halfway from navel to breastbone."
+  },
+  "for": [
+    "stomach ache",
+    "retching and vomiting",
+    "poor appetite"
+  ],
+  "press": {
+    "text": "Gentle with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv13",
+  "lastReviewed": "2026-08-24"
+}

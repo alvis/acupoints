@@ -1,0 +1,31 @@
+{
+  "id": "GB3",
+  "name": {
+    "en": "Shangguan",
+    "gloss": "Upper Gate",
+    "zh-Hant": "上關",
+    "zh-Hans": "上关"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 3,
+    "of": 44
+  },
+  "location": {
+    "text": "In front of the ear, in the shallow dip on the top edge of the cheekbone arch."
+  },
+  "for": [
+    "ringing ears",
+    "toothache",
+    "one-sided headache"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gb3",
+  "lastReviewed": "2026-08-24"
+}

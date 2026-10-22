@@ -1,0 +1,31 @@
+{
+  "id": "TH12",
+  "name": {
+    "en": "Xiaoluo",
+    "gloss": "Dissolving Waters",
+    "zh-Hant": "消濼",
+    "zh-Hans": "消泺"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 12,
+    "of": 23
+  },
+  "location": {
+    "text": "上臂後側，肘尖與三角肌下緣之間的中點。"
+  },
+  "for": [
+    "肩臂痠痛",
+    "牙痛",
+    "頸項強"
+  ],
+  "press": {
+    "text": "以指腹輕柔按壓，不用熱敷，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《銅人腧穴針灸圖經·卷五》",
+  "url": "https://acupoints.com/zh-hant/points/th12",
+  "lastReviewed": "2026-08-24"
+}

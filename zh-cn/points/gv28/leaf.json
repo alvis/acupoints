@@ -1,0 +1,29 @@
+{
+  "id": "GV28",
+  "name": {
+    "en": "Yinjiao",
+    "gloss": "Gum Junction",
+    "zh-Hant": "齦交",
+    "zh-Hans": "龈交"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 28,
+    "of": 28
+  },
+  "location": {
+    "text": "口内，上唇系带与上牙龈相接处。"
+  },
+  "for": [
+    "牙龈肿痛",
+    "口臭"
+  ],
+  "press": {
+    "text": "以洗净的指尖轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gv28",
+  "lastReviewed": "2026-08-24"
+}

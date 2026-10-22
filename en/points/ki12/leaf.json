@@ -1,0 +1,31 @@
+{
+  "id": "KI12",
+  "name": {
+    "en": "Dahe",
+    "gloss": "Great Prominence",
+    "zh-Hant": "大赫",
+    "zh-Hans": "大赫"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 12,
+    "of": 27
+  },
+  "location": {
+    "text": "One thumb-width above the top of the pubic bone, half a thumb-width out from the midline."
+  },
+  "for": [
+    "irregular or painful periods",
+    "vaginal discharge"
+  ],
+  "press": {
+    "text": "Lying down, a light fingertip touch, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "In pregnancy, ask a practitioner first."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki12",
+  "lastReviewed": "2026-08-24"
+}

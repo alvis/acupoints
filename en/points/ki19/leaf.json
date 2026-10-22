@@ -1,0 +1,32 @@
+{
+  "id": "KI19",
+  "name": {
+    "en": "Yindu",
+    "gloss": "Yin Metropolis",
+    "zh-Hant": "陰都",
+    "zh-Hans": "阴都"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 19,
+    "of": 27
+  },
+  "location": {
+    "text": "Midway between the navel and the base of the breastbone, half a thumb-width out from the midline."
+  },
+  "for": [
+    "belly ache",
+    "diarrhea or constipation",
+    "irregular periods"
+  ],
+  "press": {
+    "text": "Lying down, a light fingertip touch, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "In pregnancy, ask a practitioner first."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki19",
+  "lastReviewed": "2026-08-24"
+}

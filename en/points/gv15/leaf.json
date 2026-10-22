@@ -1,0 +1,30 @@
+{
+  "id": "GV15",
+  "name": {
+    "en": "Yamen",
+    "gloss": "Gate of Muteness",
+    "zh-Hant": "啞門",
+    "zh-Hans": "哑门"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 15,
+    "of": 28
+  },
+  "location": {
+    "text": "On the back of the neck, half a thumb-width above the hairline, in the midline hollow just below the skull."
+  },
+  "for": [
+    "A sudden loss of voice",
+    "headache",
+    "a stiff neck"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv15",
+  "lastReviewed": "2026-08-24"
+}

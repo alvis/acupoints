@@ -1,0 +1,33 @@
+{
+  "id": "BL15",
+  "name": {
+    "en": "Xinshu",
+    "gloss": "Heart’s Transport",
+    "zh-Hant": "心俞",
+    "zh-Hans": "心俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 15,
+    "of": 67
+  },
+  "location": {
+    "text": "第七頸椎往下第五個骨突下方，脊柱旁開兩橫指。"
+  },
+  "for": [
+    "心悸",
+    "失眠",
+    "健忘"
+  ],
+  "press": {
+    "text": "請家人用拇指輕按，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "下方是肺，只宜輕按，切勿用力。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl15",
+  "lastReviewed": "2026-08-25"
+}

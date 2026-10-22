@@ -1,0 +1,30 @@
+{
+  "id": "CV11",
+  "name": {
+    "en": "Jianli",
+    "gloss": "Building the Interior",
+    "zh-Hant": "建里",
+    "zh-Hans": "建里"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 11,
+    "of": 24
+  },
+  "location": {
+    "text": "腹部正中线，肚脐上四横指。"
+  },
+  "for": [
+    "胃痛",
+    "腹胀",
+    "食欲不振"
+  ],
+  "press": {
+    "text": "以指腹轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/cv11",
+  "lastReviewed": "2026-08-24"
+}

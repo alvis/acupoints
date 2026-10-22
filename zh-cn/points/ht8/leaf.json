@@ -1,0 +1,30 @@
+{
+  "id": "HT8",
+  "name": {
+    "en": "Shaofu",
+    "gloss": "Young Palace",
+    "zh-Hant": "少府",
+    "zh-Hans": "少府"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 8,
+    "of": 9
+  },
+  "location": {
+    "text": "掌心，握拳时小指尖所落之处。"
+  },
+  "for": [
+    "心悸",
+    "疮疡搔痒",
+    "小指拘挛"
+  ],
+  "press": {
+    "text": "拇指腹慢慢打圈，每手一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/ht8",
+  "lastReviewed": "2026-08-24"
+}

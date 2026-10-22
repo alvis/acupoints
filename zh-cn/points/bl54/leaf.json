@@ -1,0 +1,33 @@
+{
+  "id": "BL54",
+  "name": {
+    "en": "Zhibian",
+    "gloss": "The Edge of Order",
+    "zh-Hant": "秩邊",
+    "zh-Hans": "秩边"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 54,
+    "of": 67
+  },
+  "location": {
+    "text": "臀部，与骶骨下端（第四骶后孔）同高，骶骨正中嵴旁开四横指。"
+  },
+  "for": [
+    "腰骶痛",
+    "髋痛",
+    "腿部放射痛"
+  ],
+  "press": {
+    "text": "以拇指稍用力按，或坐在硬球上，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "深处有坐骨神经，若有痛感窜向腿部即放轻。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl54",
+  "lastReviewed": "2026-08-24"
+}

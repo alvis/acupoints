@@ -1,0 +1,29 @@
+{
+  "id": "TH14",
+  "name": {
+    "en": "Jianliao",
+    "gloss": "Shoulder Hollow",
+    "zh-Hant": "肩髎",
+    "zh-Hans": "肩髎"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 14,
+    "of": 23
+  },
+  "location": {
+    "text": "手臂向外侧抬起时，肩峰后下方出现的凹陷。"
+  },
+  "for": [
+    "肩重不能举",
+    "手臂疼痛"
+  ],
+  "press": {
+    "text": "以指腹轻柔按压，每侧肩约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《铜人腧穴针灸图经·卷四》",
+  "url": "https://acupoints.com/zh-cn/points/th14",
+  "lastReviewed": "2026-08-24"
+}

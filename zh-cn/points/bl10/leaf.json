@@ -1,0 +1,30 @@
+{
+  "id": "BL10",
+  "name": {
+    "en": "Tianzhu",
+    "gloss": "Pillar of Heaven",
+    "zh-Hant": "天柱",
+    "zh-Hans": "天柱"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 10,
+    "of": 67
+  },
+  "location": {
+    "text": "颈后，枕骨下方，粗大颈肌外缘的凹陷中。"
+  },
+  "for": [
+    "后头痛",
+    "颈僵",
+    "肩背酸痛"
+  ],
+  "press": {
+    "text": "双手拇指向上顶按枕骨下，稍用力，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl10",
+  "lastReviewed": "2026-08-24"
+}

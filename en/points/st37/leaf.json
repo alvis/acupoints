@@ -1,0 +1,31 @@
+{
+  "id": "ST37",
+  "name": {
+    "en": "Shangjuxu",
+    "gloss": "Upper Great Hollow",
+    "zh-Hant": "上巨虛",
+    "zh-Hans": "上巨虚"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 37,
+    "of": 45
+  },
+  "location": {
+    "text": "Eight finger-widths below the kneecap, one finger out from the shin."
+  },
+  "for": [
+    "belly ache",
+    "loose stools",
+    "constipation"
+  ],
+  "press": {
+    "text": "Firm thumb pressure, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 5",
+  "url": "https://acupoints.com/en/points/st37",
+  "lastReviewed": "2026-08-24"
+}

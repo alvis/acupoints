@@ -1,0 +1,30 @@
+{
+  "id": "ST45",
+  "name": {
+    "en": "Lidui",
+    "gloss": "Sharp Exchange",
+    "zh-Hant": "厲兌",
+    "zh-Hans": "厉兑"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 45,
+    "of": 45
+  },
+  "location": {
+    "text": "第二趾趾甲角旁，远离大趾的一侧。"
+  },
+  "for": [
+    "流鼻血",
+    "牙痛",
+    "多梦"
+  ],
+  "press": {
+    "text": "用指甲边缘一按一放，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/st45",
+  "lastReviewed": "2026-08-24"
+}

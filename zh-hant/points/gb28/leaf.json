@@ -1,0 +1,31 @@
+{
+  "id": "GB28",
+  "name": {
+    "en": "Weidao",
+    "gloss": "The Binding Way",
+    "zh-Hant": "維道",
+    "zh-Hans": "维道"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 28,
+    "of": 44
+  },
+  "location": {
+    "text": "五樞往前下方半拇指寬，髂骨前上棘前下方。"
+  },
+  "for": [
+    "月經不調",
+    "小腹痛",
+    "腰胯痛"
+  ],
+  "press": {
+    "text": "指腹輕按，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gb28",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "SP10",
+  "name": {
+    "en": "Xuehai",
+    "gloss": "Sea of Blood",
+    "zh-Hant": "血海",
+    "zh-Hans": "血海"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 10,
+    "of": 21
+  },
+  "location": {
+    "text": "屈膝，髌骨内上角上三横指，大腿肌肉隆起处。"
+  },
+  "for": [
+    "经痛",
+    "月经不调",
+    "皮肤痒疹"
+  ],
+  "press": {
+    "text": "两指指腹慢慢打圈，每条腿一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "皮肤破损或发炎处不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/sp10",
+  "lastReviewed": "2026-08-24"
+}

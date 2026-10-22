@@ -1,0 +1,33 @@
+{
+  "id": "TH21",
+  "name": {
+    "en": "Ermen",
+    "gloss": "Ear Gate",
+    "zh-Hant": "耳門",
+    "zh-Hans": "耳门"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 21,
+    "of": 23
+  },
+  "location": {
+    "text": "耳前，耳屏上方切迹前，张口时出现的凹陷。"
+  },
+  "for": [
+    "耳痛",
+    "耳鸣",
+    "牙痛"
+  ],
+  "press": {
+    "text": "以指尖极轻触碰，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "切勿伸入耳道；耳朵流脓或感染时不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/th21",
+  "lastReviewed": "2026-08-24"
+}

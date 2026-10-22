@@ -1,0 +1,32 @@
+{
+  "id": "TH19",
+  "name": {
+    "en": "Luxi",
+    "gloss": "Skull Rest",
+    "zh-Hant": "顱息",
+    "zh-Hans": "颅息"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 19,
+    "of": 23
+  },
+  "location": {
+    "text": "耳后，沿耳廓后缘从耳垂后凹陷往上约三分之二处。"
+  },
+  "for": [
+    "头痛",
+    "耳鸣"
+  ],
+  "press": {
+    "text": "以指尖极轻触碰，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "不可在孩童头部按压。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/th19",
+  "lastReviewed": "2026-08-24"
+}

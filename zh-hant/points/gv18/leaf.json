@@ -1,0 +1,30 @@
+{
+  "id": "GV18",
+  "name": {
+    "en": "Qiangjian",
+    "gloss": "Strong Interval",
+    "zh-Hant": "強間",
+    "zh-Hans": "强间"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 18,
+    "of": 28
+  },
+  "location": {
+    "text": "後頭部正中線，枕骨隆突上緣與頭頂百會之間的中點。"
+  },
+  "for": [
+    "頭痛",
+    "頭暈",
+    "失眠"
+  ],
+  "press": {
+    "text": "輕按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gv18",
+  "lastReviewed": "2026-08-24"
+}

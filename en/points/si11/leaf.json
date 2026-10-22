@@ -1,0 +1,30 @@
+{
+  "id": "SI11",
+  "name": {
+    "en": "Tianzong",
+    "gloss": "Celestial Ancestor",
+    "zh-Hant": "天宗",
+    "zh-Hans": "天宗"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 11,
+    "of": 19
+  },
+  "location": {
+    "text": "In the middle of the shoulder blade, in the hollow below its ridge."
+  },
+  "for": [
+    "shoulder-blade ache",
+    "upper-back pain"
+  ],
+  "press": {
+    "text": "Two finger pads or a thumb, slow circles, one minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/si11",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ST1",
+  "name": {
+    "en": "Chengqi",
+    "gloss": "Container of Tears",
+    "zh-Hant": "承泣",
+    "zh-Hans": "承泣"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 1,
+    "of": 45
+  },
+  "location": {
+    "text": "瞳孔正下方，眼球与眼眶下缘骨之间。"
+  },
+  "for": [
+    "眼皮跳",
+    "迎风流泪",
+    "视物模糊"
+  ],
+  "press": {
+    "text": "不要按压：此穴紧贴眼球。",
+    "pressable": false
+  },
+  "cautions": [
+    "在此按压会压到眼球，请交由专业人员处理。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/st1",
+  "lastReviewed": "2026-08-24"
+}

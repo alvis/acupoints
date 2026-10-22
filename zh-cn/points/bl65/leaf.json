@@ -1,0 +1,31 @@
+{
+  "id": "BL65",
+  "name": {
+    "en": "Shugu",
+    "gloss": "Bundled Bone",
+    "zh-Hant": "束骨",
+    "zh-Hans": "束骨"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 65,
+    "of": 67
+  },
+  "location": {
+    "text": "足外侧，小趾根部关节后方，脚背与脚底皮肤交界处。"
+  },
+  "for": [
+    "头痛",
+    "颈僵",
+    "头晕"
+  ],
+  "press": {
+    "text": "以拇指按压，每脚约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl65",
+  "lastReviewed": "2026-08-25"
+}

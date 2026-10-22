@@ -1,0 +1,30 @@
+{
+  "id": "SI5",
+  "name": {
+    "en": "Yanggu",
+    "gloss": "Yang Valley",
+    "zh-Hant": "陽谷",
+    "zh-Hans": "阳谷"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 5,
+    "of": 19
+  },
+  "location": {
+    "text": "On the outer wrist, little-finger side, in the dip between the knob of the forearm bone and the wrist bone."
+  },
+  "for": [
+    "outer wrist and arm pain",
+    "ringing ears",
+    "toothache"
+  ],
+  "press": {
+    "text": "Two finger pads, slow circles, one minute each wrist.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/si5",
+  "lastReviewed": "2026-08-24"
+}

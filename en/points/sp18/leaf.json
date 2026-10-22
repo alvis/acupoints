@@ -1,0 +1,33 @@
+{
+  "id": "SP18",
+  "name": {
+    "en": "Tianxi",
+    "gloss": "Heavenly Stream",
+    "zh-Hant": "天溪",
+    "zh-Hans": "天溪"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 18,
+    "of": 21
+  },
+  "location": {
+    "text": "On the side of the chest, in the rib gap level with the nipple, about three finger-widths outside it."
+  },
+  "for": [
+    "chest and side pain",
+    "cough",
+    "low milk supply"
+  ],
+  "press": {
+    "text": "Gentle finger pads in the rib gap, one minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Not over a breast lump, redness or warmth; have a doctor check it."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/sp18",
+  "lastReviewed": "2026-08-24"
+}

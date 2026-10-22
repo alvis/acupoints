@@ -1,0 +1,31 @@
+{
+  "id": "LI9",
+  "name": {
+    "en": "Shanglian",
+    "gloss": "Upper Edge",
+    "zh-Hant": "上廉",
+    "zh-Hans": "上廉"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 9,
+    "of": 20
+  },
+  "location": {
+    "text": "前臂背面靠拇指一側，肘橫紋外端下四橫指處。"
+  },
+  "for": [
+    "肘臂痛",
+    "手臂麻木",
+    "頭痛"
+  ],
+  "press": {
+    "text": "拇指稍用力按，每臂約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《銅人腧穴針灸圖經·卷五》",
+  "url": "https://acupoints.com/zh-hant/points/li9",
+  "lastReviewed": "2026-08-24"
+}

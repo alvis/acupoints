@@ -1,0 +1,31 @@
+{
+  "id": "GB17",
+  "name": {
+    "en": "Zhengying",
+    "gloss": "Upright Camp",
+    "zh-Hant": "正營",
+    "zh-Hans": "正营"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 17,
+    "of": 44
+  },
+  "location": {
+    "text": "On the scalp, on the line up from the pupil, one thumb-width behind GB16."
+  },
+  "for": [
+    "headache",
+    "dizziness",
+    "a stiff neck"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure on the scalp, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gb17",
+  "lastReviewed": "2026-08-24"
+}

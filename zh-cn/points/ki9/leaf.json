@@ -1,0 +1,30 @@
+{
+  "id": "KI9",
+  "name": {
+    "en": "Zhubin",
+    "gloss": "Building Firm, Welcoming a Guest",
+    "zh-Hant": "築賓",
+    "zh-Hans": "筑宾"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 9,
+    "of": 27
+  },
+  "location": {
+    "text": "小腿内侧，内踝后凹陷上约七横指，小腿肚下缘渐收处。"
+  },
+  "for": [
+    "小腿内侧疼痛",
+    "呕吐"
+  ],
+  "press": {
+    "text": "以指尖轻按，每条腿约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《铜人腧穴针灸图经·卷下》",
+  "url": "https://acupoints.com/zh-cn/points/ki9",
+  "lastReviewed": "2026-08-24"
+}

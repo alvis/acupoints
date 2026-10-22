@@ -1,0 +1,30 @@
+{
+  "id": "GV8",
+  "name": {
+    "en": "Jinsuo",
+    "gloss": "Sinew Contraction",
+    "zh-Hant": "筋縮",
+    "zh-Hans": "筋缩"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 8,
+    "of": 28
+  },
+  "location": {
+    "text": "背部後正中線，第九胸椎棘突下；由肩胛骨下角水平往下數兩個棘突。"
+  },
+  "for": [
+    "脊背僵硬",
+    "胃痛",
+    "腰痛"
+  ],
+  "press": {
+    "text": "請旁人以拇指稍用力按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gv8",
+  "lastReviewed": "2026-08-24"
+}

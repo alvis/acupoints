@@ -1,0 +1,32 @@
+{
+  "id": "LI3",
+  "name": {
+    "en": "Sanjian",
+    "gloss": "Third Space",
+    "zh-Hant": "三間",
+    "zh-Hans": "三间"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 3,
+    "of": 20
+  },
+  "location": {
+    "text": "Make a loose fist: on the thumb side of the index finger, in the hollow just behind the big knuckle."
+  },
+  "for": [
+    "toothache",
+    "sore throat",
+    "puffy",
+    "aching fingers"
+  ],
+  "press": {
+    "text": "Fingertip pressure toward the bone, about a minute each hand.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/li3",
+  "lastReviewed": "2026-08-24"
+}

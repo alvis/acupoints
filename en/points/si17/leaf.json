@@ -1,0 +1,31 @@
+{
+  "id": "SI17",
+  "name": {
+    "en": "Tianrong",
+    "gloss": "Heavenly Countenance",
+    "zh-Hant": "天容",
+    "zh-Hans": "天容"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 17,
+    "of": 19
+  },
+  "location": {
+    "text": "Just behind the angle of the jaw, in the dip in front of the long neck muscle."
+  },
+  "for": [
+    "ringing ears",
+    "a sore swollen throat"
+  ],
+  "press": {
+    "text": "Light touch, one side at a time, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Large neck vessels lie close: if you feel a beat, move off it."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/si17",
+  "lastReviewed": "2026-08-24"
+}

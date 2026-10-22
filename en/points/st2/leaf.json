@@ -1,0 +1,33 @@
+{
+  "id": "ST2",
+  "name": {
+    "en": "Sibai",
+    "gloss": "Four Whites",
+    "zh-Hant": "四白",
+    "zh-Hans": "四白"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 2,
+    "of": 45
+  },
+  "location": {
+    "text": "Looking straight ahead, below the pupil, in the small dip on the cheekbone just under the rim of the eye socket."
+  },
+  "for": [
+    "red",
+    "itchy eyes",
+    "twitching eyelids",
+    "face pain"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure on the bone, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Close to the eye: press on bone only, never on the eye."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st2",
+  "lastReviewed": "2026-08-24"
+}

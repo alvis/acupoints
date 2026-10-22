@@ -1,0 +1,32 @@
+{
+  "id": "CV3",
+  "name": {
+    "en": "Zhongji",
+    "gloss": "Central Pole",
+    "zh-Hant": "中極",
+    "zh-Hans": "中极"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 3,
+    "of": 24
+  },
+  "location": {
+    "text": "下腹正中线，耻骨上缘往上一拇指宽。"
+  },
+  "for": [
+    "经痛",
+    "月经不调",
+    "小便不适"
+  ],
+  "press": {
+    "text": "以指腹轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/cv3",
+  "lastReviewed": "2026-08-24"
+}

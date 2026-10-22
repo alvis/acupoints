@@ -1,0 +1,32 @@
+{
+  "id": "KI20",
+  "name": {
+    "en": "Futonggu",
+    "gloss": "A Valley That Passes Through",
+    "zh-Hant": "腹通谷",
+    "zh-Hans": "腹通谷"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 20,
+    "of": 27
+  },
+  "location": {
+    "text": "Four finger-widths below the base of the breastbone, half a thumb-width out from the midline."
+  },
+  "for": [
+    "bloating",
+    "belly ache",
+    "poor appetite"
+  ],
+  "press": {
+    "text": "Lying down, a light fingertip touch, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not during sharp belly pain or vomiting."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki20",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "BL34",
+  "name": {
+    "en": "Xialiao",
+    "gloss": "The Lower Bone-Hollow",
+    "zh-Hant": "下髎",
+    "zh-Hans": "下髎"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 34,
+    "of": 67
+  },
+  "location": {
+    "text": "骶骨下端附近的第四个小凹陷，在中髎穴稍下偏内处。"
+  },
+  "for": [
+    "小腹痛",
+    "便秘",
+    "腰骶痛"
+  ],
+  "press": {
+    "text": "双手反到背后，以指腹按揉，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期或可能怀孕时不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl34",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "SI5",
+  "name": {
+    "en": "Yanggu",
+    "gloss": "Yang Valley",
+    "zh-Hant": "陽谷",
+    "zh-Hans": "阳谷"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 5,
+    "of": 19
+  },
+  "location": {
+    "text": "手腕外侧小指侧，前臂骨突与腕骨之间的凹陷。"
+  },
+  "for": [
+    "腕臂外侧痛",
+    "耳鸣",
+    "牙痛"
+  ],
+  "press": {
+    "text": "两指指腹慢慢打圈，每侧一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/si5",
+  "lastReviewed": "2026-08-24"
+}

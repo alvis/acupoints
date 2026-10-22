@@ -1,0 +1,33 @@
+{
+  "id": "HT9",
+  "name": {
+    "en": "Shaochong",
+    "gloss": "Lesser Surge",
+    "zh-Hant": "少衝",
+    "zh-Hans": "少冲"
+  },
+  "channel": {
+    "id": "HT",
+    "order": 9,
+    "of": 9
+  },
+  "location": {
+    "text": "小指靠无名指一侧，指甲角旁。"
+  },
+  "for": [
+    "心悸",
+    "发热",
+    "胸胁痛"
+  ],
+  "press": {
+    "text": "以指腹轻而稳地按，每手一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "指甲旁有倒刺或破皮时不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/ht9",
+  "lastReviewed": "2026-08-24"
+}

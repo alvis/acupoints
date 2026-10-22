@@ -1,0 +1,32 @@
+{
+  "id": "CV6",
+  "name": {
+    "en": "Qihai",
+    "gloss": "Sea of Qi",
+    "zh-Hant": "氣海",
+    "zh-Hans": "气海"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 6,
+    "of": 24
+  },
+  "location": {
+    "text": "On the midline of the lower belly, two finger-widths below the navel."
+  },
+  "for": [
+    "belly pain",
+    "constipation or loose stools",
+    "low energy"
+  ],
+  "press": {
+    "text": "Gentle with the palm or fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv6",
+  "lastReviewed": "2026-08-24"
+}

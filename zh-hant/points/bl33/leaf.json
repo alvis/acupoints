@@ -1,0 +1,32 @@
+{
+  "id": "BL33",
+  "name": {
+    "en": "Zhongliao",
+    "gloss": "The Middle Bone-Hole",
+    "zh-Hant": "中髎",
+    "zh-Hans": "中髎"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 33,
+    "of": 67
+  },
+  "location": {
+    "text": "骶骨上第三個小凹陷，在次髎穴稍下偏內處。"
+  },
+  "for": [
+    "月經不調",
+    "便秘",
+    "腰骶痛"
+  ],
+  "press": {
+    "text": "雙手反到背後，以指腹按揉，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期或可能懷孕時不按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/bl33",
+  "lastReviewed": "2026-08-25"
+}

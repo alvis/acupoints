@@ -1,0 +1,32 @@
+{
+  "id": "KI19",
+  "name": {
+    "en": "Yindu",
+    "gloss": "Yin Metropolis",
+    "zh-Hant": "陰都",
+    "zh-Hans": "阴都"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 19,
+    "of": 27
+  },
+  "location": {
+    "text": "肚臍與胸骨下端連線的中點，前正中線旁開半拇指寬。"
+  },
+  "for": [
+    "腹痛",
+    "腹瀉或便秘",
+    "月經不調"
+  ],
+  "press": {
+    "text": "平躺，以指尖輕觸約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期請先諮詢醫師。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/ki19",
+  "lastReviewed": "2026-08-24"
+}

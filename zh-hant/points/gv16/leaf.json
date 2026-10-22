@@ -1,0 +1,30 @@
+{
+  "id": "GV16",
+  "name": {
+    "en": "Fengfu",
+    "gloss": "Mansion of Wind",
+    "zh-Hant": "風府",
+    "zh-Hans": "风府"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 16,
+    "of": 28
+  },
+  "location": {
+    "text": "後髮際正中直上一拇指寬，枕骨隆突下方、兩條頸部大筋之間的凹陷。"
+  },
+  "for": [
+    "頭痛",
+    "頸項僵硬",
+    "咽喉腫痛"
+  ],
+  "press": {
+    "text": "以指尖輕按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gv16",
+  "lastReviewed": "2026-08-24"
+}

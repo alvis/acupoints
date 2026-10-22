@@ -1,0 +1,31 @@
+{
+  "id": "KI11",
+  "name": {
+    "en": "Henggu",
+    "gloss": "Horizontal Bone",
+    "zh-Hant": "橫骨",
+    "zh-Hans": "横骨"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 11,
+    "of": 27
+  },
+  "location": {
+    "text": "Just above the top edge of the pubic bone, half a thumb-width out from the midline."
+  },
+  "for": [
+    "lower belly ache",
+    "difficult urination"
+  ],
+  "press": {
+    "text": "Lying down, a light fingertip touch, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki11",
+  "lastReviewed": "2026-08-24"
+}

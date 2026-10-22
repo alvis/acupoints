@@ -1,0 +1,30 @@
+{
+  "id": "GB9",
+  "name": {
+    "en": "Tianchong",
+    "gloss": "Heavenly Rush",
+    "zh-Hant": "天衝",
+    "zh-Hans": "天冲"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 9,
+    "of": 44
+  },
+  "location": {
+    "text": "耳上后方：由耳尖直上两横指处，再往后半拇指宽。"
+  },
+  "for": [
+    "头痛",
+    "耳鸣",
+    "牙痛"
+  ],
+  "press": {
+    "text": "指腹轻按头皮，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/zh-cn/points/gb9",
+  "lastReviewed": "2026-08-24"
+}

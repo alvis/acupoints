@@ -1,0 +1,32 @@
+{
+  "id": "BL38",
+  "name": {
+    "en": "Fuxi",
+    "gloss": "The Floating Cleft",
+    "zh-Hant": "浮郄",
+    "zh-Hans": "浮郄"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 38,
+    "of": 67
+  },
+  "location": {
+    "text": "膝后横纹外端上方一拇指宽，外侧筋腱的内缘。"
+  },
+  "for": [
+    "大腿及膝后麻痛",
+    "抽筋"
+  ],
+  "press": {
+    "text": "坐下屈膝，以指腹按，每条腿约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "筋腱旁有神经经过，宜轻按，有麻感即放轻。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl38",
+  "lastReviewed": "2026-08-24"
+}

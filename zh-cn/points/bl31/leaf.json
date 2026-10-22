@@ -1,0 +1,32 @@
+{
+  "id": "BL31",
+  "name": {
+    "en": "Shangliao",
+    "gloss": "Upper Bone-Hollow",
+    "zh-Hant": "上髎",
+    "zh-Hans": "上髎"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 31,
+    "of": 67
+  },
+  "location": {
+    "text": "骶骨上第一个小凹陷，在腰窝与脊柱正中线之间。"
+  },
+  "for": [
+    "月经不调",
+    "腰骶痛",
+    "小便不利"
+  ],
+  "press": {
+    "text": "双手反到背后，以指腹按揉，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期或可能怀孕时不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl31",
+  "lastReviewed": "2026-08-25"
+}

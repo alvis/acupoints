@@ -1,0 +1,30 @@
+{
+  "id": "GV24",
+  "name": {
+    "en": "Shenting",
+    "gloss": "Spirit Courtyard",
+    "zh-Hant": "神庭",
+    "zh-Hans": "神庭"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 24,
+    "of": 28
+  },
+  "location": {
+    "text": "前发际正中直上半拇指宽，正对鼻梁上方。"
+  },
+  "for": [
+    "头痛",
+    "失眠",
+    "鼻塞"
+  ],
+  "press": {
+    "text": "轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gv24",
+  "lastReviewed": "2026-08-24"
+}

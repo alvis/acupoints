@@ -1,0 +1,33 @@
+{
+  "id": "PC1",
+  "name": {
+    "en": "Tianchi",
+    "gloss": "Heavenly Pool",
+    "zh-Hant": "天池",
+    "zh-Hans": "天池"
+  },
+  "channel": {
+    "id": "PC",
+    "order": 1,
+    "of": 9
+  },
+  "location": {
+    "text": "In the rib space level with the nipple, one thumb-width outside it."
+  },
+  "for": [
+    "cough",
+    "pain at the side of the ribs",
+    "low breast milk"
+  ],
+  "press": {
+    "text": "A light fingertip touch on the surface, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Light touch only; never press in between the ribs."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/pc1",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GV22",
+  "name": {
+    "en": "Xinhui",
+    "gloss": "Fontanelle Meeting",
+    "zh-Hant": "囟會",
+    "zh-Hans": "囟会"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 22,
+    "of": 28
+  },
+  "location": {
+    "text": "頭部正中線，前髮際正中直上兩拇指寬。"
+  },
+  "for": [
+    "頭痛",
+    "頭暈",
+    "鼻塞"
+  ],
+  "press": {
+    "text": "輕按，約一分鐘；僅限成人。",
+    "seconds": 60
+  },
+  "cautions": [
+    "切勿按壓嬰兒囟門：嬰兒此處顱骨尚未閉合。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gv22",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "LI1",
+  "name": {
+    "en": "Shangyang",
+    "gloss": "Shang Note, Yang Side",
+    "zh-Hant": "商陽",
+    "zh-Hans": "商阳"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 1,
+    "of": 20
+  },
+  "location": {
+    "text": "食指指甲角旁，靠拇指一侧。"
+  },
+  "for": [
+    "牙痛",
+    "喉咙痛",
+    "发烧"
+  ],
+  "press": {
+    "text": "用另一手指甲边缘一按一放，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/li1",
+  "lastReviewed": "2026-08-24"
+}

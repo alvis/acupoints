@@ -1,0 +1,33 @@
+{
+  "id": "SP16",
+  "name": {
+    "en": "Fu’ai",
+    "gloss": "Belly’s Sorrow",
+    "zh-Hant": "腹哀",
+    "zh-Hans": "腹哀"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 16,
+    "of": 21
+  },
+  "location": {
+    "text": "Straight down from the nipple, four finger-widths above the level of the navel."
+  },
+  "for": [
+    "belly pain",
+    "indigestion",
+    "constipation"
+  ],
+  "press": {
+    "text": "Gentle finger pads, one minute each side; not after a heavy meal.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Not on the belly in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/sp16",
+  "lastReviewed": "2026-08-24"
+}

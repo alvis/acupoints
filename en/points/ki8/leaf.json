@@ -1,0 +1,33 @@
+{
+  "id": "KI8",
+  "name": {
+    "en": "Jiaoxin",
+    "gloss": "Crossing and Trust",
+    "zh-Hant": "交信",
+    "zh-Hans": "交信"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 8,
+    "of": 27
+  },
+  "location": {
+    "text": "Three finger-widths above the inner ankle, just behind the inner edge of the shin bone."
+  },
+  "for": [
+    "painful periods",
+    "belly ache",
+    "inner-knee pain"
+  ],
+  "press": {
+    "text": "Lighter than most: fingertip touch, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "In pregnancy or with circulation problems, ask a practitioner first."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki8",
+  "lastReviewed": "2026-08-24"
+}

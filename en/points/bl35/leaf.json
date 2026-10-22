@@ -1,0 +1,31 @@
+{
+  "id": "BL35",
+  "name": {
+    "en": "Huiyang",
+    "gloss": "Meeting of Yang",
+    "zh-Hant": "會陽",
+    "zh-Hans": "会阳"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 35,
+    "of": 67
+  },
+  "location": {
+    "text": "Beside the tip of the tailbone, about half a thumb-width to each side."
+  },
+  "for": [
+    "haemorrhoids",
+    "loose stools"
+  ],
+  "press": {
+    "text": "Through clothing, light fingertip pressure, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Skip during a painful haemorrhoid flare or over sore or broken skin."
+  ],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 4",
+  "url": "https://acupoints.com/en/points/bl35",
+  "lastReviewed": "2026-08-24"
+}

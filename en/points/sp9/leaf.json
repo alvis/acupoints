@@ -1,0 +1,31 @@
+{
+  "id": "SP9",
+  "name": {
+    "en": "Yinlingquan",
+    "gloss": "Spring Beneath the Yin Mound",
+    "zh-Hant": "陰陵泉",
+    "zh-Hans": "阴陵泉"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 9,
+    "of": 21
+  },
+  "location": {
+    "text": "On the inner leg just below the knee, in the hollow under the knob at the top of the shinbone."
+  },
+  "for": [
+    "bloating",
+    "swelling from fluid",
+    "knee pain"
+  ],
+  "press": {
+    "text": "Two finger pads, slow circles, one minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/sp9",
+  "lastReviewed": "2026-08-24"
+}

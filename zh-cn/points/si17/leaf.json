@@ -1,0 +1,31 @@
+{
+  "id": "SI17",
+  "name": {
+    "en": "Tianrong",
+    "gloss": "Heavenly Countenance",
+    "zh-Hant": "天容",
+    "zh-Hans": "天容"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 17,
+    "of": 19
+  },
+  "location": {
+    "text": "下颌角后方，颈部斜行大肌前缘的凹陷。"
+  },
+  "for": [
+    "耳鸣",
+    "咽喉肿痛"
+  ],
+  "press": {
+    "text": "轻触，一次一侧，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "附近有颈部大血管，摸到脉动即移开。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/si17",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "GB44",
+  "name": {
+    "en": "Zuqiaoyin",
+    "gloss": "Foot Yin Aperture",
+    "zh-Hant": "足竅陰",
+    "zh-Hans": "足窍阴"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 44,
+    "of": 44
+  },
+  "location": {
+    "text": "第四趾外側，趾甲角旁。"
+  },
+  "for": [
+    "頭痛",
+    "失眠多夢",
+    "咽喉痛"
+  ],
+  "press": {
+    "text": "指腹在趾甲旁輕按，每腳約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期、糖尿病或足部麻木者，請先徵詢醫師意見。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gb44",
+  "lastReviewed": "2026-08-24"
+}

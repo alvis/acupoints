@@ -1,0 +1,32 @@
+{
+  "id": "SI14",
+  "name": {
+    "en": "Jianwaishu",
+    "gloss": "Outer Shu of the Shoulder",
+    "zh-Hant": "肩外俞",
+    "zh-Hans": "肩外俞"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 14,
+    "of": 19
+  },
+  "location": {
+    "text": "上背部，頸根大骨突稍下方的水平，脊柱旁開四橫指。"
+  },
+  "for": [
+    "肩背痛",
+    "頸項強"
+  ],
+  "press": {
+    "text": "兩指指腹慢慢打圈，每側一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "下方是肺，只宜輕按，切勿用力。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/si14",
+  "lastReviewed": "2026-08-24"
+}

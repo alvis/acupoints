@@ -1,0 +1,33 @@
+{
+  "id": "BL55",
+  "name": {
+    "en": "Heyang",
+    "gloss": "Union of Yang",
+    "zh-Hant": "合陽",
+    "zh-Hans": "合阳"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 55,
+    "of": 67
+  },
+  "location": {
+    "text": "小腿后侧，膝后横纹正中直下约三横指。"
+  },
+  "for": [
+    "腰痛",
+    "膝痛",
+    "双腿无力"
+  ],
+  "press": {
+    "text": "以拇指稍用力按，每条腿约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "小腿突然肿、热、痛时不按，并应就医。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl55",
+  "lastReviewed": "2026-08-24"
+}

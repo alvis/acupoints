@@ -1,0 +1,30 @@
+{
+  "id": "GB24",
+  "name": {
+    "en": "Riyue",
+    "gloss": "Sun and Moon",
+    "zh-Hant": "日月",
+    "zh-Hans": "日月"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 24,
+    "of": 44
+  },
+  "location": {
+    "text": "乳頭直下，期門下一個肋間，近肋弓邊緣。"
+  },
+  "for": [
+    "吞酸",
+    "打嗝",
+    "脅肋痛"
+  ],
+  "press": {
+    "text": "指腹輕按肋間，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/gb24",
+  "lastReviewed": "2026-08-24"
+}

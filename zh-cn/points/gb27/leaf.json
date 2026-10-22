@@ -1,0 +1,31 @@
+{
+  "id": "GB27",
+  "name": {
+    "en": "Wushu",
+    "gloss": "Five Pivots",
+    "zh-Hant": "五樞",
+    "zh-Hans": "五枢"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 27,
+    "of": 44
+  },
+  "location": {
+    "text": "髂骨前上棘前方，与肚脐下四横指处同高。"
+  },
+  "for": [
+    "小腹痛",
+    "腰痛",
+    "便秘"
+  ],
+  "press": {
+    "text": "指腹轻按，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gb27",
+  "lastReviewed": "2026-08-24"
+}

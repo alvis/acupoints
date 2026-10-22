@@ -1,0 +1,29 @@
+{
+  "id": "GB31",
+  "name": {
+    "en": "Fengshi",
+    "gloss": "The Wind Market",
+    "zh-Hant": "風市",
+    "zh-Hans": "风市"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 31,
+    "of": 44
+  },
+  "location": {
+    "text": "Stand with arms hanging: on the outer thigh, where the tip of the middle finger rests."
+  },
+  "for": [
+    "numb or weak legs",
+    "itching all over"
+  ],
+  "press": {
+    "text": "Steady fingertip pressure, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/en/points/gb31",
+  "lastReviewed": "2026-08-24"
+}

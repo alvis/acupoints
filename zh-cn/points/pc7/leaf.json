@@ -1,0 +1,30 @@
+{
+  "id": "PC7",
+  "name": {
+    "en": "Daling",
+    "gloss": "Great Mound",
+    "zh-Hant": "大陵",
+    "zh-Hans": "大陵"
+  },
+  "channel": {
+    "id": "PC",
+    "order": 7,
+    "of": 9
+  },
+  "location": {
+    "text": "腕掌侧横纹的中点，两条肌腱之间。"
+  },
+  "for": [
+    "心悸",
+    "胃痛",
+    "手腕疼痛"
+  ],
+  "press": {
+    "text": "以指尖轻柔按压，每侧手腕约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/pc7",
+  "lastReviewed": "2026-08-24"
+}

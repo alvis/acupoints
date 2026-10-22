@@ -1,0 +1,32 @@
+{
+  "id": "LV9",
+  "name": {
+    "en": "Yinbao",
+    "gloss": "The Wrapping of Yin",
+    "zh-Hant": "陰包",
+    "zh-Hans": "阴包"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 9,
+    "of": 14
+  },
+  "location": {
+    "text": "大腿內側，膝內側骨突上四拇指寬，兩肌之間的縫中。"
+  },
+  "for": [
+    "小腹痛牽引腰骶",
+    "月經不調"
+  ],
+  "press": {
+    "text": "指腹輕按，每條腿約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "有靜脈曲張、瘀傷或皮膚破損處不按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/lv9",
+  "lastReviewed": "2026-08-24"
+}

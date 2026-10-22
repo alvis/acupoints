@@ -1,0 +1,32 @@
+{
+  "id": "CV5",
+  "name": {
+    "en": "Shimen",
+    "gloss": "Stone Gate",
+    "zh-Hant": "石門",
+    "zh-Hans": "石门"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 5,
+    "of": 24
+  },
+  "location": {
+    "text": "下腹正中线，肚脐下两拇指宽。"
+  },
+  "for": [
+    "腹痛",
+    "腹泻",
+    "小便不利"
+  ],
+  "press": {
+    "text": "以指腹轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/cv5",
+  "lastReviewed": "2026-08-24"
+}

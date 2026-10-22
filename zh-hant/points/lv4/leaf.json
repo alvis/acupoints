@@ -1,0 +1,33 @@
+{
+  "id": "LV4",
+  "name": {
+    "en": "Zhongfeng",
+    "gloss": "Central Boundary",
+    "zh-Hant": "中封",
+    "zh-Hans": "中封"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 4,
+    "of": 14
+  },
+  "location": {
+    "text": "內踝前方，翹起腳趾時浮起的肌腱內側凹陷中。"
+  },
+  "for": [
+    "小腹痛",
+    "腳踝腫痛",
+    "腹脹"
+  ],
+  "press": {
+    "text": "指腹輕按，每腳約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "剛扭傷或腳踝腫脹時不按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/lv4",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "CV6",
+  "name": {
+    "en": "Qihai",
+    "gloss": "Sea of Qi",
+    "zh-Hant": "氣海",
+    "zh-Hans": "气海"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 6,
+    "of": 24
+  },
+  "location": {
+    "text": "下腹正中线，肚脐下两横指。"
+  },
+  "for": [
+    "腹痛",
+    "便秘或腹泻",
+    "气虚乏力"
+  ],
+  "press": {
+    "text": "以掌心或指腹轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/cv6",
+  "lastReviewed": "2026-08-24"
+}

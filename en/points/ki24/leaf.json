@@ -1,0 +1,32 @@
+{
+  "id": "KI24",
+  "name": {
+    "en": "Lingxu",
+    "gloss": "Spirit Mound",
+    "zh-Hant": "靈墟",
+    "zh-Hans": "灵墟"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 24,
+    "of": 27
+  },
+  "location": {
+    "text": "In the third rib space below the collarbone, halfway between the breastbone and the nipple line."
+  },
+  "for": [
+    "cough with much phlegm",
+    "aching chest and ribs"
+  ],
+  "press": {
+    "text": "A light fingertip touch, briefer than elsewhere, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Light touch only; never press in between the ribs."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki24",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "GB21",
+  "name": {
+    "en": "Jianjing",
+    "gloss": "Shoulder Well",
+    "zh-Hant": "肩井",
+    "zh-Hans": "肩井"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 21,
+    "of": 44
+  },
+  "location": {
+    "text": "On top of the shoulder, halfway between the bony bump at the base of the neck and the tip of the shoulder."
+  },
+  "for": [
+    "stiff neck",
+    "aching shoulders and upper back"
+  ],
+  "press": {
+    "text": "Gentle pressure through relaxed muscle, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Not in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gb21",
+  "lastReviewed": "2026-08-24"
+}

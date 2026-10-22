@@ -1,0 +1,31 @@
+{
+  "id": "LI8",
+  "name": {
+    "en": "Xialian",
+    "gloss": "Lower Edge",
+    "zh-Hant": "下廉",
+    "zh-Hans": "下廉"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 8,
+    "of": 20
+  },
+  "location": {
+    "text": "前臂背面靠拇指一側，從肘橫紋外端到手腕的三分之一處。"
+  },
+  "for": [
+    "肘臂痛",
+    "頭痛",
+    "腹脹"
+  ],
+  "press": {
+    "text": "拇指稍用力按，每臂約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/li8",
+  "lastReviewed": "2026-08-24"
+}

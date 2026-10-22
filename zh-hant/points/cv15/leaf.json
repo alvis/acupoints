@@ -1,0 +1,30 @@
+{
+  "id": "CV15",
+  "name": {
+    "en": "Jiuwei",
+    "gloss": "Dove's Tail",
+    "zh-Hant": "鳩尾",
+    "zh-Hans": "鸠尾"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 15,
+    "of": 24
+  },
+  "location": {
+    "text": "上腹正中線，胸骨下端劍突往下一拇指寬。"
+  },
+  "for": [
+    "胸悶",
+    "心悸",
+    "打嗝"
+  ],
+  "press": {
+    "text": "輕按，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/cv15",
+  "lastReviewed": "2026-08-24"
+}

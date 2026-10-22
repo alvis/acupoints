@@ -1,0 +1,30 @@
+{
+  "id": "KI5",
+  "name": {
+    "en": "Shuiquan",
+    "gloss": "Water Spring",
+    "zh-Hant": "水泉",
+    "zh-Hans": "水泉"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 5,
+    "of": 27
+  },
+  "location": {
+    "text": "One thumb-width straight below the hollow behind the inner ankle, on the inner side of the heel bone."
+  },
+  "for": [
+    "painful or irregular periods",
+    "difficult urination"
+  ],
+  "press": {
+    "text": "Gentle finger pressure, about a minute, then the other foot.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 5",
+  "url": "https://acupoints.com/en/points/ki5",
+  "lastReviewed": "2026-08-24"
+}

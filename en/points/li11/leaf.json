@@ -1,0 +1,31 @@
+{
+  "id": "LI11",
+  "name": {
+    "en": "Quchi",
+    "gloss": "Bent Pool",
+    "zh-Hant": "曲池",
+    "zh-Hans": "曲池"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 11,
+    "of": 20
+  },
+  "location": {
+    "text": "Bend the elbow: halfway between the outer end of the crease and the bony knob on the outside of the elbow."
+  },
+  "for": [
+    "an aching arm",
+    "fever",
+    "itchy skin"
+  ],
+  "press": {
+    "text": "Firm thumb pressure, about a minute each arm.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/li11",
+  "lastReviewed": "2026-08-24"
+}

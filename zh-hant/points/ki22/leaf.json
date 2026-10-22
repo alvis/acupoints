@@ -1,0 +1,33 @@
+{
+  "id": "KI22",
+  "name": {
+    "en": "Bulang",
+    "gloss": "Stepping Corridor",
+    "zh-Hant": "步廊",
+    "zh-Hans": "步廊"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 22,
+    "of": 27
+  },
+  "location": {
+    "text": "乳頭所在肋間的下一個肋間，胸骨正中與乳頭連線的中點。"
+  },
+  "for": [
+    "咳嗽",
+    "氣喘",
+    "胸痛"
+  ],
+  "press": {
+    "text": "以指尖輕觸皮膚表面，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "只可輕觸，切勿往肋間深按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/ki22",
+  "lastReviewed": "2026-08-24"
+}

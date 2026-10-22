@@ -1,0 +1,31 @@
+{
+  "id": "LI17",
+  "name": {
+    "en": "Tianding",
+    "gloss": "Heaven's Cauldron",
+    "zh-Hant": "天鼎",
+    "zh-Hans": "天鼎"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 17,
+    "of": 20
+  },
+  "location": {
+    "text": "頸側，胸鎖乳突肌後緣，喉結高度與鎖骨之間的中點。"
+  },
+  "for": [
+    "聲音沙啞",
+    "喉嚨痛"
+  ],
+  "press": {
+    "text": "輕觸，一次只按一側，約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [
+    "不可按在脈搏上，也不可兩側同時按。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/li17",
+  "lastReviewed": "2026-08-24"
+}

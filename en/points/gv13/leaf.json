@@ -1,0 +1,30 @@
+{
+  "id": "GV13",
+  "name": {
+    "en": "Taodao",
+    "gloss": "Potter's Way",
+    "zh-Hant": "陶道",
+    "zh-Hans": "陶道"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 13,
+    "of": 28
+  },
+  "location": {
+    "text": "On the spine, below the first thoracic bump: one bump down from the big bone at the base of the neck."
+  },
+  "for": [
+    "fever",
+    "headache",
+    "a stiff neck"
+  ],
+  "press": {
+    "text": "Firm with the fingertips over the shoulder, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv13",
+  "lastReviewed": "2026-08-24"
+}

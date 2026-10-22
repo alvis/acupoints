@@ -1,0 +1,32 @@
+{
+  "id": "GB13",
+  "name": {
+    "en": "Benshen",
+    "gloss": "Root of the Spirit",
+    "zh-Hant": "本神",
+    "zh-Hans": "本神"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 13,
+    "of": 44
+  },
+  "location": {
+    "text": "Above the outer corner of the eye, half a thumb-width inside the front hairline."
+  },
+  "for": [
+    "headache",
+    "dizziness",
+    "poor sleep"
+  ],
+  "press": {
+    "text": "Gentle fingertip pressure, about a minute; keep fingers clear of the eyes.",
+    "seconds": 60
+  },
+  "cautions": [
+    "In pregnancy, ask a practitioner first."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gb13",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "CV15",
+  "name": {
+    "en": "Jiuwei",
+    "gloss": "Dove's Tail",
+    "zh-Hant": "鳩尾",
+    "zh-Hans": "鸠尾"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 15,
+    "of": 24
+  },
+  "location": {
+    "text": "On the midline, one thumb-width below the small tab at the lower tip of the breastbone."
+  },
+  "for": [
+    "chest tightness",
+    "palpitations",
+    "hiccups"
+  ],
+  "press": {
+    "text": "Gentle, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv15",
+  "lastReviewed": "2026-08-24"
+}

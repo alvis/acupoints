@@ -1,0 +1,32 @@
+{
+  "id": "LU8",
+  "name": {
+    "en": "Jingqu",
+    "gloss": "Channel Ditch",
+    "zh-Hant": "經渠",
+    "zh-Hans": "经渠"
+  },
+  "channel": {
+    "id": "LU",
+    "order": 8,
+    "of": 11
+  },
+  "location": {
+    "text": "手腕内侧靠拇指一侧，腕横纹上一拇指宽，骨突与脉搏之间。"
+  },
+  "for": [
+    "咳嗽",
+    "喉咙痛",
+    "手腕痛"
+  ],
+  "press": {
+    "text": "在脉搏旁轻按，不压脉搏，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "此穴在腕部脉搏旁，只按旁边，不压脉上。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/lu8",
+  "lastReviewed": "2026-08-24"
+}

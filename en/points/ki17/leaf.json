@@ -1,0 +1,32 @@
+{
+  "id": "KI17",
+  "name": {
+    "en": "Shangqu",
+    "gloss": "The Bent Note of Shang",
+    "zh-Hant": "商曲",
+    "zh-Hans": "商曲"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 17,
+    "of": 27
+  },
+  "location": {
+    "text": "Three finger-widths above the navel, half a thumb-width out from the midline."
+  },
+  "for": [
+    "belching",
+    "bloating",
+    "fullness under the ribs"
+  ],
+  "press": {
+    "text": "Lying down, a light fingertip touch, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "In pregnancy, ask a practitioner first."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/ki17",
+  "lastReviewed": "2026-08-25"
+}

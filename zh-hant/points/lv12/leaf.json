@@ -1,0 +1,30 @@
+{
+  "id": "LV12",
+  "name": {
+    "en": "Jimai",
+    "gloss": "Urgent Pulse",
+    "zh-Hant": "急脈",
+    "zh-Hans": "急脉"
+  },
+  "channel": {
+    "id": "LV",
+    "order": 12,
+    "of": 14
+  },
+  "location": {
+    "text": "腹股溝褶中，恥骨外側，可摸到大腿動脈搏動處。"
+  },
+  "for": [
+    "小腹痛",
+    "腹股溝痛"
+  ],
+  "press": {
+    "text": "勿壓動脈，只在脈旁極輕觸碰。",
+    "pressable": false
+  },
+  "cautions": [
+    "切勿按壓脈搏處；有腫塊或淋巴結腫大時不碰。"
+  ],
+  "url": "https://acupoints.com/zh-hant/points/lv12",
+  "lastReviewed": "2026-08-24"
+}

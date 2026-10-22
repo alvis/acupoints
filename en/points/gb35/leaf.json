@@ -1,0 +1,31 @@
+{
+  "id": "GB35",
+  "name": {
+    "en": "Yangjiao",
+    "gloss": "Yang Crossing",
+    "zh-Hant": "陽交",
+    "zh-Hans": "阳交"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 35,
+    "of": 44
+  },
+  "location": {
+    "text": "Seven thumb-widths above the outer anklebone, on the back edge of the fibula."
+  },
+  "for": [
+    "weak legs",
+    "knee pain",
+    "tight chest and ribs"
+  ],
+  "press": {
+    "text": "Steady fingertip pressure, about a minute each leg.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 5",
+  "url": "https://acupoints.com/en/points/gb35",
+  "lastReviewed": "2026-08-24"
+}

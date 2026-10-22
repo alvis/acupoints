@@ -1,0 +1,31 @@
+{
+  "id": "PC5",
+  "name": {
+    "en": "Jianshi",
+    "gloss": "The Intermediary Envoy",
+    "zh-Hant": "間使",
+    "zh-Hans": "间使"
+  },
+  "channel": {
+    "id": "PC",
+    "order": 5,
+    "of": 9
+  },
+  "location": {
+    "text": "前臂掌侧，腕横纹上四横指，两条肌腱之间。"
+  },
+  "for": [
+    "心悸",
+    "胃痛",
+    "咽喉痛"
+  ],
+  "press": {
+    "text": "以指尖轻按，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/pc5",
+  "lastReviewed": "2026-08-24"
+}

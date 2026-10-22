@@ -1,0 +1,33 @@
+{
+  "id": "ST22",
+  "name": {
+    "en": "Guanmen",
+    "gloss": "Pass Gate",
+    "zh-Hant": "關門",
+    "zh-Hans": "关门"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 22,
+    "of": 45
+  },
+  "location": {
+    "text": "腹部，脐上四横指，前正中线旁开三横指。"
+  },
+  "for": [
+    "腹胀",
+    "腹痛",
+    "腹泻"
+  ],
+  "press": {
+    "text": "手指平放轻按，每侧约一分钟，饱餐后不按。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按腹部。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/st22",
+  "lastReviewed": "2026-08-24"
+}

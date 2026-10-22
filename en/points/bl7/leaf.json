@@ -1,0 +1,31 @@
+{
+  "id": "BL7",
+  "name": {
+    "en": "Tongtian",
+    "gloss": "Reaching Heaven",
+    "zh-Hant": "通天",
+    "zh-Hans": "通天"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 7,
+    "of": 67
+  },
+  "location": {
+    "text": "Near the top of the head, two finger-widths behind BL6 and two finger-widths out from the centre line."
+  },
+  "for": [
+    "headache",
+    "a stuffy nose",
+    "sinus trouble"
+  ],
+  "press": {
+    "text": "Small circles with two fingertips, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl7",
+  "lastReviewed": "2026-08-24"
+}

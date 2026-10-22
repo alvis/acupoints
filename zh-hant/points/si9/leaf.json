@@ -1,0 +1,30 @@
+{
+  "id": "SI9",
+  "name": {
+    "en": "Jianzhen",
+    "gloss": "Shoulder’s Steadfastness",
+    "zh-Hant": "肩貞",
+    "zh-Hans": "肩贞"
+  },
+  "channel": {
+    "id": "SI",
+    "order": 9,
+    "of": 19
+  },
+  "location": {
+    "text": "手臂自然下垂，腋後紋頭上一拇指寬。"
+  },
+  "for": [
+    "肩臂疼痛",
+    "耳鳴"
+  ],
+  "press": {
+    "text": "兩指指腹慢慢打圈，每側一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/si9",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "CV9",
+  "name": {
+    "en": "Shuifen",
+    "gloss": "Water Divide",
+    "zh-Hant": "水分",
+    "zh-Hans": "水分"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 9,
+    "of": 24
+  },
+  "location": {
+    "text": "腹部正中线，肚脐上一拇指宽。"
+  },
+  "for": [
+    "腹痛",
+    "腹泻",
+    "水肿"
+  ],
+  "press": {
+    "text": "以指腹轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/cv9",
+  "lastReviewed": "2026-08-25"
+}

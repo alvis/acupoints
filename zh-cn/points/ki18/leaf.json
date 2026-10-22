@@ -1,0 +1,32 @@
+{
+  "id": "KI18",
+  "name": {
+    "en": "Shiguan",
+    "gloss": "Stone Pass",
+    "zh-Hant": "石關",
+    "zh-Hans": "石关"
+  },
+  "channel": {
+    "id": "KI",
+    "order": 18,
+    "of": 27
+  },
+  "location": {
+    "text": "肚脐上四横指，前正中线旁开半拇指宽。"
+  },
+  "for": [
+    "呕吐",
+    "腹痛",
+    "便秘"
+  ],
+  "press": {
+    "text": "平躺，以指尖轻触约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期请先咨询医师。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/ki18",
+  "lastReviewed": "2026-08-24"
+}

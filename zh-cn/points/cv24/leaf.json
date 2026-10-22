@@ -1,0 +1,30 @@
+{
+  "id": "CV24",
+  "name": {
+    "en": "Chengjiang",
+    "gloss": "Receiving the Fluids",
+    "zh-Hant": "承漿",
+    "zh-Hans": "承浆"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 24,
+    "of": 24
+  },
+  "location": {
+    "text": "下巴正中，下唇下方颏唇沟的中央凹陷。"
+  },
+  "for": [
+    "牙龈肿痛",
+    "流口水",
+    "口疮"
+  ],
+  "press": {
+    "text": "以指尖轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/cv24",
+  "lastReviewed": "2026-08-24"
+}

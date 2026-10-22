@@ -1,0 +1,32 @@
+{
+  "id": "LU8",
+  "name": {
+    "en": "Jingqu",
+    "gloss": "Channel Ditch",
+    "zh-Hant": "經渠",
+    "zh-Hans": "经渠"
+  },
+  "channel": {
+    "id": "LU",
+    "order": 8,
+    "of": 11
+  },
+  "location": {
+    "text": "On the thumb side of the inner wrist, one thumb-width above the crease, between the wrist bone and the pulse."
+  },
+  "for": [
+    "cough",
+    "sore throat",
+    "wrist pain"
+  ],
+  "press": {
+    "text": "Light pressure beside the pulse, never on it, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "It sits beside the wrist pulse; press next to it, never on it."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/lu8",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "SP11",
+  "name": {
+    "en": "Jimen",
+    "gloss": "Gate of the Winnowing Basket",
+    "zh-Hant": "箕門",
+    "zh-Hans": "箕门"
+  },
+  "channel": {
+    "id": "SP",
+    "order": 11,
+    "of": 21
+  },
+  "location": {
+    "text": "大腿內側，血海上方兩個手掌寬，朝腹股溝方向。"
+  },
+  "for": [
+    "腹股溝腫痛",
+    "小便不利",
+    "遺尿"
+  ],
+  "press": {
+    "text": "以掌根或指腹輕按大腿肌肉，每側一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "避開腹股溝摺痕及有脈動處。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/sp11",
+  "lastReviewed": "2026-08-24"
+}

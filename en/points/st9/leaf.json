@@ -1,0 +1,32 @@
+{
+  "id": "ST9",
+  "name": {
+    "en": "Renying",
+    "gloss": "Man's Welcome",
+    "zh-Hant": "人迎",
+    "zh-Hans": "人迎"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 9,
+    "of": 45
+  },
+  "location": {
+    "text": "On the neck, level with the Adam's apple, at the front edge of the long neck muscle, where the neck pulse beats."
+  },
+  "for": [
+    "sore throat",
+    "a swollen neck",
+    "a tight chest"
+  ],
+  "press": {
+    "text": "Do not press: the point lies right on the carotid artery.",
+    "pressable": false
+  },
+  "cautions": [
+    "Over the carotid artery; keep pressure off the neck pulse."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st9",
+  "lastReviewed": "2026-08-24"
+}

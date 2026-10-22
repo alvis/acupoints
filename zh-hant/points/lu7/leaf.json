@@ -1,0 +1,30 @@
+{
+  "id": "LU7",
+  "name": {
+    "en": "Lieque",
+    "gloss": "Broken Sequence",
+    "zh-Hant": "列缺",
+    "zh-Hans": "列缺"
+  },
+  "channel": {
+    "id": "LU",
+    "order": 7,
+    "of": 11
+  },
+  "location": {
+    "text": "兩手虎口交叉，上方食指尖落在腕上骨突的小凹溝中。"
+  },
+  "for": [
+    "咳嗽",
+    "頭痛",
+    "頸項僵硬"
+  ],
+  "press": {
+    "text": "用指尖按約一分鐘，再換另一腕。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/lu7",
+  "lastReviewed": "2026-08-24"
+}

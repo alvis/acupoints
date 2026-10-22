@@ -1,0 +1,32 @@
+{
+  "id": "BL32",
+  "name": {
+    "en": "Ciliao",
+    "gloss": "Second Bone-Hole",
+    "zh-Hant": "次髎",
+    "zh-Hans": "次髎"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 32,
+    "of": 67
+  },
+  "location": {
+    "text": "In the second small hollow on the sacrum, just below and inside the low-back dimple."
+  },
+  "for": [
+    "period pain",
+    "low back ache",
+    "difficult urination"
+  ],
+  "press": {
+    "text": "Reach behind and press with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not in pregnancy, or if you could be pregnant."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl32",
+  "lastReviewed": "2026-08-24"
+}

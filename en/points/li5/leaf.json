@@ -1,0 +1,30 @@
+{
+  "id": "LI5",
+  "name": {
+    "en": "Yangxi",
+    "gloss": "Yang Ravine",
+    "zh-Hant": "陽溪",
+    "zh-Hans": "阳溪"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 5,
+    "of": 20
+  },
+  "location": {
+    "text": "Lift the thumb: on the thumb side of the back of the wrist, in the hollow between the two tendons."
+  },
+  "for": [
+    "wrist pain",
+    "headache",
+    "toothache"
+  ],
+  "press": {
+    "text": "Fingertip pressure into the hollow, about a minute each wrist.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/li5",
+  "lastReviewed": "2026-08-24"
+}

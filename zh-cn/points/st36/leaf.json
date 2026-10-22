@@ -1,0 +1,31 @@
+{
+  "id": "ST36",
+  "name": {
+    "en": "Zusanli",
+    "gloss": "Leg Three Miles",
+    "zh-Hant": "足三里",
+    "zh-Hans": "足三里"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 36,
+    "of": 45
+  },
+  "location": {
+    "text": "膝盖下四横指，胫骨外侧一横指处。"
+  },
+  "for": [
+    "肠胃不适",
+    "疲倦",
+    "双腿沉重"
+  ],
+  "press": {
+    "text": "稍用力按，每条腿一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《灵枢·本输》",
+  "url": "https://acupoints.com/zh-cn/points/st36",
+  "lastReviewed": "2026-08-24"
+}

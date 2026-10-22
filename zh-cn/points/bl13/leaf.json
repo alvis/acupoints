@@ -1,0 +1,33 @@
+{
+  "id": "BL13",
+  "name": {
+    "en": "Feishu",
+    "gloss": "Lung Transport",
+    "zh-Hant": "肺俞",
+    "zh-Hans": "肺俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 13,
+    "of": 67
+  },
+  "location": {
+    "text": "第七颈椎往下第三个骨突下方，脊柱旁开两横指。"
+  },
+  "for": [
+    "咳嗽",
+    "气短",
+    "盗汗"
+  ],
+  "press": {
+    "text": "请家人用拇指轻按，每侧约一分钟。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "下方是肺，只宜轻按，切勿用力。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl13",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "LU1",
+  "name": {
+    "en": "Zhongfu",
+    "gloss": "Central Treasury",
+    "zh-Hant": "中府",
+    "zh-Hans": "中府"
+  },
+  "channel": {
+    "id": "LU",
+    "order": 1,
+    "of": 11
+  },
+  "location": {
+    "text": "肩前，锁骨外端下方的凹陷处，再往下约一拇指宽。"
+  },
+  "for": [
+    "咳嗽",
+    "气喘",
+    "胸闷胀痛"
+  ],
+  "press": {
+    "text": "轻轻按压，每侧约一分钟，慢慢呼吸。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/lu1",
+  "lastReviewed": "2026-08-24"
+}

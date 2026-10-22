@@ -1,0 +1,32 @@
+{
+  "id": "BL32",
+  "name": {
+    "en": "Ciliao",
+    "gloss": "Second Bone-Hole",
+    "zh-Hant": "次髎",
+    "zh-Hans": "次髎"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 32,
+    "of": 67
+  },
+  "location": {
+    "text": "骶骨上第二个小凹陷，在腰窝稍下偏内处。"
+  },
+  "for": [
+    "经痛",
+    "腰骶痛",
+    "小便不利"
+  ],
+  "press": {
+    "text": "双手反到背后，以指腹按揉，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [
+    "孕期或可能怀孕时不按。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/bl32",
+  "lastReviewed": "2026-08-24"
+}

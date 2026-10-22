@@ -1,0 +1,33 @@
+{
+  "id": "TH6",
+  "name": {
+    "en": "Zhigou",
+    "gloss": "Branch Ditch",
+    "zh-Hant": "支溝",
+    "zh-Hans": "支沟"
+  },
+  "channel": {
+    "id": "TH",
+    "order": 6,
+    "of": 23
+  },
+  "location": {
+    "text": "腕背橫紋上四橫指，前臂兩骨之間。"
+  },
+  "for": [
+    "便秘",
+    "脅肋痛",
+    "肩臂痛"
+  ],
+  "press": {
+    "text": "以指尖輕按，每側約一分鐘。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期請先諮詢醫師。"
+  ],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/th6",
+  "lastReviewed": "2026-08-25"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "CV21",
+  "name": {
+    "en": "Xuanji",
+    "gloss": "Jade Pivot",
+    "zh-Hant": "璇璣",
+    "zh-Hans": "璇玑"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 21,
+    "of": 24
+  },
+  "location": {
+    "text": "胸骨正中线，胸骨上窝往下一拇指宽。"
+  },
+  "for": [
+    "咳嗽",
+    "咽喉肿痛",
+    "胸部胀满"
+  ],
+  "press": {
+    "text": "在胸骨上轻按，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/cv21",
+  "lastReviewed": "2026-08-24"
+}

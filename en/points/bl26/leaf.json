@@ -1,0 +1,29 @@
+{
+  "id": "BL26",
+  "name": {
+    "en": "Guanyuanshu",
+    "gloss": "Transport of the Origin Pass",
+    "zh-Hant": "關元俞",
+    "zh-Hans": "关元俞"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 26,
+    "of": 67
+  },
+  "location": {
+    "text": "One bump below the line joining the tops of the hip bones (below the fifth lumbar bump), two finger-widths from the spine."
+  },
+  "for": [
+    "low back and tailbone ache",
+    "bloating",
+    "frequent urination"
+  ],
+  "press": {
+    "text": "Hands on hips, press with the thumbs, fairly firm, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "url": "https://acupoints.com/en/points/bl26",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "GB23",
+  "name": {
+    "en": "Zhejin",
+    "gloss": "Carriage Boards and Sinew",
+    "zh-Hant": "輒筋",
+    "zh-Hans": "辄筋"
+  },
+  "channel": {
+    "id": "GB",
+    "order": 23,
+    "of": 44
+  },
+  "location": {
+    "text": "胸侧，与乳头同高，渊腋前一拇指宽的肋间。"
+  },
+  "for": [
+    "胸胁胀痛",
+    "吞酸"
+  ],
+  "press": {
+    "text": "指腹轻按肋间，约一分钟。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/gb23",
+  "lastReviewed": "2026-08-24"
+}

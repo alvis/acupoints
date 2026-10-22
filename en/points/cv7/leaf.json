@@ -1,0 +1,32 @@
+{
+  "id": "CV7",
+  "name": {
+    "en": "Yinjiao",
+    "gloss": "Yin Intersection",
+    "zh-Hant": "陰交",
+    "zh-Hans": "阴交"
+  },
+  "channel": {
+    "id": "CV",
+    "order": 7,
+    "of": 24
+  },
+  "location": {
+    "text": "On the midline of the lower belly, one thumb-width below the navel."
+  },
+  "for": [
+    "belly pain",
+    "loose stools",
+    "irregular periods"
+  ],
+  "press": {
+    "text": "Gentle with the fingertips, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/cv7",
+  "lastReviewed": "2026-08-24"
+}

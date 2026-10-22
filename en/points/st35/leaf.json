@@ -1,0 +1,32 @@
+{
+  "id": "ST35",
+  "name": {
+    "en": "Dubi",
+    "gloss": "Calf's Nose",
+    "zh-Hant": "犢鼻",
+    "zh-Hans": "犊鼻"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 35,
+    "of": 45
+  },
+  "location": {
+    "text": "Knee bent: in the outer hollow just below the kneecap, beside the thick tendon."
+  },
+  "for": [
+    "knee pain",
+    "a stiff knee",
+    "numbness at the knee"
+  ],
+  "press": {
+    "text": "Fingertip pressure into the hollow, knee bent, about a minute each knee.",
+    "seconds": 60
+  },
+  "cautions": [
+    "Not on a knee with broken or weeping skin."
+  ],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 5",
+  "url": "https://acupoints.com/en/points/st35",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "GV23",
+  "name": {
+    "en": "Shangxing",
+    "gloss": "Upper Star",
+    "zh-Hant": "上星",
+    "zh-Hans": "上星"
+  },
+  "channel": {
+    "id": "GV",
+    "order": 23,
+    "of": 28
+  },
+  "location": {
+    "text": "On the midline of the head, one thumb-width inside the front hairline."
+  },
+  "for": [
+    "headache",
+    "a blocked nose",
+    "red and sore eyes"
+  ],
+  "press": {
+    "text": "Gentle, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/gv23",
+  "lastReviewed": "2026-08-24"
+}

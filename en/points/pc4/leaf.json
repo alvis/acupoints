@@ -1,0 +1,32 @@
+{
+  "id": "PC4",
+  "name": {
+    "en": "Ximen",
+    "gloss": "Cleft Gate",
+    "zh-Hant": "郄門",
+    "zh-Hans": "郄门"
+  },
+  "channel": {
+    "id": "PC",
+    "order": 4,
+    "of": 9
+  },
+  "location": {
+    "text": "On the palm side of the forearm, about seven finger-widths above the wrist crease, between the two tendons."
+  },
+  "for": [
+    "palpitations",
+    "hiccups"
+  ],
+  "press": {
+    "text": "Light fingertip pressure, about a minute each arm.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "New chest pain or fainting needs urgent care; in pregnancy, ask first."
+  ],
+  "source": "Tongren Shuxue Zhenjiu Tujing, book 5",
+  "url": "https://acupoints.com/en/points/pc4",
+  "lastReviewed": "2026-08-24"
+}

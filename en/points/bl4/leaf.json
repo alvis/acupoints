@@ -1,0 +1,31 @@
+{
+  "id": "BL4",
+  "name": {
+    "en": "Qucha",
+    "gloss": "Winding Deviation",
+    "zh-Hant": "曲差",
+    "zh-Hans": "曲差"
+  },
+  "channel": {
+    "id": "BL",
+    "order": 4,
+    "of": 67
+  },
+  "location": {
+    "text": "Half a thumb-width inside the front hairline, two finger-widths out from the centre line."
+  },
+  "for": [
+    "headache",
+    "dizziness",
+    "a blocked nose"
+  ],
+  "press": {
+    "text": "Small circles with two fingertips, about a minute each side.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/bl4",
+  "lastReviewed": "2026-08-25"
+}

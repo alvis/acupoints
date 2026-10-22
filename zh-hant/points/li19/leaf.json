@@ -1,0 +1,30 @@
+{
+  "id": "LI19",
+  "name": {
+    "en": "Kouheliao",
+    "gloss": "Grain Hollow by the Mouth",
+    "zh-Hant": "口禾髎",
+    "zh-Hans": "口禾髎"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 19,
+    "of": 20
+  },
+  "location": {
+    "text": "上唇，鼻孔外緣正下方，與人中同高。"
+  },
+  "for": [
+    "鼻塞",
+    "流鼻水",
+    "流鼻血"
+  ],
+  "press": {
+    "text": "以指尖輕按約一分鐘。",
+    "seconds": 60
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/li19",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ST21",
+  "name": {
+    "en": "Liangmen",
+    "gloss": "Beam Gate",
+    "zh-Hant": "梁門",
+    "zh-Hans": "梁门"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 21,
+    "of": 45
+  },
+  "location": {
+    "text": "上腹部，前正中线旁开三横指，肚脐与胸骨下端之间的中点高度。"
+  },
+  "for": [
+    "胃痛",
+    "呕吐",
+    "腹泻"
+  ],
+  "press": {
+    "text": "手指平放轻按，每侧约一分钟，饱餐后不按。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "孕期不按腹部。"
+  ],
+  "source": "《针灸甲乙经·卷三》",
+  "url": "https://acupoints.com/zh-cn/points/st21",
+  "lastReviewed": "2026-08-24"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "LU5",
+  "name": {
+    "en": "Chize",
+    "gloss": "Cubit Marsh",
+    "zh-Hant": "尺澤",
+    "zh-Hans": "尺泽"
+  },
+  "channel": {
+    "id": "LU",
+    "order": 5,
+    "of": 11
+  },
+  "location": {
+    "text": "肘橫紋上，彎肘時摸到的粗筋靠拇指一側。"
+  },
+  "for": [
+    "咳嗽",
+    "喉嚨痛",
+    "手肘痛"
+  ],
+  "press": {
+    "text": "拇指按入凹陷約一分鐘，再換另一手。",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [],
+  "source": "《針灸甲乙經·卷三》",
+  "url": "https://acupoints.com/zh-hant/points/lu5",
+  "lastReviewed": "2026-08-24"
+}

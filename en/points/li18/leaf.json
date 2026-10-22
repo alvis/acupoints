@@ -1,0 +1,32 @@
+{
+  "id": "LI18",
+  "name": {
+    "en": "Futu",
+    "gloss": "Supporting the Prominence",
+    "zh-Hant": "扶突",
+    "zh-Hans": "扶突"
+  },
+  "channel": {
+    "id": "LI",
+    "order": 18,
+    "of": 20
+  },
+  "location": {
+    "text": "On the side of the neck, level with the Adam's apple, in the groove between the front and back edges of the long neck muscle."
+  },
+  "for": [
+    "sore throat",
+    "sudden hoarseness",
+    "cough"
+  ],
+  "press": {
+    "text": "Light touch only, one side at a time, about a minute.",
+    "seconds": 60
+  },
+  "cautions": [
+    "The carotid pulse is close: if you feel it, move off. Never both sides."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/li18",
+  "lastReviewed": "2026-08-24"
+}

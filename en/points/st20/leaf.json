@@ -1,0 +1,33 @@
+{
+  "id": "ST20",
+  "name": {
+    "en": "Chengman",
+    "gloss": "Holding Fullness",
+    "zh-Hant": "承滿",
+    "zh-Hans": "承满"
+  },
+  "channel": {
+    "id": "ST",
+    "order": 20,
+    "of": 45
+  },
+  "location": {
+    "text": "On the upper belly, three finger-widths out from the midline, one thumb-width below ST19."
+  },
+  "for": [
+    "stomach ache",
+    "bloating",
+    "poor appetite"
+  ],
+  "press": {
+    "text": "Gentle flat-finger pressure, about a minute each side, not after a big meal.",
+    "seconds": 60,
+    "sides": "both"
+  },
+  "cautions": [
+    "Not on the belly in pregnancy."
+  ],
+  "source": "Zhenjiu Jiayi Jing, book 3",
+  "url": "https://acupoints.com/en/points/st20",
+  "lastReviewed": "2026-08-24"
+}
